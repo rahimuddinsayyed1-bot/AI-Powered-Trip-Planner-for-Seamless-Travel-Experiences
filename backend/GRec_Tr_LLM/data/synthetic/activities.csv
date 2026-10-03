@@ -1,0 +1,201 @@
+activity_id,dest_id,name,price,duration_hours,category
+Goa_A0,Goa,Goa Activity 0,3924.58,1.8,Hiking
+Goa_A1,Goa,Goa Activity 1,3799.57,3.0,Water Sports
+Goa_A2,Goa,Goa Activity 2,1091.32,3.8,Relaxation
+Goa_A3,Goa,Goa Activity 3,4239.18,2.8,Relaxation
+Kerala_A0,Kerala,Kerala Activity 0,2898.26,4.0,Water Sports
+Kerala_A1,Kerala,Kerala Activity 1,1509.42,3.6,Museum
+Kerala_A2,Kerala,Kerala Activity 2,3041.24,2.4,Museum
+Kerala_A3,Kerala,Kerala Activity 3,4125.49,3.5,Water Sports
+Jaipur_A0,Jaipur,Jaipur Activity 0,775.62,3.1,Water Sports
+Jaipur_A1,Jaipur,Jaipur Activity 1,1029.01,3.2,Museum
+Jaipur_A2,Jaipur,Jaipur Activity 2,4864.31,2.3,Food Tour
+Jaipur_A3,Jaipur,Jaipur Activity 3,1060.62,1.9,Food Tour
+Udaipur_A0,Udaipur,Udaipur Activity 0,726.71,2.1,Museum
+Udaipur_A1,Udaipur,Udaipur Activity 1,3728.58,2.0,Food Tour
+Udaipur_A2,Udaipur,Udaipur Activity 2,4114.14,3.7,Sightseeing
+Udaipur_A3,Udaipur,Udaipur Activity 3,3885.83,3.1,Hiking
+Agra_A0,Agra,Agra Activity 0,1079.19,1.4,Relaxation
+Agra_A1,Agra,Agra Activity 1,1771.99,3.9,Relaxation
+Agra_A2,Agra,Agra Activity 2,2415.41,2.7,Sightseeing
+Agra_A3,Agra,Agra Activity 3,1798.39,3.9,Relaxation
+Varanasi_A0,Varanasi,Varanasi Activity 0,1074.92,3.9,Hiking
+Varanasi_A1,Varanasi,Varanasi Activity 1,2197.62,1.9,Sightseeing
+Varanasi_A2,Varanasi,Varanasi Activity 2,1073.44,2.9,Hiking
+Varanasi_A3,Varanasi,Varanasi Activity 3,1024.53,1.6,Sightseeing
+Delhi_A0,Delhi,Delhi Activity 0,2901.31,2.8,Sightseeing
+Delhi_A1,Delhi,Delhi Activity 1,3821.93,1.6,Relaxation
+Delhi_A2,Delhi,Delhi Activity 2,611.43,1.9,Hiking
+Delhi_A3,Delhi,Delhi Activity 3,3245.02,1.8,Food Tour
+Mumbai_A0,Mumbai,Mumbai Activity 0,846.13,3.2,Water Sports
+Mumbai_A1,Mumbai,Mumbai Activity 1,4377.55,1.5,Relaxation
+Mumbai_A2,Mumbai,Mumbai Activity 2,4932.43,1.7,Food Tour
+Mumbai_A3,Mumbai,Mumbai Activity 3,1794.77,3.6,Food Tour
+Hyderabad_A0,Hyderabad,Hyderabad Activity 0,3438.89,3.4,Water Sports
+Hyderabad_A1,Hyderabad,Hyderabad Activity 1,880.37,3.9,Relaxation
+Hyderabad_A2,Hyderabad,Hyderabad Activity 2,2526.43,1.8,Hiking
+Hyderabad_A3,Hyderabad,Hyderabad Activity 3,912.14,1.9,Sightseeing
+Bengaluru_A0,Bengaluru,Bengaluru Activity 0,1250.39,2.8,Relaxation
+Bengaluru_A1,Bengaluru,Bengaluru Activity 1,4678.12,2.0,Food Tour
+Bengaluru_A2,Bengaluru,Bengaluru Activity 2,1722.68,3.5,Food Tour
+Bengaluru_A3,Bengaluru,Bengaluru Activity 3,2079.31,1.4,Hiking
+Chennai_A0,Chennai,Chennai Activity 0,3115.83,3.3,Food Tour
+Chennai_A1,Chennai,Chennai Activity 1,1622.56,1.0,Museum
+Chennai_A2,Chennai,Chennai Activity 2,2220.95,1.1,Sightseeing
+Chennai_A3,Chennai,Chennai Activity 3,4615.89,1.5,Hiking
+Kolkata_A0,Kolkata,Kolkata Activity 0,4558.03,1.7,Food Tour
+Kolkata_A1,Kolkata,Kolkata Activity 1,3543.1,1.9,Relaxation
+Kolkata_A2,Kolkata,Kolkata Activity 2,1792.02,1.1,Water Sports
+Kolkata_A3,Kolkata,Kolkata Activity 3,4487.82,1.9,Sightseeing
+Amritsar_A0,Amritsar,Amritsar Activity 0,1141.1,3.3,Sightseeing
+Amritsar_A1,Amritsar,Amritsar Activity 1,515.91,2.4,Relaxation
+Amritsar_A2,Amritsar,Amritsar Activity 2,3310.37,2.7,Hiking
+Amritsar_A3,Amritsar,Amritsar Activity 3,1642.31,3.9,Food Tour
+Rishikesh_A0,Rishikesh,Rishikesh Activity 0,2897.36,3.6,Museum
+Rishikesh_A1,Rishikesh,Rishikesh Activity 1,3916.65,3.8,Relaxation
+Rishikesh_A2,Rishikesh,Rishikesh Activity 2,3182.92,2.8,Hiking
+Rishikesh_A3,Rishikesh,Rishikesh Activity 3,3962.21,1.1,Sightseeing
+Manali_A0,Manali,Manali Activity 0,732.69,2.0,Museum
+Manali_A1,Manali,Manali Activity 1,2805.88,3.1,Museum
+Manali_A2,Manali,Manali Activity 2,2645.51,3.8,Sightseeing
+Manali_A3,Manali,Manali Activity 3,2037.11,3.9,Museum
+Shimla_A0,Shimla,Shimla Activity 0,1261.17,1.9,Museum
+Shimla_A1,Shimla,Shimla Activity 1,1518.17,2.9,Relaxation
+Shimla_A2,Shimla,Shimla Activity 2,2724.6,1.6,Sightseeing
+Shimla_A3,Shimla,Shimla Activity 3,1050.66,2.5,Relaxation
+Leh_A0,Leh,Leh Activity 0,3063.88,1.3,Water Sports
+Leh_A1,Leh,Leh Activity 1,2739.67,1.6,Sightseeing
+Leh_A2,Leh,Leh Activity 2,3176.68,1.1,Hiking
+Leh_A3,Leh,Leh Activity 3,3173.68,1.5,Food Tour
+Srinagar_A0,Srinagar,Srinagar Activity 0,3537.18,3.9,Relaxation
+Srinagar_A1,Srinagar,Srinagar Activity 1,3181.31,2.3,Water Sports
+Srinagar_A2,Srinagar,Srinagar Activity 2,838.81,3.2,Hiking
+Srinagar_A3,Srinagar,Srinagar Activity 3,1699.46,2.5,Water Sports
+Darjeeling_A0,Darjeeling,Darjeeling Activity 0,4104.23,2.9,Food Tour
+Darjeeling_A1,Darjeeling,Darjeeling Activity 1,2270.7,2.7,Hiking
+Darjeeling_A2,Darjeeling,Darjeeling Activity 2,4337.43,1.6,Museum
+Darjeeling_A3,Darjeeling,Darjeeling Activity 3,4252.44,1.2,Water Sports
+Sikkim_A0,Sikkim,Sikkim Activity 0,745.51,2.3,Hiking
+Sikkim_A1,Sikkim,Sikkim Activity 1,3863.53,2.7,Museum
+Sikkim_A2,Sikkim,Sikkim Activity 2,2893.03,3.4,Food Tour
+Sikkim_A3,Sikkim,Sikkim Activity 3,1727.23,3.3,Museum
+Ooty_A0,Ooty,Ooty Activity 0,4940.32,1.2,Sightseeing
+Ooty_A1,Ooty,Ooty Activity 1,1387.09,3.3,Museum
+Ooty_A2,Ooty,Ooty Activity 2,3917.93,3.5,Water Sports
+Ooty_A3,Ooty,Ooty Activity 3,1532.2,3.4,Food Tour
+Mysuru_A0,Mysuru,Mysuru Activity 0,4675.6,3.9,Relaxation
+Mysuru_A1,Mysuru,Mysuru Activity 1,1635.81,3.1,Food Tour
+Mysuru_A2,Mysuru,Mysuru Activity 2,785.38,1.8,Water Sports
+Mysuru_A3,Mysuru,Mysuru Activity 3,1036.21,2.8,Hiking
+Coorg_A0,Coorg,Coorg Activity 0,3990.66,3.8,Relaxation
+Coorg_A1,Coorg,Coorg Activity 1,2593.29,2.0,Sightseeing
+Coorg_A2,Coorg,Coorg Activity 2,1980.92,2.8,Water Sports
+Coorg_A3,Coorg,Coorg Activity 3,3937.67,2.9,Sightseeing
+Pondicherry_A0,Pondicherry,Pondicherry Activity 0,2431.38,1.9,Relaxation
+Pondicherry_A1,Pondicherry,Pondicherry Activity 1,2021.16,1.3,Sightseeing
+Pondicherry_A2,Pondicherry,Pondicherry Activity 2,2057.75,2.8,Relaxation
+Pondicherry_A3,Pondicherry,Pondicherry Activity 3,4029.89,2.5,Sightseeing
+Andaman_A0,Andaman,Andaman Activity 0,4448.1,1.5,Water Sports
+Andaman_A1,Andaman,Andaman Activity 1,4580.77,3.7,Hiking
+Andaman_A2,Andaman,Andaman Activity 2,1911.88,1.7,Hiking
+Andaman_A3,Andaman,Andaman Activity 3,1514.13,2.0,Sightseeing
+Lakshadweep_A0,Lakshadweep,Lakshadweep Activity 0,1249.3,2.8,Water Sports
+Lakshadweep_A1,Lakshadweep,Lakshadweep Activity 1,3673.26,3.1,Food Tour
+Lakshadweep_A2,Lakshadweep,Lakshadweep Activity 2,2814.36,3.4,Relaxation
+Lakshadweep_A3,Lakshadweep,Lakshadweep Activity 3,1514.22,2.0,Relaxation
+Ranthambore_A0,Ranthambore,Ranthambore Activity 0,2145.24,2.2,Museum
+Ranthambore_A1,Ranthambore,Ranthambore Activity 1,2875.35,1.9,Hiking
+Ranthambore_A2,Ranthambore,Ranthambore Activity 2,1890.8,3.0,Sightseeing
+Ranthambore_A3,Ranthambore,Ranthambore Activity 3,3829.33,2.8,Relaxation
+Jaisalmer_A0,Jaisalmer,Jaisalmer Activity 0,4033.71,3.3,Museum
+Jaisalmer_A1,Jaisalmer,Jaisalmer Activity 1,1376.82,1.3,Relaxation
+Jaisalmer_A2,Jaisalmer,Jaisalmer Activity 2,3305.0,3.4,Food Tour
+Jaisalmer_A3,Jaisalmer,Jaisalmer Activity 3,2446.92,3.0,Food Tour
+Jodhpur_A0,Jodhpur,Jodhpur Activity 0,4884.7,2.5,Water Sports
+Jodhpur_A1,Jodhpur,Jodhpur Activity 1,4076.08,1.0,Relaxation
+Jodhpur_A2,Jodhpur,Jodhpur Activity 2,4314.68,1.3,Hiking
+Jodhpur_A3,Jodhpur,Jodhpur Activity 3,3419.59,2.2,Hiking
+Munnar_A0,Munnar,Munnar Activity 0,2824.77,3.6,Food Tour
+Munnar_A1,Munnar,Munnar Activity 1,2644.48,3.1,Sightseeing
+Munnar_A2,Munnar,Munnar Activity 2,3766.39,2.6,Sightseeing
+Munnar_A3,Munnar,Munnar Activity 3,4748.27,3.9,Sightseeing
+Wayanad_A0,Wayanad,Wayanad Activity 0,1596.38,2.2,Sightseeing
+Wayanad_A1,Wayanad,Wayanad Activity 1,4847.3,3.5,Food Tour
+Wayanad_A2,Wayanad,Wayanad Activity 2,4265.94,3.2,Water Sports
+Wayanad_A3,Wayanad,Wayanad Activity 3,4231.04,1.1,Water Sports
+Hampi_A0,Hampi,Hampi Activity 0,4023.75,3.2,Food Tour
+Hampi_A1,Hampi,Hampi Activity 1,986.75,1.2,Sightseeing
+Hampi_A2,Hampi,Hampi Activity 2,4363.47,1.8,Relaxation
+Hampi_A3,Hampi,Hampi Activity 3,2694.7,1.9,Hiking
+Gokarna_A0,Gokarna,Gokarna Activity 0,3223.52,3.8,Hiking
+Gokarna_A1,Gokarna,Gokarna Activity 1,1828.92,3.1,Food Tour
+Gokarna_A2,Gokarna,Gokarna Activity 2,4748.84,2.6,Water Sports
+Gokarna_A3,Gokarna,Gokarna Activity 3,2254.98,1.6,Hiking
+Kodaikanal_A0,Kodaikanal,Kodaikanal Activity 0,4187.28,4.0,Relaxation
+Kodaikanal_A1,Kodaikanal,Kodaikanal Activity 1,1847.81,1.1,Sightseeing
+Kodaikanal_A2,Kodaikanal,Kodaikanal Activity 2,4760.82,3.1,Food Tour
+Kodaikanal_A3,Kodaikanal,Kodaikanal Activity 3,4689.16,1.1,Hiking
+Mahabaleshwar_A0,Mahabaleshwar,Mahabaleshwar Activity 0,1061.24,2.5,Sightseeing
+Mahabaleshwar_A1,Mahabaleshwar,Mahabaleshwar Activity 1,1223.86,3.1,Museum
+Mahabaleshwar_A2,Mahabaleshwar,Mahabaleshwar Activity 2,3583.8,3.5,Sightseeing
+Mahabaleshwar_A3,Mahabaleshwar,Mahabaleshwar Activity 3,944.91,2.1,Relaxation
+Nashik_A0,Nashik,Nashik Activity 0,2749.18,1.5,Museum
+Nashik_A1,Nashik,Nashik Activity 1,3571.44,3.1,Hiking
+Nashik_A2,Nashik,Nashik Activity 2,4422.93,1.6,Relaxation
+Nashik_A3,Nashik,Nashik Activity 3,3196.46,3.0,Museum
+Ajanta_Ellora_A0,Ajanta_Ellora,Ajanta_Ellora Activity 0,1829.26,1.3,Sightseeing
+Ajanta_Ellora_A1,Ajanta_Ellora,Ajanta_Ellora Activity 1,2522.82,3.1,Food Tour
+Ajanta_Ellora_A2,Ajanta_Ellora,Ajanta_Ellora Activity 2,3483.86,1.5,Food Tour
+Ajanta_Ellora_A3,Ajanta_Ellora,Ajanta_Ellora Activity 3,4860.26,4.0,Water Sports
+Kutch_A0,Kutch,Kutch Activity 0,1312.7,1.4,Sightseeing
+Kutch_A1,Kutch,Kutch Activity 1,3510.2,1.1,Sightseeing
+Kutch_A2,Kutch,Kutch Activity 2,4209.29,1.2,Food Tour
+Kutch_A3,Kutch,Kutch Activity 3,530.09,2.1,Food Tour
+Jim_Corbett_A0,Jim_Corbett,Jim_Corbett Activity 0,1940.59,3.8,Hiking
+Jim_Corbett_A1,Jim_Corbett,Jim_Corbett Activity 1,3705.46,2.3,Hiking
+Jim_Corbett_A2,Jim_Corbett,Jim_Corbett Activity 2,1547.11,2.4,Food Tour
+Jim_Corbett_A3,Jim_Corbett,Jim_Corbett Activity 3,3465.53,1.5,Relaxation
+Kaziranga_A0,Kaziranga,Kaziranga Activity 0,813.75,3.7,Relaxation
+Kaziranga_A1,Kaziranga,Kaziranga Activity 1,3910.78,2.8,Food Tour
+Kaziranga_A2,Kaziranga,Kaziranga Activity 2,4115.75,2.2,Water Sports
+Kaziranga_A3,Kaziranga,Kaziranga Activity 3,2524.84,2.7,Museum
+Meghalaya_A0,Meghalaya,Meghalaya Activity 0,4837.19,3.3,Sightseeing
+Meghalaya_A1,Meghalaya,Meghalaya Activity 1,2278.9,1.5,Museum
+Meghalaya_A2,Meghalaya,Meghalaya Activity 2,1994.56,1.2,Relaxation
+Meghalaya_A3,Meghalaya,Meghalaya Activity 3,1221.52,2.1,Sightseeing
+Tawang_A0,Tawang,Tawang Activity 0,4398.28,1.9,Relaxation
+Tawang_A1,Tawang,Tawang Activity 1,4159.64,2.8,Water Sports
+Tawang_A2,Tawang,Tawang Activity 2,3702.44,3.5,Museum
+Tawang_A3,Tawang,Tawang Activity 3,1379.32,2.6,Sightseeing
+Khajuraho_A0,Khajuraho,Khajuraho Activity 0,2860.59,3.9,Food Tour
+Khajuraho_A1,Khajuraho,Khajuraho Activity 1,2887.15,2.4,Water Sports
+Khajuraho_A2,Khajuraho,Khajuraho Activity 2,4247.52,2.1,Relaxation
+Khajuraho_A3,Khajuraho,Khajuraho Activity 3,1787.11,3.1,Sightseeing
+Bodh_Gaya_A0,Bodh_Gaya,Bodh_Gaya Activity 0,3051.3,2.1,Water Sports
+Bodh_Gaya_A1,Bodh_Gaya,Bodh_Gaya Activity 1,2252.77,3.3,Relaxation
+Bodh_Gaya_A2,Bodh_Gaya,Bodh_Gaya Activity 2,4630.31,2.0,Hiking
+Bodh_Gaya_A3,Bodh_Gaya,Bodh_Gaya Activity 3,3350.53,3.3,Museum
+Visakhapatnam_A0,Visakhapatnam,Visakhapatnam Activity 0,3177.06,3.5,Museum
+Visakhapatnam_A1,Visakhapatnam,Visakhapatnam Activity 1,2662.58,1.4,Water Sports
+Visakhapatnam_A2,Visakhapatnam,Visakhapatnam Activity 2,4529.72,2.6,Relaxation
+Visakhapatnam_A3,Visakhapatnam,Visakhapatnam Activity 3,1985.27,1.1,Food Tour
+Rann_of_Kutch_A0,Rann_of_Kutch,Rann_of_Kutch Activity 0,943.64,1.2,Water Sports
+Rann_of_Kutch_A1,Rann_of_Kutch,Rann_of_Kutch Activity 1,810.2,2.7,Water Sports
+Rann_of_Kutch_A2,Rann_of_Kutch,Rann_of_Kutch Activity 2,582.25,3.3,Hiking
+Rann_of_Kutch_A3,Rann_of_Kutch,Rann_of_Kutch Activity 3,2161.49,3.0,Sightseeing
+Madurai_A0,Madurai,Madurai Activity 0,1676.07,2.1,Sightseeing
+Madurai_A1,Madurai,Madurai Activity 1,1284.48,1.5,Museum
+Madurai_A2,Madurai,Madurai Activity 2,1912.5,3.5,Food Tour
+Madurai_A3,Madurai,Madurai Activity 3,1792.84,3.7,Food Tour
+Puri_A0,Puri,Puri Activity 0,3606.99,3.6,Relaxation
+Puri_A1,Puri,Puri Activity 1,1078.47,3.0,Sightseeing
+Puri_A2,Puri,Puri Activity 2,916.83,3.4,Water Sports
+Puri_A3,Puri,Puri Activity 3,951.61,3.5,Sightseeing
+Rajasthan_A0,Rajasthan,Rajasthan Activity 0,3238.82,1.2,Hiking
+Rajasthan_A1,Rajasthan,Rajasthan Activity 1,2308.43,3.5,Sightseeing
+Rajasthan_A2,Rajasthan,Rajasthan Activity 2,2122.01,2.0,Hiking
+Rajasthan_A3,Rajasthan,Rajasthan Activity 3,4829.35,3.5,Relaxation
+Madhya_Pradesh_A0,Madhya_Pradesh,Madhya_Pradesh Activity 0,3446.29,1.0,Museum
+Madhya_Pradesh_A1,Madhya_Pradesh,Madhya_Pradesh Activity 1,1084.69,3.5,Relaxation
+Madhya_Pradesh_A2,Madhya_Pradesh,Madhya_Pradesh Activity 2,4222.87,1.3,Food Tour
+Madhya_Pradesh_A3,Madhya_Pradesh,Madhya_Pradesh Activity 3,1248.91,2.2,Water Sports

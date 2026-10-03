@@ -1,0 +1,201 @@
+hotel_id,dest_id,name,price_per_night,rating
+Goa_H0,Goa,W Goa,18000.0,4.6
+Goa_H1,Goa,ITC Grand Goa Resort & Spa,16000.0,4.7
+Goa_H2,Goa,The Leela Goa,28000.0,4.7
+Goa_H3,Goa,"Taj Exotica Resort & Spa, Goa",22000.0,4.8
+Kerala_H0,Kerala,Kumarakom Lake Resort,20000.0,4.8
+Kerala_H1,Kerala,Grand Hyatt Kochi Bolgatty,14000.0,4.8
+Kerala_H2,Kerala,"Taj Malabar Resort & Spa, Cochin",15000.0,4.7
+Kerala_H3,Kerala,"The Leela Ashtamudi, A Raviz Hotel",18000.0,4.6
+Jaipur_H0,Jaipur,Rambagh Palace,45000.0,4.9
+Jaipur_H1,Jaipur,Taj Jai Mahal Palace,25000.0,4.7
+Jaipur_H2,Jaipur,The Oberoi Rajvilas,35000.0,4.8
+Jaipur_H3,Jaipur,ITC Rajputana,15000.0,4.6
+Udaipur_H0,Udaipur,The Leela Palace Udaipur,38000.0,4.8
+Udaipur_H1,Udaipur,Taj Lake Palace,45000.0,4.9
+Udaipur_H2,Udaipur,The Oberoi Udaivilas,42000.0,4.9
+Udaipur_H3,Udaipur,"Aurika, Udaipur",12000.0,4.7
+Agra_H0,Agra,"ITC Mughal, A Luxury Collection Resort",8500.0,4.6
+Agra_H1,Agra,Courtyard by Marriott Agra,4500.0,4.4
+Agra_H2,Agra,Taj Hotel & Convention Centre,6500.0,4.5
+Agra_H3,Agra,The Oberoi Amarvilas,35000.0,4.9
+Varanasi_H0,Varanasi,goSTOPS Varanasi,978.0,4.2
+Varanasi_H1,Varanasi,Royal Guest House,1009.0,4.1
+Varanasi_H2,Varanasi,Hotel Le Lotus Grand,2889.0,4.2
+Varanasi_H3,Varanasi,"Hotel Surya, Kaiser Palace",4214.0,4.2
+Delhi_H0,Delhi,"ITC Maurya, a Luxury Collection Hotel",18000.0,4.7
+Delhi_H1,Delhi,"The Taj Mahal Hotel, New Delhi",20000.0,4.8
+Delhi_H2,Delhi,The Leela Palace New Delhi,25000.0,4.9
+Delhi_H3,Delhi,"The Oberoi, New Delhi",28000.0,4.9
+Mumbai_H0,Mumbai,The Oberoi Mumbai,25000.0,4.8
+Mumbai_H1,Mumbai,ITC Maratha,14000.0,4.5
+Mumbai_H2,Mumbai,The Taj Mahal Palace,35000.0,4.9
+Mumbai_H3,Mumbai,Trident Nariman Point,15000.0,4.6
+Hyderabad_H0,Hyderabad,ITC Kohenur,16000.0,4.8
+Hyderabad_H1,Hyderabad,Taj Falaknuma Palace,45000.0,4.9
+Hyderabad_H2,Hyderabad,The Westin Hyderabad Mindspace,14000.0,4.5
+Hyderabad_H3,Hyderabad,Park Hyatt Hyderabad,12000.0,4.6
+Bengaluru_H0,Bengaluru,ITC Gardenia,15000.0,4.6
+Bengaluru_H1,Bengaluru,The Leela Palace Bengaluru,20000.0,4.8
+Bengaluru_H2,Bengaluru,"The Ritz-Carlton, Bangalore",17000.0,4.7
+Bengaluru_H3,Bengaluru,Taj West End,18000.0,4.7
+Chennai_H0,Chennai,Taj Coromandel,12000.0,4.6
+Chennai_H1,Chennai,Park Hyatt Chennai,11000.0,4.5
+Chennai_H2,Chennai,ITC Grand Chola,15000.0,4.8
+Chennai_H3,Chennai,The Leela Palace Chennai,18000.0,4.7
+Kolkata_H0,Kolkata,ITC Royal Bengal,14000.0,4.7
+Kolkata_H1,Kolkata,"Taj Bengal, Kolkata",12000.0,4.6
+Kolkata_H2,Kolkata,JW Marriott Hotel Kolkata,11000.0,4.6
+Kolkata_H3,Kolkata,"The Oberoi Grand, Kolkata",16000.0,4.8
+Amritsar_H0,Amritsar,BR Grand Amritsar,2326.0,4.4
+Amritsar_H1,Amritsar,Fairfield by Marriott Amritsar,6047.0,4.3
+Amritsar_H2,Amritsar,Ramada by Wyndham Amritsar,6660.0,4.3
+Amritsar_H3,Amritsar,"Holiday Inn Amritsar Ranjit Avenue, an IHG Hotel",5991.0,4.4
+Rishikesh_H0,Rishikesh,Divine Resort & Spa,6000.0,4.3
+Rishikesh_H1,Rishikesh,The Roseate Ganges,22000.0,4.6
+Rishikesh_H2,Rishikesh,Lemon Tree Premier,7000.0,4.4
+Rishikesh_H3,Rishikesh,Taj Rishikesh Resort & Spa,25000.0,4.7
+Manali_H0,Manali,Span Resort and Spa,15000.0,4.4
+Manali_H1,Manali,Solang Valley Resort,8500.0,4.3
+Manali_H2,Manali,Baragarh Resort and Spa,10000.0,4.6
+Manali_H3,Manali,Snow Valley Resorts,5000.0,4.2
+Shimla_H0,Shimla,Taj Theog Resort & Spa,20000.0,4.6
+Shimla_H1,Shimla,The Oberoi Cecil,15000.0,4.7
+Shimla_H2,Shimla,Wildflower Hall,28000.0,4.8
+Shimla_H3,Shimla,Clarkes Hotel,9000.0,4.5
+Leh_H0,Leh,Laksdup Guest House,4000.0,4.2
+Leh_H1,Leh,Stok Palace Heritage Hotel,12000.0,4.7
+Leh_H2,Leh,Gomang Boutique Hotel,9000.0,4.5
+Leh_H3,Leh,The Zen Resort,8500.0,4.3
+Srinagar_H0,Srinagar,Walisons Hotel,3780.0,4.2
+Srinagar_H1,Srinagar,Hotel Lake Scene,664.0,3.4
+Srinagar_H2,Srinagar,Hotel Kashmir Hilltown,1700.0,3.8
+Srinagar_H3,Srinagar,Hotel Samar,1669.0,4.2
+Darjeeling_H0,Darjeeling,"Elgin, Darjeeling",9500.0,4.3
+Darjeeling_H1,Darjeeling,Windamere Hotel,14000.0,4.4
+Darjeeling_H2,Darjeeling,Summit Swiss Heritage,6000.0,4.1
+Darjeeling_H3,Darjeeling,Cedar Inn,8000.0,4.2
+Sikkim_H0,Sikkim,Central Hill Resort The Mall Road Gangtok,1340.0,3.5
+Sikkim_H1,Sikkim,Denzong Regency,10620.0,4.5
+Sikkim_H2,Sikkim,Superview Waterfall Homestay Rumtek,560.0,4.2
+Sikkim_H3,Sikkim,Kaya Gantavya Resort & Spa | Pelling,5643.0,4.6
+Ooty_H0,Ooty,Fortune Resort Sullivan Court,8000.0,4.3
+Ooty_H1,Ooty,Savoy - IHCL SeleQtions,12000.0,4.5
+Ooty_H2,Ooty,Gem Park Ooty,5500.0,4.0
+Ooty_H3,Ooty,Sinclairs Retreat Ooty,7000.0,4.2
+Mysuru_H0,Mysuru,Livaana (Formerly known as Vivaana),2193.0,3.8
+Mysuru_H1,Mysuru,Hotel Garden City,715.0,3.6
+Mysuru_H2,Mysuru,Hotel Mayura Hoysala Mysuru,2419.0,4.1
+Mysuru_H3,Mysuru,Silent Shores Resort & Spa,6838.0,4.3
+Coorg_H0,Coorg,Taj Madikeri Resort & Spa,18000.0,4.7
+Coorg_H1,Coorg,The Tamara Coorg,20000.0,4.7
+Coorg_H2,Coorg,Coorg Wilderness Resort,16000.0,4.6
+Coorg_H3,Coorg,"Evolve Back, Coorg",25000.0,4.8
+Pondicherry_H0,Pondicherry,Lotus Comfort- A Pondy Hotel,1734.0,3.6
+Pondicherry_H1,Pondicherry,Treebo Trend Grace Inn,9698.0,4.2
+Pondicherry_H2,Pondicherry,Hotel Annamalai International,3724.0,4.0
+Pondicherry_H3,Pondicherry,Hotel Le Royal Park,3415.0,4.1
+Andaman_H0,Andaman,Andaman Grand Sarovar,4536.0,3.9
+Andaman_H1,Andaman,Andaman Grand Hotel,1826.0,4.2
+Andaman_H2,Andaman,Andaman Grand AJ,4620.0,4.5
+Andaman_H3,Andaman,Andaman Grand Hotel,5376.0,4.2
+Lakshadweep_H0,Lakshadweep,Lakshadweep Grand The,3581.0,4.3
+Lakshadweep_H1,Lakshadweep,Lakshadweep Grand NOVANTA,6689.0,4.4
+Lakshadweep_H2,Lakshadweep,Lakshadweep Grand Hotel,4032.0,4.1
+Lakshadweep_H3,Lakshadweep,Lakshadweep Grand Red,2335.0,4.3
+Ranthambore_H0,Ranthambore,Ranthambore Grand Hotel,1680.0,4.0
+Ranthambore_H1,Ranthambore,Ranthambore Grand Fairfield,7280.0,4.3
+Ranthambore_H2,Ranthambore,Ranthambore Grand Empires,3646.0,4.1
+Ranthambore_H3,Ranthambore,Ranthambore Grand Casa,2466.0,3.6
+Jaisalmer_H0,Jaisalmer,Jaisalmer Grand Hotel,815.0,3.6
+Jaisalmer_H1,Jaisalmer,Jaisalmer Grand The,2438.0,4.1
+Jaisalmer_H2,Jaisalmer,Jaisalmer Grand Country,8439.0,4.5
+Jaisalmer_H3,Jaisalmer,Jaisalmer Grand The,2768.0,4.2
+Jodhpur_H0,Jodhpur,Jodhpur Grand Centre,4480.0,4.2
+Jodhpur_H1,Jodhpur,Jodhpur Grand Treebo,4265.0,4.1
+Jodhpur_H2,Jodhpur,Jodhpur Grand Super,1315.0,3.8
+Jodhpur_H3,Jodhpur,Jodhpur Grand Goldfinch,4619.0,4.2
+Munnar_H0,Munnar,Munnar Grand Canary,3483.0,3.9
+Munnar_H1,Munnar,Munnar Grand Casa,2466.0,3.6
+Munnar_H2,Munnar,Munnar Grand Hotel,1389.0,3.9
+Munnar_H3,Munnar,Munnar Grand Bharat,2464.0,4.2
+Wayanad_H0,Wayanad,Wayanad Grand Govind,1304.0,2.6
+Wayanad_H1,Wayanad,Wayanad Grand The,6114.0,4.5
+Wayanad_H2,Wayanad,Wayanad Grand Kohinoor,1280.0,3.7
+Wayanad_H3,Wayanad,Wayanad Grand Hotel,2531.0,4.1
+Hampi_H0,Hampi,Hampi Grand The,12963.0,4.5
+Hampi_H1,Hampi,Hampi Grand Comfort,6160.0,4.6
+Hampi_H2,Hampi,Hampi Grand Ibis,3472.0,4.4
+Hampi_H3,Hampi,Hampi Grand Hotel,1389.0,3.9
+Gokarna_H0,Gokarna,Gokarna Grand Leela,914.0,3.6
+Gokarna_H1,Gokarna,Gokarna Grand IKON,4278.0,4.5
+Gokarna_H2,Gokarna,Gokarna Grand Hotel,2350.0,3.5
+Gokarna_H3,Gokarna,Gokarna Grand RESTEL,2576.0,4.2
+Kodaikanal_H0,Kodaikanal,Kodaikanal Grand THE,2576.0,3.0
+Kodaikanal_H1,Kodaikanal,Kodaikanal Grand Hyatt,5475.0,4.5
+Kodaikanal_H2,Kodaikanal,Kodaikanal Grand Hotel,1187.0,4.5
+Kodaikanal_H3,Kodaikanal,Kodaikanal Grand Le,1789.0,4.1
+Mahabaleshwar_H0,Mahabaleshwar,Mahabaleshwar Grand The,3359.0,4.0
+Mahabaleshwar_H1,Mahabaleshwar,Mahabaleshwar Grand Skylon,1698.0,4.4
+Mahabaleshwar_H2,Mahabaleshwar,Mahabaleshwar Grand Sand,2018.0,4.5
+Mahabaleshwar_H3,Mahabaleshwar,Mahabaleshwar Grand Old,1923.0,4.7
+Nashik_H0,Nashik,Raghunandan Resort,2195.0,4.2
+Nashik_H1,Nashik,"Treebo Trend The Utsav, Nashik",2968.0,4.6
+Nashik_H2,Nashik,Courtyard by Marriott Nashik,9735.0,4.4
+Nashik_H3,Nashik,Hotel Panchavati Yatri,1934.0,4.0
+Ajanta_Ellora_H0,Ajanta_Ellora,Ajanta Ellora Grand The,3880.0,4.4
+Ajanta_Ellora_H1,Ajanta_Ellora,Ajanta Ellora Grand Hotel,1230.0,3.1
+Ajanta_Ellora_H2,Ajanta_Ellora,Ajanta Ellora Grand Krishnam,1115.0,4.0
+Ajanta_Ellora_H3,Ajanta_Ellora,Ajanta Ellora Grand Hotel,3632.0,4.0
+Kutch_H0,Kutch,Kutch Grand Super,2044.0,4.4
+Kutch_H1,Kutch,Kutch Grand Hotel,3014.0,4.0
+Kutch_H2,Kutch,Kutch Grand Hotel,5544.0,4.2
+Kutch_H3,Kutch,Kutch Grand Garden,3220.0,3.8
+Jim_Corbett_H0,Jim_Corbett,Jim Corbett Grand lebua,7621.0,4.3
+Jim_Corbett_H1,Jim_Corbett,Jim Corbett Grand Jugglers,1116.0,4.7
+Jim_Corbett_H2,Jim_Corbett,Jim Corbett Grand Nu,1999.0,4.6
+Jim_Corbett_H3,Jim_Corbett,Jim Corbett Grand Cosmo,887.0,3.8
+Kaziranga_H0,Kaziranga,Kaziranga Grand Hotel,1454.0,3.5
+Kaziranga_H1,Kaziranga,Kaziranga Grand Effotel,4090.0,4.3
+Kaziranga_H2,Kaziranga,Kaziranga Grand Country,8439.0,4.5
+Kaziranga_H3,Kaziranga,Kaziranga Grand Best,1529.0,4.0
+Meghalaya_H0,Meghalaya,Meghalaya Grand Canary,3483.0,3.9
+Meghalaya_H1,Meghalaya,Meghalaya Grand Hotel,539.0,3.4
+Meghalaya_H2,Meghalaya,Meghalaya Grand Hotel,4016.0,4.5
+Meghalaya_H3,Meghalaya,Meghalaya Grand Hotel,2204.0,4.2
+Tawang_H0,Tawang,Tawang Grand Taj,2097.0,4.1
+Tawang_H1,Tawang,Tawang Grand Hotel,1051.0,3.9
+Tawang_H2,Tawang,Tawang Grand Clarks,1791.0,3.2
+Tawang_H3,Tawang,Tawang Grand The,2785.0,4.3
+Khajuraho_H0,Khajuraho,Khajuraho Grand Zostel,1219.0,4.4
+Khajuraho_H1,Khajuraho,Khajuraho Grand Grand,6000.0,4.5
+Khajuraho_H2,Khajuraho,Khajuraho Grand Zemu,1098.0,4.7
+Khajuraho_H3,Khajuraho,Khajuraho Grand EMA,1241.0,3.8
+Bodh_Gaya_H0,Bodh_Gaya,Bodh Gaya Grand Hotel,4415.0,3.8
+Bodh_Gaya_H1,Bodh_Gaya,Bodh Gaya Grand NOVANTA,6689.0,4.4
+Bodh_Gaya_H2,Bodh_Gaya,Bodh Gaya Grand Her,3306.0,3.2
+Bodh_Gaya_H3,Bodh_Gaya,Bodh Gaya Grand Hotel,1773.0,3.9
+Visakhapatnam_H0,Visakhapatnam,Visakhapatnam Grand The,2427.0,4.0
+Visakhapatnam_H1,Visakhapatnam,Visakhapatnam Grand Backwater,5063.0,4.7
+Visakhapatnam_H2,Visakhapatnam,Visakhapatnam Grand The,4627.0,4.1
+Visakhapatnam_H3,Visakhapatnam,Visakhapatnam Grand JMC,2239.0,4.6
+Rann_of_Kutch_H0,Rann_of_Kutch,Rann Of Kutch Grand Hotel,1242.0,3.8
+Rann_of_Kutch_H1,Rann_of_Kutch,Rann Of Kutch Grand Grand,4309.0,4.1
+Rann_of_Kutch_H2,Rann_of_Kutch,Rann Of Kutch Grand Cocobay,6138.0,4.2
+Rann_of_Kutch_H3,Rann_of_Kutch,Rann Of Kutch Grand Hotel,2034.0,4.3
+Madurai_H0,Madurai,Madurai Grand Hotel,2527.0,4.0
+Madurai_H1,Madurai,Madurai Grand Hyphen,2487.0,3.8
+Madurai_H2,Madurai,Madurai Grand Holiday,10619.0,4.5
+Madurai_H3,Madurai,Madurai Grand Hotel,800.0,3.9
+Puri_H0,Puri,Puri Grand Hotel,1188.0,4.4
+Puri_H1,Puri,Puri Grand Hotel,2889.0,4.2
+Puri_H2,Puri,Puri Grand Jamal,4215.0,4.0
+Puri_H3,Puri,Puri Grand Cosmo,887.0,3.8
+Rajasthan_H0,Rajasthan,Blue Beds Jaipur,1858.0,4.4
+Rajasthan_H1,Rajasthan,Hilton Jaipur,6885.0,4.4
+Rajasthan_H2,Rajasthan,"Holiday Inn Jaipur City Centre, an IHG Hotel",14190.0,4.5
+Rajasthan_H3,Rajasthan,"Lemon Tree Premier, Jaipur",3920.0,4.3
+Madhya_Pradesh_H0,Madhya_Pradesh,Sayaji Hotel Indore,5874.0,4.4
+Madhya_Pradesh_H1,Madhya_Pradesh,Sayaji Hotel Indore,5111.0,4.4
+Madhya_Pradesh_H2,Madhya_Pradesh,Best Western Plus Indore,3424.0,4.2
+Madhya_Pradesh_H3,Madhya_Pradesh,Treebo Trend Grand Euro,2570.0,4.7

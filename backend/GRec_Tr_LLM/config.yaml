@@ -1,0 +1,51 @@
+project:
+  name: "GRec_Tr-LLM"
+  version: "1.0.0"
+
+paths:
+  data_raw: "data/raw/"
+  data_processed: "data/processed/"
+  data_synthetic: "data/synthetic/"
+  models: "experiments/models/"
+  logs: "experiments/logs/"
+
+dataset:
+  num_users: 1000
+  num_groups: 200
+  num_destinations: 50
+  num_hotels: 200
+  num_activities: 300
+  num_flights: 150
+  random_seed: 42
+
+hgat:
+  epochs: 100
+  learning_rate: 0.005
+  hidden_channels: 64
+  attention_heads: 4
+
+fuzzy:
+  default_tolerance_sigma: 0.2  # 20% tolerance by default
+
+mcdm:
+  criteria_weights:
+    budget: 0.3
+    activities: 0.3
+    time: 0.15
+    ratings: 0.25
+
+ranking_weights:
+  alpha_hgat: 0.3
+  beta_fuzzy: 0.3
+  gamma_mcdm: 0.2
+  delta_nash: 0.2
+
+nlp_parser:
+  assumptions:
+    long_flight_hours: 6
+    short_flight_hours: 3
+    luxury_hotel_rating: 4.5
+    budget_hotel_rating: 3.0
+    default_currency: 'INR'
+    usd_to_inr_rate: 83.0
+    eur_to_inr_rate: 90.0

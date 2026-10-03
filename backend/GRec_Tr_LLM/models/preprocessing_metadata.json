@@ -1,0 +1,38 @@
+{
+    "metrics": {
+        "rmse": 0.954135046911149,
+        "mae": 0.9518393278121948,
+        "r2": -Infinity
+    },
+    "schema": {
+        "DEST_TYPES": [
+            "Beach",
+            "City",
+            "Historic",
+            "Mountain",
+            "Nature"
+        ],
+        "ACT_CATEGORIES": [
+            "Sightseeing",
+            "Water Sports",
+            "Hiking",
+            "Food Tour",
+            "Museum",
+            "Relaxation"
+        ],
+        "NORM_CONSTANTS": {
+            "budget_max": 300000.0,
+            "travel_time_max": 48.0,
+            "rating_max": 5.0,
+            "cost_base_max": 100000.0,
+            "flight_cost_max": 100000.0,
+            "hotel_price_per_night_max": 50000.0,
+            "activity_price_max": 20000.0
+        }
+    },
+    "architecture": {
+        "hidden_channels": 64,
+        "out_channels": 32
+    },
+    "random_seed": 42
+}

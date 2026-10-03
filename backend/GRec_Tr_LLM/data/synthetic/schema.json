@@ -1,0 +1,39 @@
+{
+  "Destinations": {
+    "id": "string",
+    "name": "string",
+    "type": "string (beach, mountain, city, etc.)",
+    "base_cost": "float",
+    "average_rating": "float"
+  },
+  "Hotels": {
+    "id": "string",
+    "destination_id": "string",
+    "name": "string",
+    "price_per_night": "float",
+    "rating": "float"
+  },
+  "Activities": {
+    "id": "string",
+    "destination_id": "string",
+    "name": "string",
+    "cost": "float",
+    "duration_hours": "float",
+    "category": "string"
+  },
+  "Flights": {
+    "id": "string",
+    "destination_id": "string",
+    "cost": "float",
+    "duration_hours": "float"
+  },
+  "Users": {
+    "id": "string",
+    "name": "string",
+    "preferred_budget": "float"
+  },
+  "Groups": {
+    "id": "string",
+    "members": ["user_id1", "user_id2"]
+  }
+}
