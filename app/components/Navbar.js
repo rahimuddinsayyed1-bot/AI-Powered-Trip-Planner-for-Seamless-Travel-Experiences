@@ -22,13 +22,11 @@ export default function Navbar() {
   const navItems = user?.role === 'admin' 
     ? [
         { name: 'Dashboard', path: '/', icon: '📊' },
-        { name: 'Trip Booked', path: '/booked', icon: '📝' },
         { name: 'Settings', path: '/settings', icon: '⚙️' },
       ]
     : [
         { name: 'Home', path: '/', icon: '🏠' },
         { name: 'Travel', path: '/travel', icon: '✈️' },
-        { name: 'Trip Booked', path: '/booked', icon: '📝' },
         { name: 'Settings', path: '/settings', icon: '⚙️' },
       ];
 

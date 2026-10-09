@@ -6,7 +6,7 @@ from typing import List, Dict
 DEST_TYPES = ['Beach', 'City', 'Historic', 'Mountain', 'Nature']
 
 # Activity Categories
-ACT_CATEGORIES = ['Sightseeing', 'Water Sports', 'Hiking', 'Food Tour', 'Museum', 'Relaxation']
+ACT_CATEGORIES = ['Nature', 'Sightseeing', 'Heritage', 'Shopping/Food', 'Religious/Spiritual', 'Adventure/Experience']
 
 # Currency Conversions (to base currency: INR)
 USD_TO_INR = 83.0

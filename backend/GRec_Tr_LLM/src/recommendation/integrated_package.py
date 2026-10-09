@@ -29,7 +29,6 @@ class IntegratedPackageRecommender:
         self.gamma = weights.get('gamma_mcdm', 0.25)
         self.delta = weights.get('delta_nash', 0.25)
         
-        # Load tabular data
         self.dests = pd.read_csv(os.path.join(data_dir, 'destinations.csv'))
         self.hotels = pd.read_csv(os.path.join(data_dir, 'hotels.csv'))
         self.flights = pd.read_csv(os.path.join(data_dir, 'flights.csv'))
@@ -265,6 +264,28 @@ class IntegratedPackageRecommender:
         for p in packages:
             hgat_norm = p['avg_hgat'] / 5.0
             avg_fuzzy = (p['group_budget_sat'] + p['group_time_sat'] + p['group_hotel_sat']) / 3.0
+            
+            # Penalize Fuzzy Score heavily if NLP extracted destination types or activities don't match
+            penalty = 0.0
+            for pref in group_prefs:
+                if pref.soft_constraints.preferred_destination_types:
+                    if p['type'].lower() not in [t.lower() for t in pref.soft_constraints.preferred_destination_types]:
+                        penalty += 0.3
+                
+                if pref.soft_constraints.preferred_activities:
+                    act_match = False
+                    for a in p['activities']:
+                        if isinstance(a, dict):
+                            a_name = a.get('name', '')
+                        else:
+                            a_name = a
+                        if any(req_act.lower() in a_name.lower() for req_act in pref.soft_constraints.preferred_activities):
+                            act_match = True
+                            break
+                    if not act_match:
+                        penalty += 0.15
+                        
+            avg_fuzzy = max(0.01, avg_fuzzy - penalty)
             p['avg_fuzzy'] = avg_fuzzy  # Fix missing key assignment
             
             p['final_score'] = (

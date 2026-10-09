@@ -102,12 +102,17 @@ class PreferenceParser:
         eur_match = re.search(r'€\s*([\d,]+)', text)
         inr_match = re.search(r'₹\s*([\d,]+)', text)
         
+        # Fallback for plain large numbers assuming it is a budget in INR, handling typos like 'budgect' or just 'is'
+        plain_num_match = re.search(r'(?:budget|budgect|cost|spend|is).*?([\d,]+)', text_lower)
+        
         if usd_match:
             budget = float(usd_match.group(1).replace(',', '')) * USD_TO_INR
         elif eur_match:
             budget = float(eur_match.group(1).replace(',', '')) * EUR_TO_INR
         elif inr_match:
             budget = float(inr_match.group(1).replace(',', ''))
+        elif plain_num_match:
+            budget = float(plain_num_match.group(1).replace(',', ''))
             
         dest_types = []
         if "beach" in text_lower:
@@ -116,14 +121,26 @@ class PreferenceParser:
             dest_types.append("mountain")
         if "city" in text_lower or "sightseeing" in text_lower:
             dest_types.append("city")
+        if "night" in text_lower or "party" in text_lower or "club" in text_lower:
+            dest_types.append("nightlife")
+        if "historic" in text_lower or "heritage" in text_lower or "fort" in text_lower or "monument" in text_lower:
+            dest_types.append("historic")
+        if "nature" in text_lower or "wildlife" in text_lower:
+            dest_types.append("nature")
             
         activities = []
-        if "peaceful" in text_lower or "relaxing" in text_lower:
-            activities.append("relaxation")
-        if "water sports" in text_lower:
-            activities.append("water sports")
-        if "sightseeing" in text_lower or "tour" in text_lower:
-            activities.append("sightseeing")
+        if "nature" in text_lower or "peaceful" in text_lower or "relax" in text_lower:
+            activities.append("Nature")
+        if "sightseeing" in text_lower or "tour" in text_lower or "view" in text_lower:
+            activities.append("Sightseeing")
+        if "heritage" in text_lower or "historic" in text_lower or "monument" in text_lower or "fort" in text_lower:
+            activities.append("Heritage")
+        if "shopping" in text_lower or "food" in text_lower or "market" in text_lower or "eat" in text_lower:
+            activities.append("Shopping/Food")
+        if "temple" in text_lower or "religious" in text_lower or "spiritual" in text_lower or "church" in text_lower or "shrine" in text_lower:
+            activities.append("Religious/Spiritual")
+        if "adventure" in text_lower or "water sports" in text_lower or "hiking" in text_lower or "trek" in text_lower or "experience" in text_lower:
+            activities.append("Adventure/Experience")
             
         travel_time = None
         time_match = re.search(r'(\d+)\s*(?:hours|hrs|h)', text_lower)
@@ -133,9 +150,9 @@ class PreferenceParser:
             travel_time = LONG_FLIGHT_HOURS_THRESHOLD
         
         min_hotel = None
-        if "luxury" in text_lower:
+        if "luxury" in text_lower or "best" in text_lower or "5 star" in text_lower:
             min_hotel = LUXURY_HOTEL_RATING_THRESHOLD
-        elif "budget hotel" in text_lower:
+        elif "budget hotel" in text_lower or "low cost" in text_lower or "cheap" in text_lower:
             min_hotel = BUDGET_HOTEL_RATING_THRESHOLD
         
         return UserPreferences(

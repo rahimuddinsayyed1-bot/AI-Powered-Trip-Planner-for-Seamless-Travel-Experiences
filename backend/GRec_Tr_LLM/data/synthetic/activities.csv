@@ -1,201 +1,501 @@
 activity_id,dest_id,name,price,duration_hours,category
-Goa_A0,Goa,Goa Activity 0,3924.58,1.8,Hiking
-Goa_A1,Goa,Goa Activity 1,3799.57,3.0,Water Sports
-Goa_A2,Goa,Goa Activity 2,1091.32,3.8,Relaxation
-Goa_A3,Goa,Goa Activity 3,4239.18,2.8,Relaxation
-Kerala_A0,Kerala,Kerala Activity 0,2898.26,4.0,Water Sports
-Kerala_A1,Kerala,Kerala Activity 1,1509.42,3.6,Museum
-Kerala_A2,Kerala,Kerala Activity 2,3041.24,2.4,Museum
-Kerala_A3,Kerala,Kerala Activity 3,4125.49,3.5,Water Sports
-Jaipur_A0,Jaipur,Jaipur Activity 0,775.62,3.1,Water Sports
-Jaipur_A1,Jaipur,Jaipur Activity 1,1029.01,3.2,Museum
-Jaipur_A2,Jaipur,Jaipur Activity 2,4864.31,2.3,Food Tour
-Jaipur_A3,Jaipur,Jaipur Activity 3,1060.62,1.9,Food Tour
-Udaipur_A0,Udaipur,Udaipur Activity 0,726.71,2.1,Museum
-Udaipur_A1,Udaipur,Udaipur Activity 1,3728.58,2.0,Food Tour
-Udaipur_A2,Udaipur,Udaipur Activity 2,4114.14,3.7,Sightseeing
-Udaipur_A3,Udaipur,Udaipur Activity 3,3885.83,3.1,Hiking
-Agra_A0,Agra,Agra Activity 0,1079.19,1.4,Relaxation
-Agra_A1,Agra,Agra Activity 1,1771.99,3.9,Relaxation
-Agra_A2,Agra,Agra Activity 2,2415.41,2.7,Sightseeing
-Agra_A3,Agra,Agra Activity 3,1798.39,3.9,Relaxation
-Varanasi_A0,Varanasi,Varanasi Activity 0,1074.92,3.9,Hiking
-Varanasi_A1,Varanasi,Varanasi Activity 1,2197.62,1.9,Sightseeing
-Varanasi_A2,Varanasi,Varanasi Activity 2,1073.44,2.9,Hiking
-Varanasi_A3,Varanasi,Varanasi Activity 3,1024.53,1.6,Sightseeing
-Delhi_A0,Delhi,Delhi Activity 0,2901.31,2.8,Sightseeing
-Delhi_A1,Delhi,Delhi Activity 1,3821.93,1.6,Relaxation
-Delhi_A2,Delhi,Delhi Activity 2,611.43,1.9,Hiking
-Delhi_A3,Delhi,Delhi Activity 3,3245.02,1.8,Food Tour
-Mumbai_A0,Mumbai,Mumbai Activity 0,846.13,3.2,Water Sports
-Mumbai_A1,Mumbai,Mumbai Activity 1,4377.55,1.5,Relaxation
-Mumbai_A2,Mumbai,Mumbai Activity 2,4932.43,1.7,Food Tour
-Mumbai_A3,Mumbai,Mumbai Activity 3,1794.77,3.6,Food Tour
-Hyderabad_A0,Hyderabad,Hyderabad Activity 0,3438.89,3.4,Water Sports
-Hyderabad_A1,Hyderabad,Hyderabad Activity 1,880.37,3.9,Relaxation
-Hyderabad_A2,Hyderabad,Hyderabad Activity 2,2526.43,1.8,Hiking
-Hyderabad_A3,Hyderabad,Hyderabad Activity 3,912.14,1.9,Sightseeing
-Bengaluru_A0,Bengaluru,Bengaluru Activity 0,1250.39,2.8,Relaxation
-Bengaluru_A1,Bengaluru,Bengaluru Activity 1,4678.12,2.0,Food Tour
-Bengaluru_A2,Bengaluru,Bengaluru Activity 2,1722.68,3.5,Food Tour
-Bengaluru_A3,Bengaluru,Bengaluru Activity 3,2079.31,1.4,Hiking
-Chennai_A0,Chennai,Chennai Activity 0,3115.83,3.3,Food Tour
-Chennai_A1,Chennai,Chennai Activity 1,1622.56,1.0,Museum
-Chennai_A2,Chennai,Chennai Activity 2,2220.95,1.1,Sightseeing
-Chennai_A3,Chennai,Chennai Activity 3,4615.89,1.5,Hiking
-Kolkata_A0,Kolkata,Kolkata Activity 0,4558.03,1.7,Food Tour
-Kolkata_A1,Kolkata,Kolkata Activity 1,3543.1,1.9,Relaxation
-Kolkata_A2,Kolkata,Kolkata Activity 2,1792.02,1.1,Water Sports
-Kolkata_A3,Kolkata,Kolkata Activity 3,4487.82,1.9,Sightseeing
-Amritsar_A0,Amritsar,Amritsar Activity 0,1141.1,3.3,Sightseeing
-Amritsar_A1,Amritsar,Amritsar Activity 1,515.91,2.4,Relaxation
-Amritsar_A2,Amritsar,Amritsar Activity 2,3310.37,2.7,Hiking
-Amritsar_A3,Amritsar,Amritsar Activity 3,1642.31,3.9,Food Tour
-Rishikesh_A0,Rishikesh,Rishikesh Activity 0,2897.36,3.6,Museum
-Rishikesh_A1,Rishikesh,Rishikesh Activity 1,3916.65,3.8,Relaxation
-Rishikesh_A2,Rishikesh,Rishikesh Activity 2,3182.92,2.8,Hiking
-Rishikesh_A3,Rishikesh,Rishikesh Activity 3,3962.21,1.1,Sightseeing
-Manali_A0,Manali,Manali Activity 0,732.69,2.0,Museum
-Manali_A1,Manali,Manali Activity 1,2805.88,3.1,Museum
-Manali_A2,Manali,Manali Activity 2,2645.51,3.8,Sightseeing
-Manali_A3,Manali,Manali Activity 3,2037.11,3.9,Museum
-Shimla_A0,Shimla,Shimla Activity 0,1261.17,1.9,Museum
-Shimla_A1,Shimla,Shimla Activity 1,1518.17,2.9,Relaxation
-Shimla_A2,Shimla,Shimla Activity 2,2724.6,1.6,Sightseeing
-Shimla_A3,Shimla,Shimla Activity 3,1050.66,2.5,Relaxation
-Leh_A0,Leh,Leh Activity 0,3063.88,1.3,Water Sports
-Leh_A1,Leh,Leh Activity 1,2739.67,1.6,Sightseeing
-Leh_A2,Leh,Leh Activity 2,3176.68,1.1,Hiking
-Leh_A3,Leh,Leh Activity 3,3173.68,1.5,Food Tour
-Srinagar_A0,Srinagar,Srinagar Activity 0,3537.18,3.9,Relaxation
-Srinagar_A1,Srinagar,Srinagar Activity 1,3181.31,2.3,Water Sports
-Srinagar_A2,Srinagar,Srinagar Activity 2,838.81,3.2,Hiking
-Srinagar_A3,Srinagar,Srinagar Activity 3,1699.46,2.5,Water Sports
-Darjeeling_A0,Darjeeling,Darjeeling Activity 0,4104.23,2.9,Food Tour
-Darjeeling_A1,Darjeeling,Darjeeling Activity 1,2270.7,2.7,Hiking
-Darjeeling_A2,Darjeeling,Darjeeling Activity 2,4337.43,1.6,Museum
-Darjeeling_A3,Darjeeling,Darjeeling Activity 3,4252.44,1.2,Water Sports
-Sikkim_A0,Sikkim,Sikkim Activity 0,745.51,2.3,Hiking
-Sikkim_A1,Sikkim,Sikkim Activity 1,3863.53,2.7,Museum
-Sikkim_A2,Sikkim,Sikkim Activity 2,2893.03,3.4,Food Tour
-Sikkim_A3,Sikkim,Sikkim Activity 3,1727.23,3.3,Museum
-Ooty_A0,Ooty,Ooty Activity 0,4940.32,1.2,Sightseeing
-Ooty_A1,Ooty,Ooty Activity 1,1387.09,3.3,Museum
-Ooty_A2,Ooty,Ooty Activity 2,3917.93,3.5,Water Sports
-Ooty_A3,Ooty,Ooty Activity 3,1532.2,3.4,Food Tour
-Mysuru_A0,Mysuru,Mysuru Activity 0,4675.6,3.9,Relaxation
-Mysuru_A1,Mysuru,Mysuru Activity 1,1635.81,3.1,Food Tour
-Mysuru_A2,Mysuru,Mysuru Activity 2,785.38,1.8,Water Sports
-Mysuru_A3,Mysuru,Mysuru Activity 3,1036.21,2.8,Hiking
-Coorg_A0,Coorg,Coorg Activity 0,3990.66,3.8,Relaxation
-Coorg_A1,Coorg,Coorg Activity 1,2593.29,2.0,Sightseeing
-Coorg_A2,Coorg,Coorg Activity 2,1980.92,2.8,Water Sports
-Coorg_A3,Coorg,Coorg Activity 3,3937.67,2.9,Sightseeing
-Pondicherry_A0,Pondicherry,Pondicherry Activity 0,2431.38,1.9,Relaxation
-Pondicherry_A1,Pondicherry,Pondicherry Activity 1,2021.16,1.3,Sightseeing
-Pondicherry_A2,Pondicherry,Pondicherry Activity 2,2057.75,2.8,Relaxation
-Pondicherry_A3,Pondicherry,Pondicherry Activity 3,4029.89,2.5,Sightseeing
-Andaman_A0,Andaman,Andaman Activity 0,4448.1,1.5,Water Sports
-Andaman_A1,Andaman,Andaman Activity 1,4580.77,3.7,Hiking
-Andaman_A2,Andaman,Andaman Activity 2,1911.88,1.7,Hiking
-Andaman_A3,Andaman,Andaman Activity 3,1514.13,2.0,Sightseeing
-Lakshadweep_A0,Lakshadweep,Lakshadweep Activity 0,1249.3,2.8,Water Sports
-Lakshadweep_A1,Lakshadweep,Lakshadweep Activity 1,3673.26,3.1,Food Tour
-Lakshadweep_A2,Lakshadweep,Lakshadweep Activity 2,2814.36,3.4,Relaxation
-Lakshadweep_A3,Lakshadweep,Lakshadweep Activity 3,1514.22,2.0,Relaxation
-Ranthambore_A0,Ranthambore,Ranthambore Activity 0,2145.24,2.2,Museum
-Ranthambore_A1,Ranthambore,Ranthambore Activity 1,2875.35,1.9,Hiking
-Ranthambore_A2,Ranthambore,Ranthambore Activity 2,1890.8,3.0,Sightseeing
-Ranthambore_A3,Ranthambore,Ranthambore Activity 3,3829.33,2.8,Relaxation
-Jaisalmer_A0,Jaisalmer,Jaisalmer Activity 0,4033.71,3.3,Museum
-Jaisalmer_A1,Jaisalmer,Jaisalmer Activity 1,1376.82,1.3,Relaxation
-Jaisalmer_A2,Jaisalmer,Jaisalmer Activity 2,3305.0,3.4,Food Tour
-Jaisalmer_A3,Jaisalmer,Jaisalmer Activity 3,2446.92,3.0,Food Tour
-Jodhpur_A0,Jodhpur,Jodhpur Activity 0,4884.7,2.5,Water Sports
-Jodhpur_A1,Jodhpur,Jodhpur Activity 1,4076.08,1.0,Relaxation
-Jodhpur_A2,Jodhpur,Jodhpur Activity 2,4314.68,1.3,Hiking
-Jodhpur_A3,Jodhpur,Jodhpur Activity 3,3419.59,2.2,Hiking
-Munnar_A0,Munnar,Munnar Activity 0,2824.77,3.6,Food Tour
-Munnar_A1,Munnar,Munnar Activity 1,2644.48,3.1,Sightseeing
-Munnar_A2,Munnar,Munnar Activity 2,3766.39,2.6,Sightseeing
-Munnar_A3,Munnar,Munnar Activity 3,4748.27,3.9,Sightseeing
-Wayanad_A0,Wayanad,Wayanad Activity 0,1596.38,2.2,Sightseeing
-Wayanad_A1,Wayanad,Wayanad Activity 1,4847.3,3.5,Food Tour
-Wayanad_A2,Wayanad,Wayanad Activity 2,4265.94,3.2,Water Sports
-Wayanad_A3,Wayanad,Wayanad Activity 3,4231.04,1.1,Water Sports
-Hampi_A0,Hampi,Hampi Activity 0,4023.75,3.2,Food Tour
-Hampi_A1,Hampi,Hampi Activity 1,986.75,1.2,Sightseeing
-Hampi_A2,Hampi,Hampi Activity 2,4363.47,1.8,Relaxation
-Hampi_A3,Hampi,Hampi Activity 3,2694.7,1.9,Hiking
-Gokarna_A0,Gokarna,Gokarna Activity 0,3223.52,3.8,Hiking
-Gokarna_A1,Gokarna,Gokarna Activity 1,1828.92,3.1,Food Tour
-Gokarna_A2,Gokarna,Gokarna Activity 2,4748.84,2.6,Water Sports
-Gokarna_A3,Gokarna,Gokarna Activity 3,2254.98,1.6,Hiking
-Kodaikanal_A0,Kodaikanal,Kodaikanal Activity 0,4187.28,4.0,Relaxation
-Kodaikanal_A1,Kodaikanal,Kodaikanal Activity 1,1847.81,1.1,Sightseeing
-Kodaikanal_A2,Kodaikanal,Kodaikanal Activity 2,4760.82,3.1,Food Tour
-Kodaikanal_A3,Kodaikanal,Kodaikanal Activity 3,4689.16,1.1,Hiking
-Mahabaleshwar_A0,Mahabaleshwar,Mahabaleshwar Activity 0,1061.24,2.5,Sightseeing
-Mahabaleshwar_A1,Mahabaleshwar,Mahabaleshwar Activity 1,1223.86,3.1,Museum
-Mahabaleshwar_A2,Mahabaleshwar,Mahabaleshwar Activity 2,3583.8,3.5,Sightseeing
-Mahabaleshwar_A3,Mahabaleshwar,Mahabaleshwar Activity 3,944.91,2.1,Relaxation
-Nashik_A0,Nashik,Nashik Activity 0,2749.18,1.5,Museum
-Nashik_A1,Nashik,Nashik Activity 1,3571.44,3.1,Hiking
-Nashik_A2,Nashik,Nashik Activity 2,4422.93,1.6,Relaxation
-Nashik_A3,Nashik,Nashik Activity 3,3196.46,3.0,Museum
-Ajanta_Ellora_A0,Ajanta_Ellora,Ajanta_Ellora Activity 0,1829.26,1.3,Sightseeing
-Ajanta_Ellora_A1,Ajanta_Ellora,Ajanta_Ellora Activity 1,2522.82,3.1,Food Tour
-Ajanta_Ellora_A2,Ajanta_Ellora,Ajanta_Ellora Activity 2,3483.86,1.5,Food Tour
-Ajanta_Ellora_A3,Ajanta_Ellora,Ajanta_Ellora Activity 3,4860.26,4.0,Water Sports
-Kutch_A0,Kutch,Kutch Activity 0,1312.7,1.4,Sightseeing
-Kutch_A1,Kutch,Kutch Activity 1,3510.2,1.1,Sightseeing
-Kutch_A2,Kutch,Kutch Activity 2,4209.29,1.2,Food Tour
-Kutch_A3,Kutch,Kutch Activity 3,530.09,2.1,Food Tour
-Jim_Corbett_A0,Jim_Corbett,Jim_Corbett Activity 0,1940.59,3.8,Hiking
-Jim_Corbett_A1,Jim_Corbett,Jim_Corbett Activity 1,3705.46,2.3,Hiking
-Jim_Corbett_A2,Jim_Corbett,Jim_Corbett Activity 2,1547.11,2.4,Food Tour
-Jim_Corbett_A3,Jim_Corbett,Jim_Corbett Activity 3,3465.53,1.5,Relaxation
-Kaziranga_A0,Kaziranga,Kaziranga Activity 0,813.75,3.7,Relaxation
-Kaziranga_A1,Kaziranga,Kaziranga Activity 1,3910.78,2.8,Food Tour
-Kaziranga_A2,Kaziranga,Kaziranga Activity 2,4115.75,2.2,Water Sports
-Kaziranga_A3,Kaziranga,Kaziranga Activity 3,2524.84,2.7,Museum
-Meghalaya_A0,Meghalaya,Meghalaya Activity 0,4837.19,3.3,Sightseeing
-Meghalaya_A1,Meghalaya,Meghalaya Activity 1,2278.9,1.5,Museum
-Meghalaya_A2,Meghalaya,Meghalaya Activity 2,1994.56,1.2,Relaxation
-Meghalaya_A3,Meghalaya,Meghalaya Activity 3,1221.52,2.1,Sightseeing
-Tawang_A0,Tawang,Tawang Activity 0,4398.28,1.9,Relaxation
-Tawang_A1,Tawang,Tawang Activity 1,4159.64,2.8,Water Sports
-Tawang_A2,Tawang,Tawang Activity 2,3702.44,3.5,Museum
-Tawang_A3,Tawang,Tawang Activity 3,1379.32,2.6,Sightseeing
-Khajuraho_A0,Khajuraho,Khajuraho Activity 0,2860.59,3.9,Food Tour
-Khajuraho_A1,Khajuraho,Khajuraho Activity 1,2887.15,2.4,Water Sports
-Khajuraho_A2,Khajuraho,Khajuraho Activity 2,4247.52,2.1,Relaxation
-Khajuraho_A3,Khajuraho,Khajuraho Activity 3,1787.11,3.1,Sightseeing
-Bodh_Gaya_A0,Bodh_Gaya,Bodh_Gaya Activity 0,3051.3,2.1,Water Sports
-Bodh_Gaya_A1,Bodh_Gaya,Bodh_Gaya Activity 1,2252.77,3.3,Relaxation
-Bodh_Gaya_A2,Bodh_Gaya,Bodh_Gaya Activity 2,4630.31,2.0,Hiking
-Bodh_Gaya_A3,Bodh_Gaya,Bodh_Gaya Activity 3,3350.53,3.3,Museum
-Visakhapatnam_A0,Visakhapatnam,Visakhapatnam Activity 0,3177.06,3.5,Museum
-Visakhapatnam_A1,Visakhapatnam,Visakhapatnam Activity 1,2662.58,1.4,Water Sports
-Visakhapatnam_A2,Visakhapatnam,Visakhapatnam Activity 2,4529.72,2.6,Relaxation
-Visakhapatnam_A3,Visakhapatnam,Visakhapatnam Activity 3,1985.27,1.1,Food Tour
-Rann_of_Kutch_A0,Rann_of_Kutch,Rann_of_Kutch Activity 0,943.64,1.2,Water Sports
-Rann_of_Kutch_A1,Rann_of_Kutch,Rann_of_Kutch Activity 1,810.2,2.7,Water Sports
-Rann_of_Kutch_A2,Rann_of_Kutch,Rann_of_Kutch Activity 2,582.25,3.3,Hiking
-Rann_of_Kutch_A3,Rann_of_Kutch,Rann_of_Kutch Activity 3,2161.49,3.0,Sightseeing
-Madurai_A0,Madurai,Madurai Activity 0,1676.07,2.1,Sightseeing
-Madurai_A1,Madurai,Madurai Activity 1,1284.48,1.5,Museum
-Madurai_A2,Madurai,Madurai Activity 2,1912.5,3.5,Food Tour
-Madurai_A3,Madurai,Madurai Activity 3,1792.84,3.7,Food Tour
-Puri_A0,Puri,Puri Activity 0,3606.99,3.6,Relaxation
-Puri_A1,Puri,Puri Activity 1,1078.47,3.0,Sightseeing
-Puri_A2,Puri,Puri Activity 2,916.83,3.4,Water Sports
-Puri_A3,Puri,Puri Activity 3,951.61,3.5,Sightseeing
-Rajasthan_A0,Rajasthan,Rajasthan Activity 0,3238.82,1.2,Hiking
-Rajasthan_A1,Rajasthan,Rajasthan Activity 1,2308.43,3.5,Sightseeing
-Rajasthan_A2,Rajasthan,Rajasthan Activity 2,2122.01,2.0,Hiking
-Rajasthan_A3,Rajasthan,Rajasthan Activity 3,4829.35,3.5,Relaxation
-Madhya_Pradesh_A0,Madhya_Pradesh,Madhya_Pradesh Activity 0,3446.29,1.0,Museum
-Madhya_Pradesh_A1,Madhya_Pradesh,Madhya_Pradesh Activity 1,1084.69,3.5,Relaxation
-Madhya_Pradesh_A2,Madhya_Pradesh,Madhya_Pradesh Activity 2,4222.87,1.3,Food Tour
-Madhya_Pradesh_A3,Madhya_Pradesh,Madhya_Pradesh Activity 3,1248.91,2.2,Water Sports
+Goa_A0,Goa,Baga Beach,620.02,2.3,Nature
+Goa_A1,Goa,Calangute Beach,4771.54,1.5,Nature
+Goa_A2,Goa,Basilica of Bom Jesus,3501.84,3.5,Sightseeing
+Goa_A3,Goa,Fort Aguada,4023.62,4.9,Heritage
+Goa_A4,Goa,Dudhsagar Falls,3061.96,4.3,Sightseeing
+Goa_A5,Goa,Anjuna Flea Market,1434.99,2.4,Shopping/Food
+Goa_A6,Goa,Palolem Beach,3744.57,2.7,Nature
+Goa_A7,Goa,Chapora Fort,3985.32,2.3,Heritage
+Goa_A8,Goa,Old Goa Churches,2795.19,2.6,Religious/Spiritual
+Goa_A9,Goa,Mandovi River Cruise,4277.6,5.1,Nature
+Kerala_A10,Kerala,Alappuzha Backwaters,3654.38,3.6,Nature
+Kerala_A11,Kerala,Munnar Tea Gardens,1175.49,5.0,Nature
+Kerala_A12,Kerala,Kovalam Beach,4474.36,3.2,Nature
+Kerala_A13,Kerala,Fort Kochi,968.28,3.0,Heritage
+Kerala_A14,Kerala,Periyar Wildlife Sanctuary,4477.46,5.1,Nature
+Kerala_A15,Kerala,Varkala Cliff,1679.29,2.0,Sightseeing
+Kerala_A16,Kerala,Athirappilly Waterfalls,3187.71,5.1,Nature
+Kerala_A17,Kerala,Kumarakom,2507.74,2.1,Sightseeing
+Kerala_A18,Kerala,Wayanad Wildlife Sanctuary,2453.29,5.5,Nature
+Kerala_A19,Kerala,Sree Padmanabhaswamy Temple,3050.72,1.9,Religious/Spiritual
+Jaipur_A20,Jaipur,Amber Fort,3392.93,4.8,Heritage
+Jaipur_A21,Jaipur,City Palace,4794.63,4.4,Heritage
+Jaipur_A22,Jaipur,Hawa Mahal,3214.03,1.9,Sightseeing
+Jaipur_A23,Jaipur,Jantar Mantar,708.49,1.4,Sightseeing
+Jaipur_A24,Jaipur,Jal Mahal,4016.64,2.1,Sightseeing
+Jaipur_A25,Jaipur,Nahargarh Fort,2548.04,5.1,Heritage
+Jaipur_A26,Jaipur,Jaigarh Fort,1467.34,1.6,Heritage
+Jaipur_A27,Jaipur,Albert Hall Museum,945.58,2.7,Heritage
+Jaipur_A28,Jaipur,Johari Bazaar,2705.36,2.5,Shopping/Food
+Jaipur_A29,Jaipur,Chokhi Dhani,4696.99,2.9,Sightseeing
+Udaipur_A30,Udaipur,City Palace,2921.64,2.8,Heritage
+Udaipur_A31,Udaipur,Lake Pichola Boat Ride,1021.72,5.0,Nature
+Udaipur_A32,Udaipur,Jag Mandir,4605.12,4.3,Sightseeing
+Udaipur_A33,Udaipur,Jagdish Temple,3416.99,3.0,Religious/Spiritual
+Udaipur_A34,Udaipur,Saheliyon-ki-Bari,630.55,1.1,Sightseeing
+Udaipur_A35,Udaipur,Monsoon Palace,2784.55,5.5,Heritage
+Udaipur_A36,Udaipur,Bagore Ki Haveli,1481.62,3.4,Heritage
+Udaipur_A37,Udaipur,Fateh Sagar Lake,3973.52,5.2,Nature
+Udaipur_A38,Udaipur,Shilpgram,3754.63,5.9,Sightseeing
+Udaipur_A39,Udaipur,Hathi Pol Bazaar,629.41,4.7,Shopping/Food
+Agra_A40,Agra,Taj Mahal,1073.35,5.6,Sightseeing
+Agra_A41,Agra,Agra Fort,1806.37,3.3,Heritage
+Agra_A42,Agra,Mehtab Bagh,2267.6,1.5,Sightseeing
+Agra_A43,Agra,Itmad-ud-Daulah's Tomb,1119.58,4.2,Sightseeing
+Agra_A44,Agra,Akbar's Tomb,2062.07,5.9,Sightseeing
+Agra_A45,Agra,Fatehpur Sikri,4938.41,4.1,Sightseeing
+Agra_A46,Agra,Taj Nature Walk,1283.02,1.6,Sightseeing
+Agra_A47,Agra,Agra Marble Craft,2817.77,3.4,Shopping/Food
+Agra_A48,Agra,Kinari Bazaar,626.08,1.4,Shopping/Food
+Agra_A49,Agra,Mughal Heritage Walk,1832.12,5.7,Heritage
+Varanasi_A50,Varanasi,Kashi Vishwanath Temple,1299.7,3.4,Religious/Spiritual
+Varanasi_A51,Varanasi,Dashashwamedh Ghat,657.33,1.6,Sightseeing
+Varanasi_A52,Varanasi,Ganga Aarti,3718.43,5.6,Sightseeing
+Varanasi_A53,Varanasi,Assi Ghat,4666.36,4.3,Sightseeing
+Varanasi_A54,Varanasi,Sunrise Ganga Boat Ride,2972.04,3.5,Adventure/Experience
+Varanasi_A55,Varanasi,Sarnath,3153.57,6.0,Sightseeing
+Varanasi_A56,Varanasi,Manikarnika Ghat,1489.66,5.8,Sightseeing
+Varanasi_A57,Varanasi,Banarasi Silk Shopping,702.97,4.2,Shopping/Food
+Varanasi_A58,Varanasi,Ramnagar Fort,4154.24,3.5,Heritage
+Varanasi_A59,Varanasi,Old City Heritage Walk,1833.33,1.0,Heritage
+Delhi_A60,Delhi,Red Fort,879.03,4.4,Heritage
+Delhi_A61,Delhi,Qutub Minar,4962.67,1.7,Sightseeing
+Delhi_A62,Delhi,India Gate,3221.66,3.8,Sightseeing
+Delhi_A63,Delhi,Humayun's Tomb,3790.99,4.0,Sightseeing
+Delhi_A64,Delhi,Lotus Temple,4822.37,3.1,Religious/Spiritual
+Delhi_A65,Delhi,Jama Masjid,2299.82,3.1,Sightseeing
+Delhi_A66,Delhi,Chandni Chowk,2360.19,2.6,Sightseeing
+Delhi_A67,Delhi,Dilli Haat,4341.5,5.5,Sightseeing
+Delhi_A68,Delhi,National Museum,2627.55,4.8,Heritage
+Delhi_A69,Delhi,Lodhi Garden,4340.15,6.0,Nature
+Mumbai_A70,Mumbai,Gateway of India,1745.64,1.5,Sightseeing
+Mumbai_A71,Mumbai,Marine Drive,3901.95,4.1,Sightseeing
+Mumbai_A72,Mumbai,CSMVS Museum,2377.9,1.7,Heritage
+Mumbai_A73,Mumbai,Elephanta Caves,808.23,2.0,Heritage
+Mumbai_A74,Mumbai,Colaba Causeway,692.59,1.1,Sightseeing
+Mumbai_A75,Mumbai,Sanjay Gandhi National Park,3045.92,5.3,Nature
+Mumbai_A76,Mumbai,Chhatrapati Shivaji Maharaj Terminus,4456.41,1.2,Sightseeing
+Mumbai_A77,Mumbai,Bandra-Worli Sea Link,4410.63,4.3,Sightseeing
+Mumbai_A78,Mumbai,Juhu Beach,2668.81,2.3,Nature
+Mumbai_A79,Mumbai,Film City,728.13,5.4,Sightseeing
+Hyderabad_A80,Hyderabad,Charminar,3041.3,4.2,Sightseeing
+Hyderabad_A81,Hyderabad,Golconda Fort,2105.87,4.6,Heritage
+Hyderabad_A82,Hyderabad,Salar Jung Museum,672.02,4.1,Heritage
+Hyderabad_A83,Hyderabad,Hussain Sagar Lake,4096.49,1.2,Nature
+Hyderabad_A84,Hyderabad,Qutb Shahi Tombs,3615.63,2.3,Sightseeing
+Hyderabad_A85,Hyderabad,Chowmahalla Palace,3838.54,2.0,Heritage
+Hyderabad_A86,Hyderabad,Mecca Masjid,3666.3,3.8,Sightseeing
+Hyderabad_A87,Hyderabad,Laad Bazaar,3602.13,1.7,Shopping/Food
+Hyderabad_A88,Hyderabad,Ramoji Film City,1727.69,2.0,Sightseeing
+Hyderabad_A89,Hyderabad,Necklace Road,4597.17,5.5,Sightseeing
+Bengaluru_A90,Bengaluru,Lalbagh Botanical Garden,3270.72,1.7,Nature
+Bengaluru_A91,Bengaluru,Cubbon Park,3685.39,3.6,Nature
+Bengaluru_A92,Bengaluru,Bangalore Palace,989.4,4.3,Heritage
+Bengaluru_A93,Bengaluru,Vidhana Soudha,601.18,6.0,Sightseeing
+Bengaluru_A94,Bengaluru,ISKCON Temple,4082.43,2.8,Religious/Spiritual
+Bengaluru_A95,Bengaluru,Tipu Sultan's Summer Palace,2348.52,5.1,Heritage
+Bengaluru_A96,Bengaluru,Visvesvaraya Museum,4484.41,5.1,Heritage
+Bengaluru_A97,Bengaluru,Bannerghatta Biological Park,1992.61,5.0,Nature
+Bengaluru_A98,Bengaluru,Commercial Street,3623.48,4.7,Sightseeing
+Bengaluru_A99,Bengaluru,Church Street,1938.21,4.2,Religious/Spiritual
+Chennai_A100,Chennai,Marina Beach,1708.98,2.3,Nature
+Chennai_A101,Chennai,Kapaleeshwarar Temple,3661.95,2.1,Religious/Spiritual
+Chennai_A102,Chennai,Fort St. George,4003.44,1.3,Heritage
+Chennai_A103,Chennai,Government Museum,4967.58,5.4,Heritage
+Chennai_A104,Chennai,San Thome Basilica,4173.63,5.9,Sightseeing
+Chennai_A105,Chennai,Mylapore Heritage Walk,1565.45,3.9,Heritage
+Chennai_A106,Chennai,Valluvar Kottam,4756.2,3.4,Sightseeing
+Chennai_A107,Chennai,Guindy National Park,2366.89,1.3,Nature
+Chennai_A108,Chennai,Besant Nagar Beach,2028.38,4.1,Nature
+Chennai_A109,Chennai,DakshinaChitra,3149.13,1.9,Sightseeing
+Kolkata_A110,Kolkata,Victoria Memorial,590.87,4.5,Heritage
+Kolkata_A111,Kolkata,Howrah Bridge,1790.55,5.8,Sightseeing
+Kolkata_A112,Kolkata,Indian Museum,2327.39,5.1,Heritage
+Kolkata_A113,Kolkata,St. Paul's Cathedral,4264.37,3.1,Sightseeing
+Kolkata_A114,Kolkata,Dakshineswar Kali Temple,3143.09,5.0,Religious/Spiritual
+Kolkata_A115,Kolkata,Belur Math,1216.15,3.7,Sightseeing
+Kolkata_A116,Kolkata,Park Street,2192.87,5.7,Nature
+Kolkata_A117,Kolkata,College Street,3760.6,2.0,Sightseeing
+Kolkata_A118,Kolkata,Kumartuli,4930.16,2.0,Sightseeing
+Kolkata_A119,Kolkata,Prinsep Ghat,4585.85,3.5,Sightseeing
+Amritsar_A120,Amritsar,Golden Temple,2324.31,4.9,Religious/Spiritual
+Amritsar_A121,Amritsar,Jallianwala Bagh,631.32,5.1,Sightseeing
+Amritsar_A122,Amritsar,Wagah-Attari Border,2171.62,1.3,Sightseeing
+Amritsar_A123,Amritsar,Partition Museum,4260.94,2.6,Heritage
+Amritsar_A124,Amritsar,Akal Takht,4726.56,5.1,Sightseeing
+Amritsar_A125,Amritsar,Durgiana Temple,962.23,2.5,Religious/Spiritual
+Amritsar_A126,Amritsar,Gobindgarh Fort,594.38,6.0,Heritage
+Amritsar_A127,Amritsar,Heritage Street,4399.4,4.3,Heritage
+Amritsar_A128,Amritsar,Hall Bazaar,1403.06,5.1,Shopping/Food
+Amritsar_A129,Amritsar,Punjabi Food Trail,4488.14,3.3,Shopping/Food
+Rishikesh_A130,Rishikesh,Ram Jhula,2237.76,1.0,Sightseeing
+Rishikesh_A131,Rishikesh,Triveni Ghat,4980.8,2.1,Sightseeing
+Rishikesh_A132,Rishikesh,Beatles Ashram,2413.7,5.9,Religious/Spiritual
+Rishikesh_A133,Rishikesh,River Rafting,4455.55,3.6,Nature
+Rishikesh_A134,Rishikesh,Neer Garh Waterfall,2144.29,1.7,Nature
+Rishikesh_A135,Rishikesh,Neelkanth Mahadev Temple,1183.92,3.6,Religious/Spiritual
+Rishikesh_A136,Rishikesh,Rajaji National Park,946.89,1.3,Nature
+Rishikesh_A137,Rishikesh,Yoga Retreat,4364.49,3.5,Sightseeing
+Rishikesh_A138,Rishikesh,Ganga Riverside Camping,4054.14,2.5,Nature
+Rishikesh_A139,Rishikesh,Laxman Jhula Area,4601.98,3.9,Sightseeing
+Manali_A140,Manali,Solang Valley,2033.8,5.7,Nature
+Manali_A141,Manali,Rohtang Pass,2888.29,3.7,Sightseeing
+Manali_A142,Manali,Hadimba Temple,2248.22,2.6,Religious/Spiritual
+Manali_A143,Manali,Old Manali,4028.96,4.9,Sightseeing
+Manali_A144,Manali,Vashisht Hot Springs,1192.24,1.1,Sightseeing
+Manali_A145,Manali,Jogini Waterfall,3830.71,5.9,Nature
+Manali_A146,Manali,Manu Temple,4230.5,2.0,Religious/Spiritual
+Manali_A147,Manali,Beas River Walk,733.91,3.6,Nature
+Manali_A148,Manali,Sethan Valley,2052.16,3.9,Nature
+Manali_A149,Manali,Mall Road,3595.55,3.9,Sightseeing
+Shimla_A150,Shimla,The Ridge,2560.21,4.9,Sightseeing
+Shimla_A151,Shimla,Mall Road,2454.7,1.3,Sightseeing
+Shimla_A152,Shimla,Jakhoo Temple,4429.46,5.8,Religious/Spiritual
+Shimla_A153,Shimla,Christ Church,4105.66,3.1,Religious/Spiritual
+Shimla_A154,Shimla,Kufri,2388.13,3.1,Sightseeing
+Shimla_A155,Shimla,Viceregal Lodge,4705.07,5.1,Sightseeing
+Shimla_A156,Shimla,Shimla State Museum,4823.12,2.1,Heritage
+Shimla_A157,Shimla,Green Valley,1196.29,2.9,Nature
+Shimla_A158,Shimla,Chadwick Falls,4972.74,1.9,Sightseeing
+Shimla_A159,Shimla,Annandale,1435.25,2.5,Sightseeing
+Leh_A160,Leh,Leh Palace,2469.61,1.8,Heritage
+Leh_A161,Leh,Shanti Stupa,3502.09,3.8,Religious/Spiritual
+Leh_A162,Leh,Thiksey Monastery,3774.94,5.3,Religious/Spiritual
+Leh_A163,Leh,Hemis Monastery,4128.93,2.7,Religious/Spiritual
+Leh_A164,Leh,Magnetic Hill,2993.28,4.4,Nature
+Leh_A165,Leh,Khardung La,1824.77,4.8,Sightseeing
+Leh_A166,Leh,Nubra Valley,1916.69,1.5,Nature
+Leh_A167,Leh,Pangong Lake,697.03,5.0,Nature
+Leh_A168,Leh,Hall of Fame,4645.95,4.1,Sightseeing
+Leh_A169,Leh,Sangam Point,3549.49,3.8,Sightseeing
+Srinagar_A170,Srinagar,Dal Lake Shikara Ride,1783.86,2.6,Nature
+Srinagar_A171,Srinagar,Mughal Gardens,3071.23,2.8,Nature
+Srinagar_A172,Srinagar,Shankaracharya Temple,3608.63,2.5,Religious/Spiritual
+Srinagar_A173,Srinagar,Hazratbal Shrine,781.46,3.9,Sightseeing
+Srinagar_A174,Srinagar,Pari Mahal,2697.72,4.8,Sightseeing
+Srinagar_A175,Srinagar,Nishat Bagh,4761.5,3.1,Sightseeing
+Srinagar_A176,Srinagar,Shalimar Bagh,637.45,2.9,Sightseeing
+Srinagar_A177,Srinagar,Old Srinagar Heritage Walk,3149.41,3.6,Heritage
+Srinagar_A178,Srinagar,Floating Market,2337.21,3.0,Shopping/Food
+Srinagar_A179,Srinagar,Dachigam National Park,4945.14,1.1,Nature
+Darjeeling_A180,Darjeeling,Tiger Hill,1848.71,1.9,Nature
+Darjeeling_A181,Darjeeling,Darjeeling Himalayan Railway,4151.1,2.9,Sightseeing
+Darjeeling_A182,Darjeeling,Batasia Loop,3773.21,4.2,Sightseeing
+Darjeeling_A183,Darjeeling,Tea Garden Visit,816.33,5.3,Nature
+Darjeeling_A184,Darjeeling,Padmaja Naidu Zoological Park,2067.69,3.7,Nature
+Darjeeling_A185,Darjeeling,Peace Pagoda,1010.0,2.9,Sightseeing
+Darjeeling_A186,Darjeeling,Happy Valley Tea Estate,4039.33,3.5,Nature
+Darjeeling_A187,Darjeeling,Himalayan Mountaineering Institute,4790.04,2.0,Sightseeing
+Darjeeling_A188,Darjeeling,Chowrasta Mall,3357.72,5.1,Sightseeing
+Darjeeling_A189,Darjeeling,Rock Garden,2719.62,2.9,Nature
+Sikkim_A190,Sikkim,Gangtok MG Marg,4769.17,4.2,Sightseeing
+Sikkim_A191,Sikkim,Rumtek Monastery,2862.24,5.5,Religious/Spiritual
+Sikkim_A192,Sikkim,Tsomgo Lake,987.83,5.6,Nature
+Sikkim_A193,Sikkim,Nathula Pass,690.12,4.9,Sightseeing
+Sikkim_A194,Sikkim,Baba Mandir,2371.75,4.7,Sightseeing
+Sikkim_A195,Sikkim,Pelling,684.03,5.1,Sightseeing
+Sikkim_A196,Sikkim,Yuksom,4353.75,4.8,Sightseeing
+Sikkim_A197,Sikkim,Ravangla Buddha Park,3269.81,5.1,Nature
+Sikkim_A198,Sikkim,Namchi Char Dham,3039.74,4.6,Sightseeing
+Sikkim_A199,Sikkim,Lachung,1577.08,2.3,Sightseeing
+Ooty_A200,Ooty,Ooty Lake,1779.4,5.5,Nature
+Ooty_A201,Ooty,Nilgiri Mountain Railway,1267.03,5.3,Sightseeing
+Ooty_A202,Ooty,Botanical Garden,3042.69,4.7,Nature
+Ooty_A203,Ooty,Doddabetta Peak,4269.52,5.2,Nature
+Ooty_A204,Ooty,Tea Museum,1793.3,2.0,Heritage
+Ooty_A205,Ooty,Rose Garden,2412.82,4.8,Nature
+Ooty_A206,Ooty,Pykara Lake,2379.27,3.4,Nature
+Ooty_A207,Ooty,Pykara Waterfalls,3668.52,2.0,Nature
+Ooty_A208,Ooty,Emerald Lake,1019.39,2.2,Nature
+Ooty_A209,Ooty,Avalanche Lake,1101.98,3.4,Nature
+Mysuru_A210,Mysuru,Mysore Palace,1116.65,4.3,Heritage
+Mysuru_A211,Mysuru,Chamundi Hill,1161.79,5.6,Nature
+Mysuru_A212,Mysuru,Brindavan Gardens,4798.39,2.3,Nature
+Mysuru_A213,Mysuru,Mysuru Zoo,4692.87,2.4,Sightseeing
+Mysuru_A214,Mysuru,St. Philomena's Cathedral,1909.3,3.9,Sightseeing
+Mysuru_A215,Mysuru,Devaraja Market,2629.16,2.4,Shopping/Food
+Mysuru_A216,Mysuru,Karanji Lake,3895.17,4.0,Nature
+Mysuru_A217,Mysuru,Jaganmohan Palace,2503.75,5.7,Heritage
+Mysuru_A218,Mysuru,Railway Museum,2177.8,5.4,Heritage
+Mysuru_A219,Mysuru,Ranganathittu Bird Sanctuary,4136.53,1.3,Nature
+Coorg_A220,Coorg,Abbey Falls,1852.39,3.8,Sightseeing
+Coorg_A221,Coorg,Raja's Seat,1823.85,2.8,Sightseeing
+Coorg_A222,Coorg,Dubare Elephant Camp,2883.95,3.1,Sightseeing
+Coorg_A223,Coorg,Talakaveri,3763.13,4.7,Sightseeing
+Coorg_A224,Coorg,Mandalpatti Viewpoint,1427.41,5.4,Sightseeing
+Coorg_A225,Coorg,Namdroling Monastery,3514.93,1.9,Religious/Spiritual
+Coorg_A226,Coorg,Nisargadhama,1288.14,5.7,Sightseeing
+Coorg_A227,Coorg,Madikeri Fort,2893.14,3.8,Heritage
+Coorg_A228,Coorg,Omkareshwara Temple,1936.48,4.2,Religious/Spiritual
+Coorg_A229,Coorg,Coffee Plantation Tour,4363.08,2.9,Shopping/Food
+Pondicherry_A230,Pondicherry,Promenade Beach,1915.69,3.8,Nature
+Pondicherry_A231,Pondicherry,Sri Aurobindo Ashram,969.26,2.3,Religious/Spiritual
+Pondicherry_A232,Pondicherry,Auroville,3772.69,4.4,Sightseeing
+Pondicherry_A233,Pondicherry,Paradise Beach,4739.83,2.4,Nature
+Pondicherry_A234,Pondicherry,French Quarter,628.51,5.7,Sightseeing
+Pondicherry_A235,Pondicherry,Basilica of the Sacred Heart,1557.85,3.5,Sightseeing
+Pondicherry_A236,Pondicherry,Arikamedu,4372.41,2.4,Sightseeing
+Pondicherry_A237,Pondicherry,Botanical Garden,2810.61,4.1,Nature
+Pondicherry_A238,Pondicherry,Puducherry Museum,3300.81,1.6,Heritage
+Pondicherry_A239,Pondicherry,White Town Heritage Walk,2776.46,2.7,Heritage
+Andaman_A240,Andaman,Cellular Jail,2460.99,1.1,Sightseeing
+Andaman_A241,Andaman,Ross Island,865.77,5.1,Sightseeing
+Andaman_A242,Andaman,North Bay Island,1032.84,4.4,Sightseeing
+Andaman_A243,Andaman,Corbyn's Cove Beach,1853.81,1.8,Nature
+Andaman_A244,Andaman,Samudrika Museum,2742.12,5.9,Heritage
+Andaman_A245,Andaman,Chidiya Tapu,2657.0,5.3,Sightseeing
+Andaman_A246,Andaman,Baratang Island,3169.67,2.2,Sightseeing
+Andaman_A247,Andaman,Radhanagar Beach,1012.9,2.5,Nature
+Andaman_A248,Andaman,Elephant Beach,2124.03,2.0,Nature
+Andaman_A249,Andaman,Mount Harriet,2286.25,3.9,Sightseeing
+Lakshadweep_A250,Lakshadweep,Agatti Island,3191.65,3.7,Sightseeing
+Lakshadweep_A251,Lakshadweep,Bangaram Island,3321.35,5.1,Sightseeing
+Lakshadweep_A252,Lakshadweep,Kavaratti Island,3785.58,2.7,Sightseeing
+Lakshadweep_A253,Lakshadweep,Minicoy Island,3530.56,4.9,Sightseeing
+Lakshadweep_A254,Lakshadweep,Kalpeni Island,1033.95,3.2,Sightseeing
+Lakshadweep_A255,Lakshadweep,Kadmat Island,4762.36,4.0,Sightseeing
+Lakshadweep_A256,Lakshadweep,Scuba Diving,4569.46,5.8,Adventure/Experience
+Lakshadweep_A257,Lakshadweep,Snorkeling,1718.36,1.4,Adventure/Experience
+Lakshadweep_A258,Lakshadweep,Kayaking,4034.22,5.8,Adventure/Experience
+Lakshadweep_A259,Lakshadweep,Glass-Bottom Boat Ride,857.35,4.7,Adventure/Experience
+Ranthambore_A260,Ranthambore,Ranthambore National Park Safari,4430.77,2.3,Nature
+Ranthambore_A261,Ranthambore,Ranthambore Fort,751.07,5.1,Heritage
+Ranthambore_A262,Ranthambore,Trinetra Ganesh Temple,1140.92,2.7,Religious/Spiritual
+Ranthambore_A263,Ranthambore,Padam Talao,4140.47,3.5,Nature
+Ranthambore_A264,Ranthambore,Raj Bagh Ruins,3204.58,3.2,Heritage
+Ranthambore_A265,Ranthambore,Surwal Lake,2232.34,1.8,Nature
+Ranthambore_A266,Ranthambore,Kachida Valley,2387.73,3.0,Nature
+Ranthambore_A267,Ranthambore,Malik Talao,3266.67,5.3,Sightseeing
+Ranthambore_A268,Ranthambore,Jogi Mahal,2686.03,3.9,Sightseeing
+Ranthambore_A269,Ranthambore,Village Heritage Walk,2608.09,3.5,Heritage
+Jaisalmer_A270,Jaisalmer,Jaisalmer Fort,3709.39,2.3,Heritage
+Jaisalmer_A271,Jaisalmer,Patwon Ki Haveli,743.47,5.0,Heritage
+Jaisalmer_A272,Jaisalmer,Gadisar Lake,1923.92,5.3,Nature
+Jaisalmer_A273,Jaisalmer,Sam Sand Dunes,847.88,3.0,Sightseeing
+Jaisalmer_A274,Jaisalmer,Kuldhara Village,1110.86,1.2,Sightseeing
+Jaisalmer_A275,Jaisalmer,Salim Singh Ki Haveli,1662.21,4.8,Heritage
+Jaisalmer_A276,Jaisalmer,Bada Bagh,3597.58,5.0,Sightseeing
+Jaisalmer_A277,Jaisalmer,Desert Camel Safari,806.58,1.5,Adventure/Experience
+Jaisalmer_A278,Jaisalmer,Desert Camping,3349.24,5.6,Adventure/Experience
+Jaisalmer_A279,Jaisalmer,Nathmal Ki Haveli,1695.21,5.4,Heritage
+Jodhpur_A280,Jodhpur,Mehrangarh Fort,3360.68,3.8,Heritage
+Jodhpur_A281,Jodhpur,Jaswant Thada,4121.83,4.2,Sightseeing
+Jodhpur_A282,Jodhpur,Umaid Bhawan Palace,1564.84,3.7,Heritage
+Jodhpur_A283,Jodhpur,Blue City Heritage Walk,3321.66,2.4,Heritage
+Jodhpur_A284,Jodhpur,Clock Tower Market,1588.75,5.2,Shopping/Food
+Jodhpur_A285,Jodhpur,Mandore Gardens,3473.96,3.9,Nature
+Jodhpur_A286,Jodhpur,Rao Jodha Desert Rock Park,985.44,3.0,Nature
+Jodhpur_A287,Jodhpur,Kaylana Lake,2816.13,3.1,Nature
+Jodhpur_A288,Jodhpur,Toorji Ka Jhalra,1353.0,2.4,Sightseeing
+Jodhpur_A289,Jodhpur,Mehrangarh Zipline,3831.05,2.6,Adventure/Experience
+Munnar_A290,Munnar,Tea Gardens,762.68,5.1,Nature
+Munnar_A291,Munnar,Eravikulam National Park,4968.91,3.7,Nature
+Munnar_A292,Munnar,Mattupetty Dam,2944.0,2.6,Nature
+Munnar_A293,Munnar,Top Station,4208.42,1.6,Sightseeing
+Munnar_A294,Munnar,Echo Point,2703.6,1.3,Sightseeing
+Munnar_A295,Munnar,Kundala Lake,2049.93,4.4,Nature
+Munnar_A296,Munnar,Tea Museum,3296.1,3.3,Heritage
+Munnar_A297,Munnar,Attukad Waterfalls,1127.16,2.1,Nature
+Munnar_A298,Munnar,Anamudi Peak,4827.88,3.7,Nature
+Munnar_A299,Munnar,Kolukkumalai Tea Estate,2625.3,3.5,Shopping/Food
+Wayanad_A300,Wayanad,Edakkal Caves,1167.63,1.8,Heritage
+Wayanad_A301,Wayanad,Banasura Sagar Dam,3076.91,1.3,Nature
+Wayanad_A302,Wayanad,Soochipara Falls,1448.37,5.8,Sightseeing
+Wayanad_A303,Wayanad,Vythiri,3204.25,3.0,Sightseeing
+Wayanad_A304,Wayanad,Kuruva Dweep,3751.5,2.6,Sightseeing
+Wayanad_A305,Wayanad,Pookode Lake,4746.28,5.9,Nature
+Wayanad_A306,Wayanad,Kanthanpara Waterfall,1894.26,4.5,Nature
+Wayanad_A307,Wayanad,Chain Tree,1261.39,2.0,Sightseeing
+Wayanad_A308,Wayanad,Sulthan Bathery,1955.26,2.5,Sightseeing
+Wayanad_A309,Wayanad,Wayanad Wildlife Sanctuary,618.69,5.6,Nature
+Hampi_A310,Hampi,Virupaksha Temple,4315.13,4.8,Religious/Spiritual
+Hampi_A311,Hampi,Vijaya Vittala Temple,2389.84,5.9,Religious/Spiritual
+Hampi_A312,Hampi,Stone Chariot,3411.03,5.7,Sightseeing
+Hampi_A313,Hampi,Hampi Bazaar,1106.52,4.6,Shopping/Food
+Hampi_A314,Hampi,Lotus Mahal,1114.79,3.3,Sightseeing
+Hampi_A315,Hampi,Elephant Stables,4063.97,1.9,Sightseeing
+Hampi_A316,Hampi,Achyutaraya Temple,1682.09,1.7,Religious/Spiritual
+Hampi_A317,Hampi,Matanga Hill,4962.78,6.0,Nature
+Hampi_A318,Hampi,Hemakuta Hill,1750.76,3.4,Nature
+Hampi_A319,Hampi,Tungabhadra Coracle Ride,4496.43,2.2,Adventure/Experience
+Gokarna_A320,Gokarna,Om Beach,3345.1,3.4,Nature
+Gokarna_A321,Gokarna,Kudle Beach,4040.44,6.0,Nature
+Gokarna_A322,Gokarna,Half Moon Beach,3149.86,3.7,Nature
+Gokarna_A323,Gokarna,Paradise Beach,558.19,5.1,Nature
+Gokarna_A324,Gokarna,Mahabaleshwar Temple,4497.25,5.7,Religious/Spiritual
+Gokarna_A325,Gokarna,Gokarna Main Beach,4213.76,5.5,Nature
+Gokarna_A326,Gokarna,Yana Caves Day Trip,2567.32,1.4,Heritage
+Gokarna_A327,Gokarna,Mirjan Fort,3172.27,3.8,Heritage
+Gokarna_A328,Gokarna,Koti Tirtha,4490.82,2.3,Sightseeing
+Gokarna_A329,Gokarna,Beach Trek,1558.49,1.2,Nature
+Kodaikanal_A330,Kodaikanal,Kodaikanal Lake,4487.45,2.0,Nature
+Kodaikanal_A331,Kodaikanal,Coaker's Walk,2140.63,2.9,Sightseeing
+Kodaikanal_A332,Kodaikanal,Bryant Park,3367.03,1.5,Nature
+Kodaikanal_A333,Kodaikanal,Pillar Rocks,3017.42,4.2,Sightseeing
+Kodaikanal_A334,Kodaikanal,Silver Cascade Falls,2129.5,2.8,Sightseeing
+Kodaikanal_A335,Kodaikanal,Guna Caves,3177.16,3.2,Heritage
+Kodaikanal_A336,Kodaikanal,Dolphin's Nose,1089.61,1.9,Sightseeing
+Kodaikanal_A337,Kodaikanal,Bear Shola Falls,4880.45,3.2,Sightseeing
+Kodaikanal_A338,Kodaikanal,Moir Point,1607.07,5.1,Sightseeing
+Kodaikanal_A339,Kodaikanal,Berijam Lake,4778.37,5.3,Nature
+Mahabaleshwar_A340,Mahabaleshwar,Venna Lake,668.48,3.8,Nature
+Mahabaleshwar_A341,Mahabaleshwar,Arthur's Seat,4822.94,2.8,Sightseeing
+Mahabaleshwar_A342,Mahabaleshwar,Pratapgad Fort,1143.94,3.1,Heritage
+Mahabaleshwar_A343,Mahabaleshwar,Mapro Garden,4872.54,4.6,Nature
+Mahabaleshwar_A344,Mahabaleshwar,Elephant's Head Point,4850.13,3.5,Sightseeing
+Mahabaleshwar_A345,Mahabaleshwar,Lingmala Waterfall,4322.83,2.3,Nature
+Mahabaleshwar_A346,Mahabaleshwar,Krishnabai Temple,3010.36,4.8,Religious/Spiritual
+Mahabaleshwar_A347,Mahabaleshwar,Wilson Point,3478.91,5.2,Sightseeing
+Mahabaleshwar_A348,Mahabaleshwar,Panch Ganga Temple,1948.67,2.6,Religious/Spiritual
+Mahabaleshwar_A349,Mahabaleshwar,Strawberry Farm Visit,1680.58,1.6,Sightseeing
+Nashik_A350,Nashik,Trimbakeshwar Temple,2180.88,5.8,Religious/Spiritual
+Nashik_A351,Nashik,Sula Vineyards,4960.43,3.3,Sightseeing
+Nashik_A352,Nashik,Pandavleni Caves,3003.06,3.2,Heritage
+Nashik_A353,Nashik,Ram Kund,2144.46,4.8,Sightseeing
+Nashik_A354,Nashik,Kalaram Temple,2367.69,1.5,Religious/Spiritual
+Nashik_A355,Nashik,Sita Gufa,3238.95,3.9,Sightseeing
+Nashik_A356,Nashik,Anjaneri Hills,4199.0,4.2,Nature
+Nashik_A357,Nashik,Gangapur Dam,4444.46,4.9,Nature
+Nashik_A358,Nashik,Coin Museum,2471.32,5.0,Heritage
+Nashik_A359,Nashik,Godavari River Walk,4818.55,5.7,Nature
+Ajanta_Ellora_A360,Ajanta_Ellora,Ajanta Caves,2739.89,4.2,Heritage
+Ajanta_Ellora_A361,Ajanta_Ellora,Ellora Caves,3593.21,2.1,Heritage
+Ajanta_Ellora_A362,Ajanta_Ellora,Bibi Ka Maqbara,2613.24,1.5,Sightseeing
+Ajanta_Ellora_A363,Ajanta_Ellora,Daulatabad Fort,4519.54,1.5,Heritage
+Ajanta_Ellora_A364,Ajanta_Ellora,Aurangabad Caves,3435.83,4.0,Heritage
+Ajanta_Ellora_A365,Ajanta_Ellora,Panchakki,1336.12,4.9,Sightseeing
+Ajanta_Ellora_A366,Ajanta_Ellora,Soneri Mahal,3478.04,3.6,Sightseeing
+Ajanta_Ellora_A367,Ajanta_Ellora,Ghrishneshwar Temple,4116.01,5.7,Religious/Spiritual
+Ajanta_Ellora_A368,Ajanta_Ellora,Himayat Bagh,2912.41,3.4,Sightseeing
+Ajanta_Ellora_A369,Ajanta_Ellora,Ellora Heritage Walk,3023.18,5.8,Heritage
+Kutch_A370,Kutch,Great Rann of Kutch,943.05,5.3,Sightseeing
+Kutch_A371,Kutch,Kalo Dungar,2835.1,2.1,Sightseeing
+Kutch_A372,Kutch,Mandvi Beach,1407.14,5.8,Nature
+Kutch_A373,Kutch,Vijay Vilas Palace,1630.76,5.9,Heritage
+Kutch_A374,Kutch,Bhujodi Handicraft Village,1814.72,3.3,Shopping/Food
+Kutch_A375,Kutch,Aina Mahal,1987.14,4.1,Sightseeing
+Kutch_A376,Kutch,Prag Mahal,2229.77,3.5,Sightseeing
+Kutch_A377,Kutch,Kutch Museum,3984.28,1.2,Heritage
+Kutch_A378,Kutch,Dholavira,1220.4,5.9,Sightseeing
+Kutch_A379,Kutch,Hodka Village,4990.56,3.4,Sightseeing
+Jim_Corbett_A380,Jim_Corbett,Corbett National Park Safari,3754.41,2.4,Nature
+Jim_Corbett_A381,Jim_Corbett,Dhikala Zone,2713.79,4.4,Sightseeing
+Jim_Corbett_A382,Jim_Corbett,Bijrani Zone,2437.84,2.6,Sightseeing
+Jim_Corbett_A383,Jim_Corbett,Corbett Waterfall,3165.21,2.1,Nature
+Jim_Corbett_A384,Jim_Corbett,Garjiya Devi Temple,3281.08,4.1,Religious/Spiritual
+Jim_Corbett_A385,Jim_Corbett,Sitabani Wildlife Reserve,1544.17,3.5,Sightseeing
+Jim_Corbett_A386,Jim_Corbett,Kosi River,2993.77,5.2,Nature
+Jim_Corbett_A387,Jim_Corbett,Corbett Museum,1075.52,5.2,Heritage
+Jim_Corbett_A388,Jim_Corbett,Sultan's Battery,3955.28,4.8,Sightseeing
+Jim_Corbett_A389,Jim_Corbett,Jhirna Zone,3739.39,3.6,Sightseeing
+Kaziranga_A390,Kaziranga,Kaziranga Jeep Safari,4180.25,5.3,Adventure/Experience
+Kaziranga_A391,Kaziranga,Kaziranga Elephant Safari,1653.24,3.1,Adventure/Experience
+Kaziranga_A392,Kaziranga,Central Range,1887.19,4.4,Sightseeing
+Kaziranga_A393,Kaziranga,Western Range,2392.17,1.4,Sightseeing
+Kaziranga_A394,Kaziranga,Eastern Range,4421.73,4.7,Sightseeing
+Kaziranga_A395,Kaziranga,Kohora Orchid Park,2702.86,2.5,Nature
+Kaziranga_A396,Kaziranga,Kaziranga Orchid and Biodiversity Park,4025.74,1.3,Nature
+Kaziranga_A397,Kaziranga,Panbari Reserve Forest,4711.81,4.7,Nature
+Kaziranga_A398,Kaziranga,Brahmaputra River Cruise,3950.08,5.7,Nature
+Kaziranga_A399,Kaziranga,Tea Garden Visit,4835.95,5.1,Nature
+Meghalaya_A400,Meghalaya,Shillong Peak,4395.68,5.8,Nature
+Meghalaya_A401,Meghalaya,Elephant Falls,2971.68,4.5,Sightseeing
+Meghalaya_A402,Meghalaya,Umiam Lake,2856.48,4.0,Nature
+Meghalaya_A403,Meghalaya,Cherrapunji,4232.63,3.3,Sightseeing
+Meghalaya_A404,Meghalaya,Nohkalikai Falls,550.45,2.2,Sightseeing
+Meghalaya_A405,Meghalaya,Mawsmai Caves,4747.07,3.7,Heritage
+Meghalaya_A406,Meghalaya,Living Root Bridge,3849.95,5.0,Sightseeing
+Meghalaya_A407,Meghalaya,Dawki River,3305.1,5.1,Nature
+Meghalaya_A408,Meghalaya,Mawlynnong Village,1080.63,1.6,Sightseeing
+Meghalaya_A409,Meghalaya,Laitlum Canyon,3476.14,5.8,Sightseeing
+Tawang_A410,Tawang,Tawang Monastery,2923.19,4.7,Religious/Spiritual
+Tawang_A411,Tawang,Sela Pass,1609.86,1.1,Sightseeing
+Tawang_A412,Tawang,Sela Lake,2290.48,3.5,Nature
+Tawang_A413,Tawang,Bum La Pass,3734.64,1.6,Sightseeing
+Tawang_A414,Tawang,Madhuri Lake,2932.09,3.3,Nature
+Tawang_A415,Tawang,Nuranang Falls,3903.21,5.9,Sightseeing
+Tawang_A416,Tawang,Tawang War Memorial,981.16,2.4,Heritage
+Tawang_A417,Tawang,P.T. Tso Lake,4339.59,2.5,Nature
+Tawang_A418,Tawang,Urgelling Monastery,1718.7,1.3,Religious/Spiritual
+Tawang_A419,Tawang,Jaswant Garh,2193.64,3.2,Sightseeing
+Khajuraho_A420,Khajuraho,Western Group Temples,3797.0,1.7,Religious/Spiritual
+Khajuraho_A421,Khajuraho,Eastern Group Temples,1822.98,3.3,Religious/Spiritual
+Khajuraho_A422,Khajuraho,Southern Group Temples,2311.37,4.7,Religious/Spiritual
+Khajuraho_A423,Khajuraho,Kandariya Mahadeva Temple,2130.38,3.8,Religious/Spiritual
+Khajuraho_A424,Khajuraho,Lakshmana Temple,3499.49,3.5,Religious/Spiritual
+Khajuraho_A425,Khajuraho,Devi Jagadambi Temple,2369.08,3.0,Religious/Spiritual
+Khajuraho_A426,Khajuraho,Matangeshwar Temple,1576.63,3.3,Religious/Spiritual
+Khajuraho_A427,Khajuraho,Khajuraho Archaeological Museum,3963.92,3.6,Heritage
+Khajuraho_A428,Khajuraho,Raneh Falls Day Trip,2641.52,1.8,Sightseeing
+Khajuraho_A429,Khajuraho,Sound and Light Show,1289.62,1.9,Sightseeing
+Bodh_Gaya_A430,Bodh_Gaya,Mahabodhi Temple,3632.91,1.6,Religious/Spiritual
+Bodh_Gaya_A431,Bodh_Gaya,Bodhi Tree,2408.87,5.7,Sightseeing
+Bodh_Gaya_A432,Bodh_Gaya,Great Buddha Statue,4743.79,2.5,Sightseeing
+Bodh_Gaya_A433,Bodh_Gaya,Thai Monastery,2410.46,2.1,Religious/Spiritual
+Bodh_Gaya_A434,Bodh_Gaya,Royal Bhutan Monastery,1357.73,2.3,Religious/Spiritual
+Bodh_Gaya_A435,Bodh_Gaya,Japanese Temple,2501.87,5.1,Religious/Spiritual
+Bodh_Gaya_A436,Bodh_Gaya,Dungeshwari Cave Temples,4444.2,5.4,Religious/Spiritual
+Bodh_Gaya_A437,Bodh_Gaya,Tibetan Monastery,1157.56,4.5,Religious/Spiritual
+Bodh_Gaya_A438,Bodh_Gaya,Muchalinda Lake,1223.76,3.7,Nature
+Bodh_Gaya_A439,Bodh_Gaya,Sujata Stupa,4016.82,4.0,Religious/Spiritual
+Visakhapatnam_A440,Visakhapatnam,RK Beach,660.54,3.6,Nature
+Visakhapatnam_A441,Visakhapatnam,Kailasagiri,3238.31,5.2,Sightseeing
+Visakhapatnam_A442,Visakhapatnam,INS Kurusura Submarine Museum,3857.29,5.6,Heritage
+Visakhapatnam_A443,Visakhapatnam,Simhachalam Temple,1441.04,3.5,Religious/Spiritual
+Visakhapatnam_A444,Visakhapatnam,Yarada Beach,2920.43,6.0,Nature
+Visakhapatnam_A445,Visakhapatnam,Araku Valley,4106.7,5.4,Nature
+Visakhapatnam_A446,Visakhapatnam,Borra Caves,3428.08,1.3,Heritage
+Visakhapatnam_A447,Visakhapatnam,Dolphin's Nose,637.86,2.5,Sightseeing
+Visakhapatnam_A448,Visakhapatnam,Rushikonda Beach,3758.8,2.8,Nature
+Visakhapatnam_A449,Visakhapatnam,Tribal Museum Araku,4608.88,2.1,Heritage
+Rann_of_Kutch_A450,Rann_of_Kutch,White Rann,4253.03,4.4,Sightseeing
+Rann_of_Kutch_A451,Rann_of_Kutch,Dhordo Village,1781.87,2.6,Sightseeing
+Rann_of_Kutch_A452,Rann_of_Kutch,Kala Dungar,2149.74,1.4,Sightseeing
+Rann_of_Kutch_A453,Rann_of_Kutch,Kutch Desert Wildlife Sanctuary,1407.16,3.6,Nature
+Rann_of_Kutch_A454,Rann_of_Kutch,Hodka Village,4464.33,1.5,Sightseeing
+Rann_of_Kutch_A455,Rann_of_Kutch,Mandvi Beach,3785.83,2.1,Nature
+Rann_of_Kutch_A456,Rann_of_Kutch,Vijay Vilas Palace,3391.18,1.7,Heritage
+Rann_of_Kutch_A457,Rann_of_Kutch,Bhujodi Craft Village,4851.01,2.7,Shopping/Food
+Rann_of_Kutch_A458,Rann_of_Kutch,Kutch Museum,2534.98,4.6,Heritage
+Rann_of_Kutch_A459,Rann_of_Kutch,Rann Utsav,2438.77,4.5,Sightseeing
+Madurai_A460,Madurai,Meenakshi Amman Temple,4141.32,3.7,Religious/Spiritual
+Madurai_A461,Madurai,Thirumalai Nayakkar Palace,2940.05,2.7,Heritage
+Madurai_A462,Madurai,Gandhi Memorial Museum,643.02,1.4,Heritage
+Madurai_A463,Madurai,Alagar Koyil,504.96,3.9,Sightseeing
+Madurai_A464,Madurai,Pazhamudir Solai,4931.53,1.9,Sightseeing
+Madurai_A465,Madurai,Vandiyur Mariamman Teppakulam,1591.25,5.9,Sightseeing
+Madurai_A466,Madurai,Thirupparankundram Temple,4868.87,2.6,Religious/Spiritual
+Madurai_A467,Madurai,Puthu Mandapam,515.5,2.7,Sightseeing
+Madurai_A468,Madurai,Samanar Hills,2603.2,2.9,Nature
+Madurai_A469,Madurai,Banana Market,3949.98,2.6,Shopping/Food
+Puri_A470,Puri,Jagannath Temple,4877.41,1.0,Religious/Spiritual
+Puri_A471,Puri,Puri Beach,1237.58,1.6,Nature
+Puri_A472,Puri,Golden Beach,554.84,2.9,Nature
+Puri_A473,Puri,Konark Sun Temple,652.44,3.4,Religious/Spiritual
+Puri_A474,Puri,Chandrabhaga Beach,2061.09,1.8,Nature
+Puri_A475,Puri,Raghurajpur Artist Village,4827.48,5.7,Sightseeing
+Puri_A476,Puri,Pipili Applique Village,1593.63,3.5,Sightseeing
+Puri_A477,Puri,Gundicha Temple,4601.34,4.1,Religious/Spiritual
+Puri_A478,Puri,Markandeshwar Temple,873.01,3.3,Religious/Spiritual
+Puri_A479,Puri,Chilika Lake Day Trip,1989.31,3.1,Nature
+Rajasthan_A480,Rajasthan,Jaipur,2097.84,1.3,Sightseeing
+Rajasthan_A481,Rajasthan,Udaipur,3179.8,1.2,Sightseeing
+Rajasthan_A482,Rajasthan,Jodhpur,1097.53,3.2,Sightseeing
+Rajasthan_A483,Rajasthan,Jaisalmer,4515.13,2.8,Sightseeing
+Rajasthan_A484,Rajasthan,Pushkar,1787.13,2.6,Sightseeing
+Rajasthan_A485,Rajasthan,Ranthambore National Park,3947.2,5.1,Nature
+Rajasthan_A486,Rajasthan,Mount Abu,2311.12,3.4,Sightseeing
+Rajasthan_A487,Rajasthan,Chittorgarh Fort,3986.38,2.0,Heritage
+Rajasthan_A488,Rajasthan,Bikaner,3950.93,2.9,Sightseeing
+Rajasthan_A489,Rajasthan,Kumbhalgarh Fort,4970.55,4.9,Heritage
+Madhya_Pradesh_A490,Madhya_Pradesh,Khajuraho Temples,1911.57,4.1,Religious/Spiritual
+Madhya_Pradesh_A491,Madhya_Pradesh,Sanchi Stupa,2609.45,4.6,Religious/Spiritual
+Madhya_Pradesh_A492,Madhya_Pradesh,Bhimbetka Rock Shelters,4147.7,3.5,Sightseeing
+Madhya_Pradesh_A493,Madhya_Pradesh,Kanha National Park,3338.02,2.1,Nature
+Madhya_Pradesh_A494,Madhya_Pradesh,Bandhavgarh National Park,3086.97,3.2,Nature
+Madhya_Pradesh_A495,Madhya_Pradesh,Ujjain Mahakaleshwar,4174.87,3.6,Sightseeing
+Madhya_Pradesh_A496,Madhya_Pradesh,Orchha Fort,2450.68,1.5,Heritage
+Madhya_Pradesh_A497,Madhya_Pradesh,Gwalior Fort,1169.16,5.0,Heritage
+Madhya_Pradesh_A498,Madhya_Pradesh,Pachmarhi,4902.54,5.1,Sightseeing
+Madhya_Pradesh_A499,Madhya_Pradesh,Bhojpur Temple,3153.9,3.1,Religious/Spiritual
