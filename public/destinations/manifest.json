@@ -1,0 +1,202 @@
+{
+  "Agra": {
+    "local": "/destinations/agra.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/330px-Taj_Mahal%2C_Agra%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Ajanta_Ellora": {
+    "local": "/destinations/ajanta_ellora.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/330px-Ajanta_%2863%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Amritsar": {
+    "local": "/destinations/amritsar.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg/330px-Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Andaman": {
+    "local": "/destinations/andaman.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Andaman_Islands.PNG/330px-Andaman_Islands.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Bengaluru": {
+    "local": "/destinations/bengaluru.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/330px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Bodh_Gaya": {
+    "local": "/destinations/bodh_gaya.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Mahabodhi_temple_at_Bodhgaya_in_Bihar_21.jpg/330px-Mahabodhi_temple_at_Bodhgaya_in_Bihar_21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Chennai": {
+    "local": "/destinations/chennai.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Chennai_Central.jpg/330px-Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Coorg": {
+    "local": "/destinations/coorg.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg/330px-Tadiandamol_Valley%2C_Western_Ghats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Darjeeling": {
+    "local": "/destinations/darjeeling.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/DarjeelingTrainFruitshop_%282%29.jpg/330px-DarjeelingTrainFruitshop_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Delhi": {
+    "local": "/destinations/delhi.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Goa": {
+    "local": "/destinations/goa.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/330px-BeachFun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Gokarna": {
+    "local": "/destinations/gokarna.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Delight_india.jpg/330px-Delight_india.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Hampi": {
+    "local": "/destinations/hampi.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Hyderabad": {
+    "local": "/destinations/hyderabad.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg/330px-Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Jaipur": {
+    "local": "/destinations/jaipur.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/330px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Jaisalmer": {
+    "local": "/destinations/jaisalmer.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jaisalmer_Fort.jpg/330px-Jaisalmer_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Jim_Corbett": {
+    "local": "/destinations/jim_corbett.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg/330px-Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Jodhpur": {
+    "local": "/destinations/jodhpur.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mehrangarh_Fort_sanhita.jpg/330px-Mehrangarh_Fort_sanhita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Kaziranga": {
+    "local": "/destinations/kaziranga.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/330px-Beauty_of_Kaziranga_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Kerala": {
+    "local": "/destinations/kerala.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/330px-Boathouse_%287063399547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Khajuraho": {
+    "local": "/destinations/khajuraho.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/330px-1_Khajuraho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Kodaikanal": {
+    "local": "/destinations/kodaikanal.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Boating_in_Kodaikanal_Lake_with_Mist.jpg/330px-Boating_in_Kodaikanal_Lake_with_Mist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Kolkata": {
+    "local": "/destinations/kolkata.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kolkata_maidan.jpg/330px-Kolkata_maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Kutch": {
+    "local": "/destinations/kutch.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Prag_Mahal_Back_side_view%2C_Bhuj%2C_Gujarat%2C_India.jpg/330px-Prag_Mahal_Back_side_view%2C_Bhuj%2C_Gujarat%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Lakshadweep": {
+    "local": "/destinations/lakshadweep.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg/330px-A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Leh": {
+    "local": "/destinations/leh.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Leh_City_seen_from_Shanti_Stupa.JPG/330px-Leh_City_seen_from_Shanti_Stupa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Madhya_Pradesh": {
+    "local": "/destinations/madhya_pradesh.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg/330px-India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Madurai": {
+    "local": "/destinations/madurai.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Meenakshi_Amman_West_Tower.jpg/330px-Meenakshi_Amman_West_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Mahabaleshwar": {
+    "local": "/destinations/mahabaleshwar.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/MAHABALESWAR_LANDSCAPE.jpg/330px-MAHABALESWAR_LANDSCAPE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Manali": {
+    "local": "/destinations/manali.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Manali_City.jpg/330px-Manali_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Meghalaya": {
+    "local": "/destinations/meghalaya.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/330px-Dawki_River%2C_Meghalaya%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Mumbai": {
+    "local": "/destinations/mumbai.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Munnar": {
+    "local": "/destinations/munnar.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/330px-Munnar_Overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Mysuru": {
+    "local": "/destinations/mysuru.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mysuru_Montage.jpg/330px-Mysuru_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Nashik": {
+    "local": "/destinations/nashik.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/NashikViewfromPandavLeni.jpg/330px-NashikViewfromPandavLeni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Ooty": {
+    "local": "/destinations/ooty.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/330px-Ooty_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Pondicherry": {
+    "local": "/destinations/pondicherry.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pondicherry-Rock_beach_aerial_view.jpg/330px-Pondicherry-Rock_beach_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Puri": {
+    "local": "/destinations/puri.jpg",
+    "remote": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=400&q=80"
+  },
+  "Rajasthan": {
+    "local": "/destinations/rajasthan.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Thar_Khuri.jpg/330px-Thar_Khuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Rann_of_Kutch": {
+    "local": "/destinations/rann_of_kutch.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gujarat_Gulfs.jpg/330px-Gujarat_Gulfs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Ranthambore": {
+    "local": "/destinations/ranthambore.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ranthambore_National_Park.JPG/330px-Ranthambore_National_Park.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Rishikesh": {
+    "local": "/destinations/rishikesh.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Trayambakeshwar_Temple_VK.jpg/330px-Trayambakeshwar_Temple_VK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Shimla": {
+    "local": "/destinations/shimla.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg/330px-Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Sikkim": {
+    "local": "/destinations/sikkim.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/330px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Srinagar": {
+    "local": "/destinations/srinagar.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Red_and_Yellow_Tulips.JPG/330px-Red_and_Yellow_Tulips.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Tawang": {
+    "local": "/destinations/tawang.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_buddist_monastry.jpg/330px-The_buddist_monastry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Udaipur": {
+    "local": "/destinations/udaipur.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg/330px-Evening_view%2C_City_Palace%2C_Udaipur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Varanasi": {
+    "local": "/destinations/varanasi.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg/330px-Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Visakhapatnam": {
+    "local": "/destinations/visakhapatnam.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/330px-What_is_Shipyard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Wayanad": {
+    "local": "/destinations/wayanad.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Blue%2C_Green_%26_White.jpg/330px-Blue%2C_Green_%26_White.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+}

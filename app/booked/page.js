@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect, Fragment } from 'react';
 import { useAuth } from '../components/AuthProvider';
+import { getDestinationImageUrl } from '../utils/destinationImages';
 
 export default function BookedTripsPage() {
   const { user } = useAuth();
@@ -113,8 +114,14 @@ export default function BookedTripsPage() {
                     >
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{group.bookingTime}</td>
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{group.groupId}</td>
-                      <td style={{ padding: '1rem', fontWeight: 'bold', color: '#fff' }}>
-                        {group.destination}{group.destination.toLowerCase().includes('india') ? '' : ', India'}
+                      <td style={{ padding: '1rem', fontWeight: 'bold', color: '#fff', display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                        <img 
+                          src={getDestinationImageUrl(group.destination)} 
+                          alt={group.destination} 
+                          style={{ width: '32px', height: '22px', borderRadius: '4px', objectFit: 'cover', border: '1px solid var(--primary)' }} 
+                          onError={(e) => { e.currentTarget.src = '/bg-travel.jpg'; }}
+                        />
+                        <span>{group.destination}{group.destination.toLowerCase().includes('india') ? '' : ', India'}</span>
                       </td>
                       <td style={{ padding: '1rem', color: 'var(--secondary)', fontWeight: 'bold' }}>
                         {expandedGroups[group.groupId] ? '▼ Hide Details' : `▶ View Details (${group.travelers.length})`}

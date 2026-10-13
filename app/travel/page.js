@@ -2,6 +2,8 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import SatisfactionChart from '../components/SatisfactionChart';
+import DestinationThumbnail from '../components/DestinationThumbnail';
 
 export default function TravelPage() {
   const router = useRouter();
@@ -202,21 +204,53 @@ export default function TravelPage() {
 
               return (
                 <div className="card glass" style={{ borderTop: activeTab === 'full' ? '4px solid var(--primary)' : 'none', padding: '2.5rem' }}>
-                  {activeTab === 'full' && (
-                    <div style={{ background: 'var(--primary)', color: '#fff', padding: '0.4rem 1.2rem', borderRadius: '1rem', display: 'inline-block', marginBottom: '1.5rem', fontSize: '0.9rem', fontWeight: 'bold' }}>
-                      🏆 Optimal Fair Package (GRec_Tr-LLM)
-                    </div>
-                  )}
                   
-                  <h2 style={{ marginTop: 0, marginBottom: '0.5rem', color: 'var(--text)' }}>
-                    Destination: <span style={{ color: 'var(--primary)' }}>{pkg.name}</span>
-                  </h2>
+                  {/* Header Row: Title on Left and Large Image in Right-most Corner */}
+                  <div style={{ 
+                    display: 'flex', 
+                    justifyContent: 'space-between', 
+                    alignItems: 'flex-start', 
+                    flexWrap: 'wrap', 
+                    gap: '1.5rem',
+                    marginBottom: '1.2rem' 
+                  }}>
+                    {/* Left: Badge & Destination Name */}
+                    <div style={{ flex: '1 1 300px' }}>
+                      {activeTab === 'full' && (
+                        <div style={{ 
+                          background: 'var(--primary)', 
+                          color: '#fff', 
+                          padding: '0.4rem 1.2rem', 
+                          borderRadius: '1rem', 
+                          display: 'inline-block', 
+                          marginBottom: '1.2rem', 
+                          fontSize: '0.9rem', 
+                          fontWeight: 'bold',
+                          boxShadow: '0 4px 12px rgba(14, 165, 233, 0.35)'
+                        }}>
+                          🏆 Optimal Fair Package (GRec_Tr-LLM)
+                        </div>
+                      )}
+                      
+                      <h2 style={{ marginTop: 0, marginBottom: '0.5rem', color: 'var(--text)', fontSize: '2.4rem', lineHeight: 1.2 }}>
+                        Destination: <span style={{ color: 'var(--primary)' }}>{pkg.name}</span>
+                      </h2>
+                    </div>
+
+                    {/* Right-most Corner: Large Showcase Destination Image */}
+                    <div style={{ display: 'flex', justifyContent: 'flex-end', flexShrink: 0 }}>
+                      <DestinationThumbnail key={pkg.name} name={pkg.name} size="large" />
+                    </div>
+                  </div>
 
                   {activeTab === 'baseline' ? (
                     <div style={{ marginTop: '2rem' }}>
-                      <p style={{ color: 'var(--text-muted)', fontSize: '1.1rem', fontStyle: 'italic' }}>
+                      <p style={{ color: 'var(--text-muted)', fontSize: '1.1rem', fontStyle: 'italic', marginBottom: '1.5rem' }}>
                         Note: The baseline ignores fuzzy logic and HGAT exploration, picking purely average historical destinations based on basic collaborative filtering.
                       </p>
+                      {pkg.member_utilities && (
+                        <SatisfactionChart memberUtilities={pkg.member_utilities} />
+                      )}
                     </div>
                   ) : (
                     <div style={{ marginTop: '2rem' }}>
@@ -262,25 +296,7 @@ export default function TravelPage() {
                       </div>
                       
                       {pkg.member_utilities && (
-                        <div style={{ marginTop: '2.5rem' }}>
-                          <h4 style={{ marginBottom: '1rem', color: 'var(--text-muted)' }}>Individual Member Satisfaction (Utility)</h4>
-                          <div style={{ display: 'flex', gap: '2px', alignItems: 'flex-end', height: '150px', background: 'rgba(0,0,0,0.1)', padding: '1rem', borderRadius: '8px' }}>
-                            {Object.entries(pkg.member_utilities).map(([uid, util]) => (
-                              <div key={uid} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', height: '100%' }}>
-                                <div style={{ 
-                                  width: '80%', 
-                                  height: `${(util / 5.0) * 100}%`, 
-                                  minHeight: '5%',
-                                  background: 'linear-gradient(to top, var(--primary), #4facfe)',
-                                  borderRadius: '4px 4px 0 0',
-                                  transition: 'height 0.5s ease'
-                                }}></div>
-                                <div style={{ marginTop: '0.5rem', fontSize: '0.8rem', color: 'var(--text-muted)' }}>{uid}</div>
-                                <div style={{ fontSize: '0.7rem' }}>{util.toFixed(2)}</div>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
+                        <SatisfactionChart memberUtilities={pkg.member_utilities} />
                       )}
                     </div>
                   )}

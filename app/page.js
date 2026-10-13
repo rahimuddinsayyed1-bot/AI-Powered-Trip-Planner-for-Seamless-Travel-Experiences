@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { useAuth } from './components/AuthProvider';
 import { useState, useEffect } from 'react';
+import { getDestinationImageUrl } from './utils/destinationImages';
 
 export default function Home() {
   const { user } = useAuth();
@@ -114,7 +115,15 @@ export default function Home() {
                     >
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{row.Traveler_ID}</td>
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{row.Group_ID}</td>
-                      <td style={{ padding: '1rem', fontWeight: 'bold', color: '#fff' }}>{row.Preferred_Destination}</td>
+                      <td style={{ padding: '1rem', fontWeight: 'bold', color: '#fff', display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                        <img 
+                          src={getDestinationImageUrl(row.Preferred_Destination)} 
+                          alt={row.Preferred_Destination} 
+                          style={{ width: '32px', height: '22px', borderRadius: '4px', objectFit: 'cover', border: '1px solid rgba(255,255,255,0.2)' }} 
+                          onError={(e) => { e.currentTarget.src = '/bg-travel.jpg'; }}
+                        />
+                        <span>{row.Preferred_Destination}</span>
+                      </td>
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{row.Accommodation_Preference}</td>
                       <td style={{ padding: '1rem', color: '#cbd5e1' }}>{row.Vehicle_Preference}</td>
                     </tr>
@@ -128,7 +137,15 @@ export default function Home() {
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                 {dataset.metadata.top_destinations.map((item, idx) => (
                   <div key={idx} style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
-                    <span style={{ fontWeight: '600', width: '150px', fontSize: '1.2rem', color: '#e2e8f0' }}>{item.dest}</span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', width: '180px' }}>
+                      <img 
+                        src={getDestinationImageUrl(item.dest)} 
+                        alt={item.dest} 
+                        style={{ width: '36px', height: '24px', borderRadius: '6px', objectFit: 'cover', border: '1px solid var(--primary)' }} 
+                        onError={(e) => { e.currentTarget.src = '/bg-travel.jpg'; }}
+                      />
+                      <span style={{ fontWeight: '600', fontSize: '1.15rem', color: '#e2e8f0' }}>{item.dest}</span>
+                    </div>
                     <div style={{ flex: 1, height: '24px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', overflow: 'hidden', boxShadow: 'inset 0 2px 4px rgba(0,0,0,0.2)' }}>
                       <div style={{ 
                         width: `${Math.min(100, (item.count / dataset.metadata.total_rows) * 100)}%`, 
