@@ -1,13 +1,14 @@
 import pandas as pd
 import numpy as np
 import os
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 class BaselineRecommender:
     def __init__(self, data_dir: str):
         """
         Initializes the Baseline Recommender based on traditional GRec_Tr concepts:
         Pearson Correlation CF, Hard Constraints, and standard Group Aggregation.
+        Also loads destination activities and precalculates true historical ratings.
         """
         self.data_dir = data_dir
         self.destinations = pd.read_csv(os.path.join(data_dir, 'destinations.csv'))
@@ -15,8 +16,17 @@ class BaselineRecommender:
         self.flights = pd.read_csv(os.path.join(data_dir, 'flights.csv'))
         self.interactions = pd.read_csv(os.path.join(data_dir, 'interactions.csv'))
         
-        # Precompute average costs for destinations to facilitate hard constraint filtering
+        activities_path = os.path.join(data_dir, 'activities.csv')
+        self.activities = pd.read_csv(activities_path) if os.path.exists(activities_path) else pd.DataFrame()
+        
+        # Precompute destination-level stats
         self.dest_stats = self._compute_dest_stats()
+        self.dest_avg_ratings = self.interactions.groupby('dest_id')['rating'].mean().to_dict()
+        
+        if not self.activities.empty and 'dest_id' in self.activities.columns and 'category' in self.activities.columns:
+            self.dest_activity_categories = self.activities.groupby('dest_id')['category'].apply(lambda x: set(x.astype(str).str.lower())).to_dict()
+        else:
+            self.dest_activity_categories = {}
         
         # Precompute Pearson similarity matrix
         self.user_item_matrix = self.interactions.pivot(index='user_id', columns='dest_id', values='rating')
@@ -36,42 +46,59 @@ class BaselineRecommender:
         stats['estimated_total_cost'] = stats['base_cost'] + stats['avg_flight_cost'] + (stats['price_per_night'] * 3)
         return stats
 
-    def predict_user_rating(self, user_id: str, dest_id: str) -> float:
-        """Predicts a user's rating for a destination using User-User Collaborative Filtering."""
-        if user_id not in self.user_item_matrix.index or dest_id not in self.user_item_matrix.columns:
-            # Cold start fallback: Return destination's global average rating
-            dest_row = self.destinations[self.destinations['dest_id'] == dest_id]
-            if not dest_row.empty and 'average_rating' in dest_row.columns:
-                return dest_row['average_rating'].values[0]
-            return 4.0 # Global fallback
-            
-        user_ratings = self.user_item_matrix.loc[user_id]
-        if pd.isna(user_ratings[dest_id]) == False:
-            return user_ratings[dest_id] # Already rated
-            
-        similarities = self.user_similarity[user_id].dropna()
-        if similarities.empty:
-            return self.destinations[self.destinations['dest_id'] == dest_id]['average_rating'].values[0] if 'average_rating' in self.destinations.columns else 4.0
-            
-        other_users_ratings = self.user_item_matrix[dest_id].dropna()
-        common_users = similarities.index.intersection(other_users_ratings.index)
+    def predict_user_rating(self, user_id: str, dest_id: str, user_pref: Optional[Any] = None) -> float:
+        """
+        Predicts a user's rating for a destination using User-User Collaborative Filtering.
+        For cold-start users (e.g. dynamic web users u_0, u_1, ...), combines historical
+        destination ratings with standard content preference alignment (dest type & activities).
+        """
+        # 1. Warm-start: If user exists in historical interaction matrix, apply standard Pearson CF
+        if user_id in self.user_item_matrix.index and dest_id in self.user_item_matrix.columns:
+            user_ratings = self.user_item_matrix.loc[user_id]
+            if pd.isna(user_ratings[dest_id]) == False:
+                return float(user_ratings[dest_id])
+                
+            similarities = self.user_similarity[user_id].dropna()
+            if not similarities.empty:
+                other_users_ratings = self.user_item_matrix[dest_id].dropna()
+                common_users = similarities.index.intersection(other_users_ratings.index)
+                if len(common_users) > 0:
+                    sim_scores = similarities[common_users]
+                    ratings = other_users_ratings[common_users]
+                    positive_mask = sim_scores > 0
+                    if positive_mask.any():
+                        weighted_sum = (sim_scores[positive_mask] * ratings[positive_mask]).sum()
+                        sum_of_weights = sim_scores[positive_mask].sum()
+                        if sum_of_weights > 0:
+                            return float(round(weighted_sum / sum_of_weights, 2))
+
+        # 2. Cold-start fallback (e.g. dynamic web users)
+        # Base rating derived from real historical interaction logs
+        base_rating = float(self.dest_avg_ratings.get(dest_id, 3.8))
         
-        if len(common_users) == 0:
-            return self.destinations[self.destinations['dest_id'] == dest_id]['average_rating'].values[0] if 'average_rating' in self.destinations.columns else 4.0
-            
-        # Weighted sum based on Pearson similarity
-        sim_scores = similarities[common_users]
-        ratings = other_users_ratings[common_users]
-        
-        # Only use positive similarities
-        positive_mask = sim_scores > 0
-        if not positive_mask.any():
-            return self.destinations[self.destinations['dest_id'] == dest_id]['average_rating'].values[0] if 'average_rating' in self.destinations.columns else 4.0
-            
-        weighted_sum = (sim_scores[positive_mask] * ratings[positive_mask]).sum()
-        sum_of_weights = sim_scores[positive_mask].sum()
-        
-        return weighted_sum / sum_of_weights
+        # Apply standard content-based preference alignment if user preference metadata is provided
+        if user_pref is not None:
+            sc = getattr(user_pref, 'soft_constraints', None)
+            if sc:
+                # A. Destination Type Match (Beach, Mountain, Historic, City, Nature)
+                dest_row = self.destinations[self.destinations['dest_id'] == dest_id]
+                dest_type = str(dest_row['type'].values[0]).lower() if (not dest_row.empty and 'type' in dest_row.columns) else ''
+                pref_types = [t.lower() for t in (getattr(sc, 'preferred_destination_types', []) or [])]
+                
+                if pref_types:
+                    if any(pt in dest_type or dest_type in pt for pt in pref_types):
+                        base_rating += 0.7  # Category alignment bonus
+                    else:
+                        base_rating -= 0.4  # Preference divergence penalty
+                
+                # B. Activity Match
+                pref_acts = [a.lower() for a in (getattr(sc, 'preferred_activities', []) or [])]
+                dest_acts = self.dest_activity_categories.get(dest_id, set())
+                if pref_acts and dest_acts:
+                    matches = sum(1 for a in pref_acts if any(a in da or da in a for da in dest_acts))
+                    base_rating += min(0.5, matches * 0.15)
+                    
+        return float(np.clip(round(base_rating, 2), 1.0, 5.0))
 
     def filter_candidates(self, members_prefs: List[Any]) -> pd.DataFrame:
         """
@@ -93,7 +120,7 @@ class BaselineRecommender:
         """
         End-to-end baseline recommendation.
         1. Rigid hard constraint filtering.
-        2. CF Pearson predictions for valid candidates.
+        2. CF Pearson / Cold-start predictions for valid candidates.
         3. Aggregation via Average or Least Misery strategy.
         """
         # 1. Filter
@@ -108,7 +135,7 @@ class BaselineRecommender:
             individual_scores = []
             
             for pref in members_prefs:
-                score = self.predict_user_rating(pref.user_id, dest_id)
+                score = self.predict_user_rating(pref.user_id, dest_id, user_pref=pref)
                 individual_scores.append(score)
                 
             if strategy == 'average':
