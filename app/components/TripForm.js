@@ -102,7 +102,8 @@ export default function TripForm({ defaultDestination = '' }) {
         travelers: processedTravelers
       };
 
-      const res = await fetch(`http://localhost:8000/api/recommend`, {
+      const apiBase = process.env.NEXT_PUBLIC_BACKEND_URL || '';
+      const res = await fetch(`${apiBase}/api/recommend`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
@@ -139,7 +140,8 @@ export default function TripForm({ defaultDestination = '' }) {
         travelers: processedTravelers
       };
 
-      const res = await fetch(`http://localhost:8000/api/book`, {
+      const apiBase = process.env.NEXT_PUBLIC_BACKEND_URL || '';
+      const res = await fetch(`${apiBase}/api/book`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)

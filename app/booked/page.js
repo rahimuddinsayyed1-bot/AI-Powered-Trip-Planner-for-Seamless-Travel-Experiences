@@ -12,7 +12,8 @@ export default function BookedTripsPage() {
   const [expandedGroups, setExpandedGroups] = useState({});
 
   useEffect(() => {
-    fetch('http://localhost:8000/api/booked-trips')
+    const apiBase = process.env.NEXT_PUBLIC_BACKEND_URL || '';
+    fetch(`${apiBase}/api/booked-trips`)
       .then(res => res.json())
       .then(data => {
         if (data.status === 'success' && data.data) {

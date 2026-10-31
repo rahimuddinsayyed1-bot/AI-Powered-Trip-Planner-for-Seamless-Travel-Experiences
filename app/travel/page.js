@@ -45,14 +45,15 @@ export default function TravelPage() {
         }))
       };
 
-      const res = await fetch('http://localhost:8000/api/recommend-nlp', {
+      const apiBase = process.env.NEXT_PUBLIC_BACKEND_URL || '';
+      const res = await fetch(`${apiBase}/api/recommend-nlp`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
 
       if (!res.ok) {
-        throw new Error('Failed to generate recommendation. Make sure the Python backend is running.');
+        throw new Error('Failed to generate recommendation. Please check your inputs.');
       }
 
       const data = await res.json();

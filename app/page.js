@@ -14,19 +14,19 @@ export default function Home() {
 
   useEffect(() => {
     if (user?.role === 'admin') {
-      // Fetch the trained dataset from the Python backend
-      fetch('http://localhost:8000/api/admin/dataset')
+      const apiBase = process.env.NEXT_PUBLIC_BACKEND_URL || '';
+      fetch(`${apiBase}/api/admin/dataset`)
         .then(res => res.json())
         .then(data => {
           if (data.status === 'success') {
             setDataset(data);
           } else {
-            setBackendError(data.error || 'Unknown backend error');
+            setBackendError(data.error || 'Failed to load dataset');
           }
           setLoadingData(false);
         })
         .catch(err => {
-          setBackendError('Failed to connect to backend. Make sure the FastAPI server is running on port 8000.');
+          setBackendError('Failed to connect to backend service.');
           setLoadingData(false);
         });
     }

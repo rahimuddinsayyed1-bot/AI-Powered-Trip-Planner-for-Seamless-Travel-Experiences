@@ -1,0 +1,6462 @@
+{
+  "destinations": [
+    {
+      "dest_id": "Goa",
+      "name": "Goa",
+      "type": "Beach",
+      "base_cost": 4996.32
+    },
+    {
+      "dest_id": "Kerala",
+      "name": "Kerala",
+      "type": "City",
+      "base_cost": 9605.71
+    },
+    {
+      "dest_id": "Jaipur",
+      "name": "Jaipur",
+      "type": "Historic",
+      "base_cost": 7855.95
+    },
+    {
+      "dest_id": "Udaipur",
+      "name": "Udaipur",
+      "type": "Historic",
+      "base_cost": 6789.27
+    },
+    {
+      "dest_id": "Agra",
+      "name": "Agra",
+      "type": "Historic",
+      "base_cost": 3248.15
+    },
+    {
+      "dest_id": "Varanasi",
+      "name": "Varanasi",
+      "type": "City",
+      "base_cost": 3247.96
+    },
+    {
+      "dest_id": "Delhi",
+      "name": "Delhi",
+      "type": "City",
+      "base_cost": 2464.67
+    },
+    {
+      "dest_id": "Mumbai",
+      "name": "Mumbai",
+      "type": "City",
+      "base_cost": 8929.41
+    },
+    {
+      "dest_id": "Hyderabad",
+      "name": "Hyderabad",
+      "type": "City",
+      "base_cost": 6808.92
+    },
+    {
+      "dest_id": "Bengaluru",
+      "name": "Bengaluru",
+      "type": "City",
+      "base_cost": 7664.58
+    },
+    {
+      "dest_id": "Chennai",
+      "name": "Chennai",
+      "type": "City",
+      "base_cost": 2164.68
+    },
+    {
+      "dest_id": "Kolkata",
+      "name": "Kolkata",
+      "type": "City",
+      "base_cost": 9759.28
+    },
+    {
+      "dest_id": "Amritsar",
+      "name": "Amritsar",
+      "type": "City",
+      "base_cost": 8659.54
+    },
+    {
+      "dest_id": "Rishikesh",
+      "name": "Rishikesh",
+      "type": "City",
+      "base_cost": 3698.71
+    },
+    {
+      "dest_id": "Manali",
+      "name": "Manali",
+      "type": "Mountain",
+      "base_cost": 3454.6
+    },
+    {
+      "dest_id": "Shimla",
+      "name": "Shimla",
+      "type": "Mountain",
+      "base_cost": 3467.24
+    },
+    {
+      "dest_id": "Leh",
+      "name": "Leh",
+      "type": "Mountain",
+      "base_cost": 4433.94
+    },
+    {
+      "dest_id": "Srinagar",
+      "name": "Srinagar",
+      "type": "Mountain",
+      "base_cost": 6198.05
+    },
+    {
+      "dest_id": "Darjeeling",
+      "name": "Darjeeling",
+      "type": "Mountain",
+      "base_cost": 5455.56
+    },
+    {
+      "dest_id": "Sikkim",
+      "name": "Sikkim",
+      "type": "Mountain",
+      "base_cost": 4329.83
+    },
+    {
+      "dest_id": "Ooty",
+      "name": "Ooty",
+      "type": "Mountain",
+      "base_cost": 6894.82
+    },
+    {
+      "dest_id": "Mysuru",
+      "name": "Mysuru",
+      "type": "Historic",
+      "base_cost": 3115.95
+    },
+    {
+      "dest_id": "Coorg",
+      "name": "Coorg",
+      "type": "City",
+      "base_cost": 4337.16
+    },
+    {
+      "dest_id": "Pondicherry",
+      "name": "Pondicherry",
+      "type": "Beach",
+      "base_cost": 4930.89
+    },
+    {
+      "dest_id": "Andaman",
+      "name": "Andaman",
+      "type": "Beach",
+      "base_cost": 5648.56
+    },
+    {
+      "dest_id": "Lakshadweep",
+      "name": "Lakshadweep",
+      "type": "Beach",
+      "base_cost": 8281.41
+    },
+    {
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore",
+      "type": "Nature",
+      "base_cost": 3597.39
+    },
+    {
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer",
+      "type": "Historic",
+      "base_cost": 6113.88
+    },
+    {
+      "dest_id": "Jodhpur",
+      "name": "Jodhpur",
+      "type": "Historic",
+      "base_cost": 6739.32
+    },
+    {
+      "dest_id": "Munnar",
+      "name": "Munnar",
+      "type": "Mountain",
+      "base_cost": 2371.6
+    },
+    {
+      "dest_id": "Wayanad",
+      "name": "Wayanad",
+      "type": "Mountain",
+      "base_cost": 6860.36
+    },
+    {
+      "dest_id": "Hampi",
+      "name": "Hampi",
+      "type": "Historic",
+      "base_cost": 3364.19
+    },
+    {
+      "dest_id": "Gokarna",
+      "name": "Gokarna",
+      "type": "Beach",
+      "base_cost": 2520.41
+    },
+    {
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal",
+      "type": "Mountain",
+      "base_cost": 9591.08
+    },
+    {
+      "dest_id": "Mahabaleshwar",
+      "name": "Mahabaleshwar",
+      "type": "City",
+      "base_cost": 9725.06
+    },
+    {
+      "dest_id": "Nashik",
+      "name": "Nashik",
+      "type": "City",
+      "base_cost": 8467.18
+    },
+    {
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta_Ellora",
+      "type": "Historic",
+      "base_cost": 4436.91
+    },
+    {
+      "dest_id": "Kutch",
+      "name": "Kutch",
+      "type": "Nature",
+      "base_cost": 2781.38
+    },
+    {
+      "dest_id": "Jim_Corbett",
+      "name": "Jim_Corbett",
+      "type": "Nature",
+      "base_cost": 7473.86
+    },
+    {
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga",
+      "type": "Nature",
+      "base_cost": 5521.22
+    },
+    {
+      "dest_id": "Meghalaya",
+      "name": "Meghalaya",
+      "type": "Nature",
+      "base_cost": 2976.31
+    },
+    {
+      "dest_id": "Tawang",
+      "name": "Tawang",
+      "type": "City",
+      "base_cost": 5961.42
+    },
+    {
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho",
+      "type": "Historic",
+      "base_cost": 2275.11
+    },
+    {
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodh_Gaya",
+      "type": "Historic",
+      "base_cost": 9274.56
+    },
+    {
+      "dest_id": "Visakhapatnam",
+      "name": "Visakhapatnam",
+      "type": "Beach",
+      "base_cost": 4070.24
+    },
+    {
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann_of_Kutch",
+      "type": "Nature",
+      "base_cost": 7300.18
+    },
+    {
+      "dest_id": "Madurai",
+      "name": "Madurai",
+      "type": "City",
+      "base_cost": 4493.69
+    },
+    {
+      "dest_id": "Puri",
+      "name": "Puri",
+      "type": "Beach",
+      "base_cost": 6160.54
+    },
+    {
+      "dest_id": "Rajasthan",
+      "name": "Rajasthan",
+      "type": "City",
+      "base_cost": 6373.68
+    },
+    {
+      "dest_id": "Madhya_Pradesh",
+      "name": "Madhya_Pradesh",
+      "type": "City",
+      "base_cost": 3478.84
+    }
+  ],
+  "hotels": [
+    {
+      "hotel_id": "Goa_H0",
+      "dest_id": "Goa",
+      "name": "W Goa",
+      "price_per_night": 18000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Goa_H1",
+      "dest_id": "Goa",
+      "name": "ITC Grand Goa Resort & Spa",
+      "price_per_night": 16000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Goa_H2",
+      "dest_id": "Goa",
+      "name": "The Leela Goa",
+      "price_per_night": 28000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Goa_H3",
+      "dest_id": "Goa",
+      "name": "Taj Exotica Resort & Spa, Goa",
+      "price_per_night": 22000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Kerala_H0",
+      "dest_id": "Kerala",
+      "name": "Kumarakom Lake Resort",
+      "price_per_night": 20000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Kerala_H1",
+      "dest_id": "Kerala",
+      "name": "Grand Hyatt Kochi Bolgatty",
+      "price_per_night": 14000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Kerala_H2",
+      "dest_id": "Kerala",
+      "name": "Taj Malabar Resort & Spa, Cochin",
+      "price_per_night": 15000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Kerala_H3",
+      "dest_id": "Kerala",
+      "name": "The Leela Ashtamudi, A Raviz Hotel",
+      "price_per_night": 18000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Jaipur_H0",
+      "dest_id": "Jaipur",
+      "name": "Rambagh Palace",
+      "price_per_night": 45000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Jaipur_H1",
+      "dest_id": "Jaipur",
+      "name": "Taj Jai Mahal Palace",
+      "price_per_night": 25000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Jaipur_H2",
+      "dest_id": "Jaipur",
+      "name": "The Oberoi Rajvilas",
+      "price_per_night": 35000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Jaipur_H3",
+      "dest_id": "Jaipur",
+      "name": "ITC Rajputana",
+      "price_per_night": 15000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Udaipur_H0",
+      "dest_id": "Udaipur",
+      "name": "The Leela Palace Udaipur",
+      "price_per_night": 38000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Udaipur_H1",
+      "dest_id": "Udaipur",
+      "name": "Taj Lake Palace",
+      "price_per_night": 45000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Udaipur_H2",
+      "dest_id": "Udaipur",
+      "name": "The Oberoi Udaivilas",
+      "price_per_night": 42000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Udaipur_H3",
+      "dest_id": "Udaipur",
+      "name": "Aurika, Udaipur",
+      "price_per_night": 12000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Agra_H0",
+      "dest_id": "Agra",
+      "name": "ITC Mughal, A Luxury Collection Resort",
+      "price_per_night": 8500.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Agra_H1",
+      "dest_id": "Agra",
+      "name": "Courtyard by Marriott Agra",
+      "price_per_night": 4500.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Agra_H2",
+      "dest_id": "Agra",
+      "name": "Taj Hotel & Convention Centre",
+      "price_per_night": 6500.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Agra_H3",
+      "dest_id": "Agra",
+      "name": "The Oberoi Amarvilas",
+      "price_per_night": 35000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Varanasi_H0",
+      "dest_id": "Varanasi",
+      "name": "goSTOPS Varanasi",
+      "price_per_night": 978.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Varanasi_H1",
+      "dest_id": "Varanasi",
+      "name": "Royal Guest House",
+      "price_per_night": 1009.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Varanasi_H2",
+      "dest_id": "Varanasi",
+      "name": "Hotel Le Lotus Grand",
+      "price_per_night": 2889.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Varanasi_H3",
+      "dest_id": "Varanasi",
+      "name": "Hotel Surya, Kaiser Palace",
+      "price_per_night": 4214.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Delhi_H0",
+      "dest_id": "Delhi",
+      "name": "ITC Maurya, a Luxury Collection Hotel",
+      "price_per_night": 18000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Delhi_H1",
+      "dest_id": "Delhi",
+      "name": "The Taj Mahal Hotel, New Delhi",
+      "price_per_night": 20000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Delhi_H2",
+      "dest_id": "Delhi",
+      "name": "The Leela Palace New Delhi",
+      "price_per_night": 25000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Delhi_H3",
+      "dest_id": "Delhi",
+      "name": "The Oberoi, New Delhi",
+      "price_per_night": 28000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Mumbai_H0",
+      "dest_id": "Mumbai",
+      "name": "The Oberoi Mumbai",
+      "price_per_night": 25000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Mumbai_H1",
+      "dest_id": "Mumbai",
+      "name": "ITC Maratha",
+      "price_per_night": 14000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Mumbai_H2",
+      "dest_id": "Mumbai",
+      "name": "The Taj Mahal Palace",
+      "price_per_night": 35000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Mumbai_H3",
+      "dest_id": "Mumbai",
+      "name": "Trident Nariman Point",
+      "price_per_night": 15000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Hyderabad_H0",
+      "dest_id": "Hyderabad",
+      "name": "ITC Kohenur",
+      "price_per_night": 16000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Hyderabad_H1",
+      "dest_id": "Hyderabad",
+      "name": "Taj Falaknuma Palace",
+      "price_per_night": 45000.0,
+      "rating": 4.9
+    },
+    {
+      "hotel_id": "Hyderabad_H2",
+      "dest_id": "Hyderabad",
+      "name": "The Westin Hyderabad Mindspace",
+      "price_per_night": 14000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Hyderabad_H3",
+      "dest_id": "Hyderabad",
+      "name": "Park Hyatt Hyderabad",
+      "price_per_night": 12000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Bengaluru_H0",
+      "dest_id": "Bengaluru",
+      "name": "ITC Gardenia",
+      "price_per_night": 15000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Bengaluru_H1",
+      "dest_id": "Bengaluru",
+      "name": "The Leela Palace Bengaluru",
+      "price_per_night": 20000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Bengaluru_H2",
+      "dest_id": "Bengaluru",
+      "name": "The Ritz-Carlton, Bangalore",
+      "price_per_night": 17000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Bengaluru_H3",
+      "dest_id": "Bengaluru",
+      "name": "Taj West End",
+      "price_per_night": 18000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Chennai_H0",
+      "dest_id": "Chennai",
+      "name": "Taj Coromandel",
+      "price_per_night": 12000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Chennai_H1",
+      "dest_id": "Chennai",
+      "name": "Park Hyatt Chennai",
+      "price_per_night": 11000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Chennai_H2",
+      "dest_id": "Chennai",
+      "name": "ITC Grand Chola",
+      "price_per_night": 15000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Chennai_H3",
+      "dest_id": "Chennai",
+      "name": "The Leela Palace Chennai",
+      "price_per_night": 18000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Kolkata_H0",
+      "dest_id": "Kolkata",
+      "name": "ITC Royal Bengal",
+      "price_per_night": 14000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Kolkata_H1",
+      "dest_id": "Kolkata",
+      "name": "Taj Bengal, Kolkata",
+      "price_per_night": 12000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Kolkata_H2",
+      "dest_id": "Kolkata",
+      "name": "JW Marriott Hotel Kolkata",
+      "price_per_night": 11000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Kolkata_H3",
+      "dest_id": "Kolkata",
+      "name": "The Oberoi Grand, Kolkata",
+      "price_per_night": 16000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Amritsar_H0",
+      "dest_id": "Amritsar",
+      "name": "BR Grand Amritsar",
+      "price_per_night": 2326.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Amritsar_H1",
+      "dest_id": "Amritsar",
+      "name": "Fairfield by Marriott Amritsar",
+      "price_per_night": 6047.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Amritsar_H2",
+      "dest_id": "Amritsar",
+      "name": "Ramada by Wyndham Amritsar",
+      "price_per_night": 6660.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Amritsar_H3",
+      "dest_id": "Amritsar",
+      "name": "Holiday Inn Amritsar Ranjit Avenue, an IHG Hotel",
+      "price_per_night": 5991.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Rishikesh_H0",
+      "dest_id": "Rishikesh",
+      "name": "Divine Resort & Spa",
+      "price_per_night": 6000.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Rishikesh_H1",
+      "dest_id": "Rishikesh",
+      "name": "The Roseate Ganges",
+      "price_per_night": 22000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Rishikesh_H2",
+      "dest_id": "Rishikesh",
+      "name": "Lemon Tree Premier",
+      "price_per_night": 7000.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Rishikesh_H3",
+      "dest_id": "Rishikesh",
+      "name": "Taj Rishikesh Resort & Spa",
+      "price_per_night": 25000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Manali_H0",
+      "dest_id": "Manali",
+      "name": "Span Resort and Spa",
+      "price_per_night": 15000.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Manali_H1",
+      "dest_id": "Manali",
+      "name": "Solang Valley Resort",
+      "price_per_night": 8500.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Manali_H2",
+      "dest_id": "Manali",
+      "name": "Baragarh Resort and Spa",
+      "price_per_night": 10000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Manali_H3",
+      "dest_id": "Manali",
+      "name": "Snow Valley Resorts",
+      "price_per_night": 5000.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Shimla_H0",
+      "dest_id": "Shimla",
+      "name": "Taj Theog Resort & Spa",
+      "price_per_night": 20000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Shimla_H1",
+      "dest_id": "Shimla",
+      "name": "The Oberoi Cecil",
+      "price_per_night": 15000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Shimla_H2",
+      "dest_id": "Shimla",
+      "name": "Wildflower Hall",
+      "price_per_night": 28000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Shimla_H3",
+      "dest_id": "Shimla",
+      "name": "Clarkes Hotel",
+      "price_per_night": 9000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Leh_H0",
+      "dest_id": "Leh",
+      "name": "Laksdup Guest House",
+      "price_per_night": 4000.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Leh_H1",
+      "dest_id": "Leh",
+      "name": "Stok Palace Heritage Hotel",
+      "price_per_night": 12000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Leh_H2",
+      "dest_id": "Leh",
+      "name": "Gomang Boutique Hotel",
+      "price_per_night": 9000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Leh_H3",
+      "dest_id": "Leh",
+      "name": "The Zen Resort",
+      "price_per_night": 8500.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Srinagar_H0",
+      "dest_id": "Srinagar",
+      "name": "Walisons Hotel",
+      "price_per_night": 3780.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Srinagar_H1",
+      "dest_id": "Srinagar",
+      "name": "Hotel Lake Scene",
+      "price_per_night": 664.0,
+      "rating": 3.4
+    },
+    {
+      "hotel_id": "Srinagar_H2",
+      "dest_id": "Srinagar",
+      "name": "Hotel Kashmir Hilltown",
+      "price_per_night": 1700.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Srinagar_H3",
+      "dest_id": "Srinagar",
+      "name": "Hotel Samar",
+      "price_per_night": 1669.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Darjeeling_H0",
+      "dest_id": "Darjeeling",
+      "name": "Elgin, Darjeeling",
+      "price_per_night": 9500.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Darjeeling_H1",
+      "dest_id": "Darjeeling",
+      "name": "Windamere Hotel",
+      "price_per_night": 14000.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Darjeeling_H2",
+      "dest_id": "Darjeeling",
+      "name": "Summit Swiss Heritage",
+      "price_per_night": 6000.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Darjeeling_H3",
+      "dest_id": "Darjeeling",
+      "name": "Cedar Inn",
+      "price_per_night": 8000.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Sikkim_H0",
+      "dest_id": "Sikkim",
+      "name": "Central Hill Resort The Mall Road Gangtok",
+      "price_per_night": 1340.0,
+      "rating": 3.5
+    },
+    {
+      "hotel_id": "Sikkim_H1",
+      "dest_id": "Sikkim",
+      "name": "Denzong Regency",
+      "price_per_night": 10620.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Sikkim_H2",
+      "dest_id": "Sikkim",
+      "name": "Superview Waterfall Homestay Rumtek",
+      "price_per_night": 560.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Sikkim_H3",
+      "dest_id": "Sikkim",
+      "name": "Kaya Gantavya Resort & Spa | Pelling",
+      "price_per_night": 5643.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Ooty_H0",
+      "dest_id": "Ooty",
+      "name": "Fortune Resort Sullivan Court",
+      "price_per_night": 8000.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Ooty_H1",
+      "dest_id": "Ooty",
+      "name": "Savoy - IHCL SeleQtions",
+      "price_per_night": 12000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Ooty_H2",
+      "dest_id": "Ooty",
+      "name": "Gem Park Ooty",
+      "price_per_night": 5500.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Ooty_H3",
+      "dest_id": "Ooty",
+      "name": "Sinclairs Retreat Ooty",
+      "price_per_night": 7000.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Mysuru_H0",
+      "dest_id": "Mysuru",
+      "name": "Livaana (Formerly known as Vivaana)",
+      "price_per_night": 2193.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Mysuru_H1",
+      "dest_id": "Mysuru",
+      "name": "Hotel Garden City",
+      "price_per_night": 715.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Mysuru_H2",
+      "dest_id": "Mysuru",
+      "name": "Hotel Mayura Hoysala Mysuru",
+      "price_per_night": 2419.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Mysuru_H3",
+      "dest_id": "Mysuru",
+      "name": "Silent Shores Resort & Spa",
+      "price_per_night": 6838.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Coorg_H0",
+      "dest_id": "Coorg",
+      "name": "Taj Madikeri Resort & Spa",
+      "price_per_night": 18000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Coorg_H1",
+      "dest_id": "Coorg",
+      "name": "The Tamara Coorg",
+      "price_per_night": 20000.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Coorg_H2",
+      "dest_id": "Coorg",
+      "name": "Coorg Wilderness Resort",
+      "price_per_night": 16000.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Coorg_H3",
+      "dest_id": "Coorg",
+      "name": "Evolve Back, Coorg",
+      "price_per_night": 25000.0,
+      "rating": 4.8
+    },
+    {
+      "hotel_id": "Pondicherry_H0",
+      "dest_id": "Pondicherry",
+      "name": "Lotus Comfort- A Pondy Hotel",
+      "price_per_night": 1734.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Pondicherry_H1",
+      "dest_id": "Pondicherry",
+      "name": "Treebo Trend Grace Inn",
+      "price_per_night": 9698.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Pondicherry_H2",
+      "dest_id": "Pondicherry",
+      "name": "Hotel Annamalai International",
+      "price_per_night": 3724.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Pondicherry_H3",
+      "dest_id": "Pondicherry",
+      "name": "Hotel Le Royal Park",
+      "price_per_night": 3415.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Andaman_H0",
+      "dest_id": "Andaman",
+      "name": "Andaman Grand Sarovar",
+      "price_per_night": 4536.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Andaman_H1",
+      "dest_id": "Andaman",
+      "name": "Andaman Grand Hotel",
+      "price_per_night": 1826.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Andaman_H2",
+      "dest_id": "Andaman",
+      "name": "Andaman Grand AJ",
+      "price_per_night": 4620.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Andaman_H3",
+      "dest_id": "Andaman",
+      "name": "Andaman Grand Hotel",
+      "price_per_night": 5376.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Lakshadweep_H0",
+      "dest_id": "Lakshadweep",
+      "name": "Lakshadweep Grand The",
+      "price_per_night": 3581.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Lakshadweep_H1",
+      "dest_id": "Lakshadweep",
+      "name": "Lakshadweep Grand NOVANTA",
+      "price_per_night": 6689.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Lakshadweep_H2",
+      "dest_id": "Lakshadweep",
+      "name": "Lakshadweep Grand Hotel",
+      "price_per_night": 4032.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Lakshadweep_H3",
+      "dest_id": "Lakshadweep",
+      "name": "Lakshadweep Grand Red",
+      "price_per_night": 2335.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Ranthambore_H0",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore Grand Hotel",
+      "price_per_night": 1680.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Ranthambore_H1",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore Grand Fairfield",
+      "price_per_night": 7280.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Ranthambore_H2",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore Grand Empires",
+      "price_per_night": 3646.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Ranthambore_H3",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore Grand Casa",
+      "price_per_night": 2466.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Jaisalmer_H0",
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer Grand Hotel",
+      "price_per_night": 815.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Jaisalmer_H1",
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer Grand The",
+      "price_per_night": 2438.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Jaisalmer_H2",
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer Grand Country",
+      "price_per_night": 8439.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Jaisalmer_H3",
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer Grand The",
+      "price_per_night": 2768.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Jodhpur_H0",
+      "dest_id": "Jodhpur",
+      "name": "Jodhpur Grand Centre",
+      "price_per_night": 4480.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Jodhpur_H1",
+      "dest_id": "Jodhpur",
+      "name": "Jodhpur Grand Treebo",
+      "price_per_night": 4265.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Jodhpur_H2",
+      "dest_id": "Jodhpur",
+      "name": "Jodhpur Grand Super",
+      "price_per_night": 1315.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Jodhpur_H3",
+      "dest_id": "Jodhpur",
+      "name": "Jodhpur Grand Goldfinch",
+      "price_per_night": 4619.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Munnar_H0",
+      "dest_id": "Munnar",
+      "name": "Munnar Grand Canary",
+      "price_per_night": 3483.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Munnar_H1",
+      "dest_id": "Munnar",
+      "name": "Munnar Grand Casa",
+      "price_per_night": 2466.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Munnar_H2",
+      "dest_id": "Munnar",
+      "name": "Munnar Grand Hotel",
+      "price_per_night": 1389.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Munnar_H3",
+      "dest_id": "Munnar",
+      "name": "Munnar Grand Bharat",
+      "price_per_night": 2464.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Wayanad_H0",
+      "dest_id": "Wayanad",
+      "name": "Wayanad Grand Govind",
+      "price_per_night": 1304.0,
+      "rating": 2.6
+    },
+    {
+      "hotel_id": "Wayanad_H1",
+      "dest_id": "Wayanad",
+      "name": "Wayanad Grand The",
+      "price_per_night": 6114.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Wayanad_H2",
+      "dest_id": "Wayanad",
+      "name": "Wayanad Grand Kohinoor",
+      "price_per_night": 1280.0,
+      "rating": 3.7
+    },
+    {
+      "hotel_id": "Wayanad_H3",
+      "dest_id": "Wayanad",
+      "name": "Wayanad Grand Hotel",
+      "price_per_night": 2531.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Hampi_H0",
+      "dest_id": "Hampi",
+      "name": "Hampi Grand The",
+      "price_per_night": 12963.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Hampi_H1",
+      "dest_id": "Hampi",
+      "name": "Hampi Grand Comfort",
+      "price_per_night": 6160.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Hampi_H2",
+      "dest_id": "Hampi",
+      "name": "Hampi Grand Ibis",
+      "price_per_night": 3472.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Hampi_H3",
+      "dest_id": "Hampi",
+      "name": "Hampi Grand Hotel",
+      "price_per_night": 1389.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Gokarna_H0",
+      "dest_id": "Gokarna",
+      "name": "Gokarna Grand Leela",
+      "price_per_night": 914.0,
+      "rating": 3.6
+    },
+    {
+      "hotel_id": "Gokarna_H1",
+      "dest_id": "Gokarna",
+      "name": "Gokarna Grand IKON",
+      "price_per_night": 4278.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Gokarna_H2",
+      "dest_id": "Gokarna",
+      "name": "Gokarna Grand Hotel",
+      "price_per_night": 2350.0,
+      "rating": 3.5
+    },
+    {
+      "hotel_id": "Gokarna_H3",
+      "dest_id": "Gokarna",
+      "name": "Gokarna Grand RESTEL",
+      "price_per_night": 2576.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Kodaikanal_H0",
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal Grand THE",
+      "price_per_night": 2576.0,
+      "rating": 3.0
+    },
+    {
+      "hotel_id": "Kodaikanal_H1",
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal Grand Hyatt",
+      "price_per_night": 5475.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Kodaikanal_H2",
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal Grand Hotel",
+      "price_per_night": 1187.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Kodaikanal_H3",
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal Grand Le",
+      "price_per_night": 1789.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Mahabaleshwar_H0",
+      "dest_id": "Mahabaleshwar",
+      "name": "Mahabaleshwar Grand The",
+      "price_per_night": 3359.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Mahabaleshwar_H1",
+      "dest_id": "Mahabaleshwar",
+      "name": "Mahabaleshwar Grand Skylon",
+      "price_per_night": 1698.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Mahabaleshwar_H2",
+      "dest_id": "Mahabaleshwar",
+      "name": "Mahabaleshwar Grand Sand",
+      "price_per_night": 2018.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Mahabaleshwar_H3",
+      "dest_id": "Mahabaleshwar",
+      "name": "Mahabaleshwar Grand Old",
+      "price_per_night": 1923.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Nashik_H0",
+      "dest_id": "Nashik",
+      "name": "Raghunandan Resort",
+      "price_per_night": 2195.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Nashik_H1",
+      "dest_id": "Nashik",
+      "name": "Treebo Trend The Utsav, Nashik",
+      "price_per_night": 2968.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Nashik_H2",
+      "dest_id": "Nashik",
+      "name": "Courtyard by Marriott Nashik",
+      "price_per_night": 9735.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Nashik_H3",
+      "dest_id": "Nashik",
+      "name": "Hotel Panchavati Yatri",
+      "price_per_night": 1934.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Ajanta_Ellora_H0",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta Ellora Grand The",
+      "price_per_night": 3880.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Ajanta_Ellora_H1",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta Ellora Grand Hotel",
+      "price_per_night": 1230.0,
+      "rating": 3.1
+    },
+    {
+      "hotel_id": "Ajanta_Ellora_H2",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta Ellora Grand Krishnam",
+      "price_per_night": 1115.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Ajanta_Ellora_H3",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta Ellora Grand Hotel",
+      "price_per_night": 3632.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Kutch_H0",
+      "dest_id": "Kutch",
+      "name": "Kutch Grand Super",
+      "price_per_night": 2044.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Kutch_H1",
+      "dest_id": "Kutch",
+      "name": "Kutch Grand Hotel",
+      "price_per_night": 3014.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Kutch_H2",
+      "dest_id": "Kutch",
+      "name": "Kutch Grand Hotel",
+      "price_per_night": 5544.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Kutch_H3",
+      "dest_id": "Kutch",
+      "name": "Kutch Grand Garden",
+      "price_per_night": 3220.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Jim_Corbett_H0",
+      "dest_id": "Jim_Corbett",
+      "name": "Jim Corbett Grand lebua",
+      "price_per_night": 7621.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Jim_Corbett_H1",
+      "dest_id": "Jim_Corbett",
+      "name": "Jim Corbett Grand Jugglers",
+      "price_per_night": 1116.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Jim_Corbett_H2",
+      "dest_id": "Jim_Corbett",
+      "name": "Jim Corbett Grand Nu",
+      "price_per_night": 1999.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Jim_Corbett_H3",
+      "dest_id": "Jim_Corbett",
+      "name": "Jim Corbett Grand Cosmo",
+      "price_per_night": 887.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Kaziranga_H0",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Grand Hotel",
+      "price_per_night": 1454.0,
+      "rating": 3.5
+    },
+    {
+      "hotel_id": "Kaziranga_H1",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Grand Effotel",
+      "price_per_night": 4090.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Kaziranga_H2",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Grand Country",
+      "price_per_night": 8439.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Kaziranga_H3",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Grand Best",
+      "price_per_night": 1529.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Meghalaya_H0",
+      "dest_id": "Meghalaya",
+      "name": "Meghalaya Grand Canary",
+      "price_per_night": 3483.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Meghalaya_H1",
+      "dest_id": "Meghalaya",
+      "name": "Meghalaya Grand Hotel",
+      "price_per_night": 539.0,
+      "rating": 3.4
+    },
+    {
+      "hotel_id": "Meghalaya_H2",
+      "dest_id": "Meghalaya",
+      "name": "Meghalaya Grand Hotel",
+      "price_per_night": 4016.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Meghalaya_H3",
+      "dest_id": "Meghalaya",
+      "name": "Meghalaya Grand Hotel",
+      "price_per_night": 2204.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Tawang_H0",
+      "dest_id": "Tawang",
+      "name": "Tawang Grand Taj",
+      "price_per_night": 2097.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Tawang_H1",
+      "dest_id": "Tawang",
+      "name": "Tawang Grand Hotel",
+      "price_per_night": 1051.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Tawang_H2",
+      "dest_id": "Tawang",
+      "name": "Tawang Grand Clarks",
+      "price_per_night": 1791.0,
+      "rating": 3.2
+    },
+    {
+      "hotel_id": "Tawang_H3",
+      "dest_id": "Tawang",
+      "name": "Tawang Grand The",
+      "price_per_night": 2785.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Khajuraho_H0",
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho Grand Zostel",
+      "price_per_night": 1219.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Khajuraho_H1",
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho Grand Grand",
+      "price_per_night": 6000.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Khajuraho_H2",
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho Grand Zemu",
+      "price_per_night": 1098.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Khajuraho_H3",
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho Grand EMA",
+      "price_per_night": 1241.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Bodh_Gaya_H0",
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodh Gaya Grand Hotel",
+      "price_per_night": 4415.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Bodh_Gaya_H1",
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodh Gaya Grand NOVANTA",
+      "price_per_night": 6689.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Bodh_Gaya_H2",
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodh Gaya Grand Her",
+      "price_per_night": 3306.0,
+      "rating": 3.2
+    },
+    {
+      "hotel_id": "Bodh_Gaya_H3",
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodh Gaya Grand Hotel",
+      "price_per_night": 1773.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Visakhapatnam_H0",
+      "dest_id": "Visakhapatnam",
+      "name": "Visakhapatnam Grand The",
+      "price_per_night": 2427.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Visakhapatnam_H1",
+      "dest_id": "Visakhapatnam",
+      "name": "Visakhapatnam Grand Backwater",
+      "price_per_night": 5063.0,
+      "rating": 4.7
+    },
+    {
+      "hotel_id": "Visakhapatnam_H2",
+      "dest_id": "Visakhapatnam",
+      "name": "Visakhapatnam Grand The",
+      "price_per_night": 4627.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Visakhapatnam_H3",
+      "dest_id": "Visakhapatnam",
+      "name": "Visakhapatnam Grand JMC",
+      "price_per_night": 2239.0,
+      "rating": 4.6
+    },
+    {
+      "hotel_id": "Rann_of_Kutch_H0",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann Of Kutch Grand Hotel",
+      "price_per_night": 1242.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Rann_of_Kutch_H1",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann Of Kutch Grand Grand",
+      "price_per_night": 4309.0,
+      "rating": 4.1
+    },
+    {
+      "hotel_id": "Rann_of_Kutch_H2",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann Of Kutch Grand Cocobay",
+      "price_per_night": 6138.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Rann_of_Kutch_H3",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann Of Kutch Grand Hotel",
+      "price_per_night": 2034.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Madurai_H0",
+      "dest_id": "Madurai",
+      "name": "Madurai Grand Hotel",
+      "price_per_night": 2527.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Madurai_H1",
+      "dest_id": "Madurai",
+      "name": "Madurai Grand Hyphen",
+      "price_per_night": 2487.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Madurai_H2",
+      "dest_id": "Madurai",
+      "name": "Madurai Grand Holiday",
+      "price_per_night": 10619.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Madurai_H3",
+      "dest_id": "Madurai",
+      "name": "Madurai Grand Hotel",
+      "price_per_night": 800.0,
+      "rating": 3.9
+    },
+    {
+      "hotel_id": "Puri_H0",
+      "dest_id": "Puri",
+      "name": "Puri Grand Hotel",
+      "price_per_night": 1188.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Puri_H1",
+      "dest_id": "Puri",
+      "name": "Puri Grand Hotel",
+      "price_per_night": 2889.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Puri_H2",
+      "dest_id": "Puri",
+      "name": "Puri Grand Jamal",
+      "price_per_night": 4215.0,
+      "rating": 4.0
+    },
+    {
+      "hotel_id": "Puri_H3",
+      "dest_id": "Puri",
+      "name": "Puri Grand Cosmo",
+      "price_per_night": 887.0,
+      "rating": 3.8
+    },
+    {
+      "hotel_id": "Rajasthan_H0",
+      "dest_id": "Rajasthan",
+      "name": "Blue Beds Jaipur",
+      "price_per_night": 1858.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Rajasthan_H1",
+      "dest_id": "Rajasthan",
+      "name": "Hilton Jaipur",
+      "price_per_night": 6885.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Rajasthan_H2",
+      "dest_id": "Rajasthan",
+      "name": "Holiday Inn Jaipur City Centre, an IHG Hotel",
+      "price_per_night": 14190.0,
+      "rating": 4.5
+    },
+    {
+      "hotel_id": "Rajasthan_H3",
+      "dest_id": "Rajasthan",
+      "name": "Lemon Tree Premier, Jaipur",
+      "price_per_night": 3920.0,
+      "rating": 4.3
+    },
+    {
+      "hotel_id": "Madhya_Pradesh_H0",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Sayaji Hotel Indore",
+      "price_per_night": 5874.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Madhya_Pradesh_H1",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Sayaji Hotel Indore",
+      "price_per_night": 5111.0,
+      "rating": 4.4
+    },
+    {
+      "hotel_id": "Madhya_Pradesh_H2",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Best Western Plus Indore",
+      "price_per_night": 3424.0,
+      "rating": 4.2
+    },
+    {
+      "hotel_id": "Madhya_Pradesh_H3",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Treebo Trend Grand Euro",
+      "price_per_night": 2570.0,
+      "rating": 4.7
+    }
+  ],
+  "flights": [
+    {
+      "flight_id": "Goa_F0",
+      "dest_id": "Goa",
+      "airline": "Airline_0",
+      "price": 12257.33,
+      "duration_hours": 3.3
+    },
+    {
+      "flight_id": "Goa_F1",
+      "dest_id": "Goa",
+      "airline": "Airline_1",
+      "price": 9640.39,
+      "duration_hours": 2.7
+    },
+    {
+      "flight_id": "Kerala_F0",
+      "dest_id": "Kerala",
+      "airline": "Airline_0",
+      "price": 9643.06,
+      "duration_hours": 4.0
+    },
+    {
+      "flight_id": "Kerala_F1",
+      "dest_id": "Kerala",
+      "airline": "Airline_1",
+      "price": 4617.65,
+      "duration_hours": 4.3
+    },
+    {
+      "flight_id": "Jaipur_F0",
+      "dest_id": "Jaipur",
+      "airline": "Airline_0",
+      "price": 9693.19,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Jaipur_F1",
+      "dest_id": "Jaipur",
+      "airline": "Airline_1",
+      "price": 6486.79,
+      "duration_hours": 5.0
+    },
+    {
+      "flight_id": "Udaipur_F0",
+      "dest_id": "Udaipur",
+      "airline": "Airline_0",
+      "price": 2717.75,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Udaipur_F1",
+      "dest_id": "Udaipur",
+      "airline": "Airline_1",
+      "price": 8876.35,
+      "duration_hours": 4.8
+    },
+    {
+      "flight_id": "Agra_F0",
+      "dest_id": "Agra",
+      "airline": "Airline_0",
+      "price": 14317.31,
+      "duration_hours": 1.7
+    },
+    {
+      "flight_id": "Agra_F1",
+      "dest_id": "Agra",
+      "airline": "Airline_1",
+      "price": 7544.69,
+      "duration_hours": 3.9
+    },
+    {
+      "flight_id": "Varanasi_F0",
+      "dest_id": "Varanasi",
+      "airline": "Airline_0",
+      "price": 8082.19,
+      "duration_hours": 3.5
+    },
+    {
+      "flight_id": "Varanasi_F1",
+      "dest_id": "Varanasi",
+      "airline": "Airline_1",
+      "price": 5989.94,
+      "duration_hours": 1.5
+    },
+    {
+      "flight_id": "Delhi_F0",
+      "dest_id": "Delhi",
+      "airline": "Airline_0",
+      "price": 14210.85,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Delhi_F1",
+      "dest_id": "Delhi",
+      "airline": "Airline_1",
+      "price": 5575.36,
+      "duration_hours": 2.6
+    },
+    {
+      "flight_id": "Mumbai_F0",
+      "dest_id": "Mumbai",
+      "airline": "Airline_0",
+      "price": 10493.7,
+      "duration_hours": 3.3
+    },
+    {
+      "flight_id": "Mumbai_F1",
+      "dest_id": "Mumbai",
+      "airline": "Airline_1",
+      "price": 14691.39,
+      "duration_hours": 3.9
+    },
+    {
+      "flight_id": "Hyderabad_F0",
+      "dest_id": "Hyderabad",
+      "airline": "Airline_0",
+      "price": 3057.15,
+      "duration_hours": 1.9
+    },
+    {
+      "flight_id": "Hyderabad_F1",
+      "dest_id": "Hyderabad",
+      "airline": "Airline_1",
+      "price": 5359.08,
+      "duration_hours": 1.5
+    },
+    {
+      "flight_id": "Bengaluru_F0",
+      "dest_id": "Bengaluru",
+      "airline": "Airline_0",
+      "price": 6394.04,
+      "duration_hours": 4.0
+    },
+    {
+      "flight_id": "Bengaluru_F1",
+      "dest_id": "Bengaluru",
+      "airline": "Airline_1",
+      "price": 7192.42,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Chennai_F0",
+      "dest_id": "Chennai",
+      "airline": "Airline_0",
+      "price": 14946.78,
+      "duration_hours": 2.2
+    },
+    {
+      "flight_id": "Chennai_F1",
+      "dest_id": "Chennai",
+      "airline": "Airline_1",
+      "price": 8362.78,
+      "duration_hours": 3.2
+    },
+    {
+      "flight_id": "Kolkata_F0",
+      "dest_id": "Kolkata",
+      "airline": "Airline_0",
+      "price": 6104.61,
+      "duration_hours": 2.7
+    },
+    {
+      "flight_id": "Kolkata_F1",
+      "dest_id": "Kolkata",
+      "airline": "Airline_1",
+      "price": 2982.68,
+      "duration_hours": 1.1
+    },
+    {
+      "flight_id": "Amritsar_F0",
+      "dest_id": "Amritsar",
+      "airline": "Airline_0",
+      "price": 6506.75,
+      "duration_hours": 1.9
+    },
+    {
+      "flight_id": "Amritsar_F1",
+      "dest_id": "Amritsar",
+      "airline": "Airline_1",
+      "price": 2147.77,
+      "duration_hours": 3.4
+    },
+    {
+      "flight_id": "Rishikesh_F0",
+      "dest_id": "Rishikesh",
+      "airline": "Airline_0",
+      "price": 9444.5,
+      "duration_hours": 2.4
+    },
+    {
+      "flight_id": "Rishikesh_F1",
+      "dest_id": "Rishikesh",
+      "airline": "Airline_1",
+      "price": 9642.42,
+      "duration_hours": 2.2
+    },
+    {
+      "flight_id": "Manali_F0",
+      "dest_id": "Manali",
+      "airline": "Airline_0",
+      "price": 8828.61,
+      "duration_hours": 3.5
+    },
+    {
+      "flight_id": "Manali_F1",
+      "dest_id": "Manali",
+      "airline": "Airline_1",
+      "price": 2153.87,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Shimla_F0",
+      "dest_id": "Shimla",
+      "airline": "Airline_0",
+      "price": 14103.17,
+      "duration_hours": 3.7
+    },
+    {
+      "flight_id": "Shimla_F1",
+      "dest_id": "Shimla",
+      "airline": "Airline_1",
+      "price": 3630.1,
+      "duration_hours": 1.1
+    },
+    {
+      "flight_id": "Leh_F0",
+      "dest_id": "Leh",
+      "airline": "Airline_0",
+      "price": 13202.64,
+      "duration_hours": 4.3
+    },
+    {
+      "flight_id": "Leh_F1",
+      "dest_id": "Leh",
+      "airline": "Airline_1",
+      "price": 5415.67,
+      "duration_hours": 3.8
+    },
+    {
+      "flight_id": "Srinagar_F0",
+      "dest_id": "Srinagar",
+      "airline": "Airline_0",
+      "price": 5164.41,
+      "duration_hours": 1.5
+    },
+    {
+      "flight_id": "Srinagar_F1",
+      "dest_id": "Srinagar",
+      "airline": "Airline_1",
+      "price": 2132.64,
+      "duration_hours": 2.4
+    },
+    {
+      "flight_id": "Darjeeling_F0",
+      "dest_id": "Darjeeling",
+      "airline": "Airline_0",
+      "price": 6133.48,
+      "duration_hours": 4.3
+    },
+    {
+      "flight_id": "Darjeeling_F1",
+      "dest_id": "Darjeeling",
+      "airline": "Airline_1",
+      "price": 2424.39,
+      "duration_hours": 1.3
+    },
+    {
+      "flight_id": "Sikkim_F0",
+      "dest_id": "Sikkim",
+      "airline": "Airline_0",
+      "price": 5683.04,
+      "duration_hours": 2.6
+    },
+    {
+      "flight_id": "Sikkim_F1",
+      "dest_id": "Sikkim",
+      "airline": "Airline_1",
+      "price": 6402.28,
+      "duration_hours": 2.1
+    },
+    {
+      "flight_id": "Ooty_F0",
+      "dest_id": "Ooty",
+      "airline": "Airline_0",
+      "price": 9470.26,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Ooty_F1",
+      "dest_id": "Ooty",
+      "airline": "Airline_1",
+      "price": 7303.32,
+      "duration_hours": 1.0
+    },
+    {
+      "flight_id": "Mysuru_F0",
+      "dest_id": "Mysuru",
+      "airline": "Airline_0",
+      "price": 10849.27,
+      "duration_hours": 2.4
+    },
+    {
+      "flight_id": "Mysuru_F1",
+      "dest_id": "Mysuru",
+      "airline": "Airline_1",
+      "price": 8445.49,
+      "duration_hours": 2.5
+    },
+    {
+      "flight_id": "Coorg_F0",
+      "dest_id": "Coorg",
+      "airline": "Airline_0",
+      "price": 2174.76,
+      "duration_hours": 3.2
+    },
+    {
+      "flight_id": "Coorg_F1",
+      "dest_id": "Coorg",
+      "airline": "Airline_1",
+      "price": 8807.42,
+      "duration_hours": 3.1
+    },
+    {
+      "flight_id": "Pondicherry_F0",
+      "dest_id": "Pondicherry",
+      "airline": "Airline_0",
+      "price": 14845.46,
+      "duration_hours": 4.6
+    },
+    {
+      "flight_id": "Pondicherry_F1",
+      "dest_id": "Pondicherry",
+      "airline": "Airline_1",
+      "price": 9289.86,
+      "duration_hours": 2.8
+    },
+    {
+      "flight_id": "Andaman_F0",
+      "dest_id": "Andaman",
+      "airline": "Airline_0",
+      "price": 10092.5,
+      "duration_hours": 3.4
+    },
+    {
+      "flight_id": "Andaman_F1",
+      "dest_id": "Andaman",
+      "airline": "Airline_1",
+      "price": 9885.17,
+      "duration_hours": 4.8
+    },
+    {
+      "flight_id": "Lakshadweep_F0",
+      "dest_id": "Lakshadweep",
+      "airline": "Airline_0",
+      "price": 10847.26,
+      "duration_hours": 2.7
+    },
+    {
+      "flight_id": "Lakshadweep_F1",
+      "dest_id": "Lakshadweep",
+      "airline": "Airline_1",
+      "price": 5447.61,
+      "duration_hours": 4.2
+    },
+    {
+      "flight_id": "Ranthambore_F0",
+      "dest_id": "Ranthambore",
+      "airline": "Airline_0",
+      "price": 5596.24,
+      "duration_hours": 3.4
+    },
+    {
+      "flight_id": "Ranthambore_F1",
+      "dest_id": "Ranthambore",
+      "airline": "Airline_1",
+      "price": 13748.34,
+      "duration_hours": 1.0
+    },
+    {
+      "flight_id": "Jaisalmer_F0",
+      "dest_id": "Jaisalmer",
+      "airline": "Airline_0",
+      "price": 12848.72,
+      "duration_hours": 1.2
+    },
+    {
+      "flight_id": "Jaisalmer_F1",
+      "dest_id": "Jaisalmer",
+      "airline": "Airline_1",
+      "price": 10694.05,
+      "duration_hours": 1.1
+    },
+    {
+      "flight_id": "Jodhpur_F0",
+      "dest_id": "Jodhpur",
+      "airline": "Airline_0",
+      "price": 6881.08,
+      "duration_hours": 3.9
+    },
+    {
+      "flight_id": "Jodhpur_F1",
+      "dest_id": "Jodhpur",
+      "airline": "Airline_1",
+      "price": 12684.68,
+      "duration_hours": 3.3
+    },
+    {
+      "flight_id": "Munnar_F0",
+      "dest_id": "Munnar",
+      "airline": "Airline_0",
+      "price": 11562.75,
+      "duration_hours": 1.8
+    },
+    {
+      "flight_id": "Munnar_F1",
+      "dest_id": "Munnar",
+      "airline": "Airline_1",
+      "price": 5770.86,
+      "duration_hours": 2.7
+    },
+    {
+      "flight_id": "Wayanad_F0",
+      "dest_id": "Wayanad",
+      "airline": "Airline_0",
+      "price": 12057.62,
+      "duration_hours": 3.2
+    },
+    {
+      "flight_id": "Wayanad_F1",
+      "dest_id": "Wayanad",
+      "airline": "Airline_1",
+      "price": 9604.96,
+      "duration_hours": 3.5
+    },
+    {
+      "flight_id": "Hampi_F0",
+      "dest_id": "Hampi",
+      "airline": "Airline_0",
+      "price": 14700.02,
+      "duration_hours": 1.9
+    },
+    {
+      "flight_id": "Hampi_F1",
+      "dest_id": "Hampi",
+      "airline": "Airline_1",
+      "price": 12518.18,
+      "duration_hours": 3.1
+    },
+    {
+      "flight_id": "Gokarna_F0",
+      "dest_id": "Gokarna",
+      "airline": "Airline_0",
+      "price": 9535.89,
+      "duration_hours": 4.8
+    },
+    {
+      "flight_id": "Gokarna_F1",
+      "dest_id": "Gokarna",
+      "airline": "Airline_1",
+      "price": 9957.89,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Kodaikanal_F0",
+      "dest_id": "Kodaikanal",
+      "airline": "Airline_0",
+      "price": 13056.06,
+      "duration_hours": 2.5
+    },
+    {
+      "flight_id": "Kodaikanal_F1",
+      "dest_id": "Kodaikanal",
+      "airline": "Airline_1",
+      "price": 6994.64,
+      "duration_hours": 4.0
+    },
+    {
+      "flight_id": "Mahabaleshwar_F0",
+      "dest_id": "Mahabaleshwar",
+      "airline": "Airline_0",
+      "price": 10910.26,
+      "duration_hours": 2.0
+    },
+    {
+      "flight_id": "Mahabaleshwar_F1",
+      "dest_id": "Mahabaleshwar",
+      "airline": "Airline_1",
+      "price": 2812.72,
+      "duration_hours": 4.9
+    },
+    {
+      "flight_id": "Nashik_F0",
+      "dest_id": "Nashik",
+      "airline": "Airline_0",
+      "price": 13365.79,
+      "duration_hours": 2.8
+    },
+    {
+      "flight_id": "Nashik_F1",
+      "dest_id": "Nashik",
+      "airline": "Airline_1",
+      "price": 5333.13,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Ajanta_Ellora_F0",
+      "dest_id": "Ajanta_Ellora",
+      "airline": "Airline_0",
+      "price": 4337.11,
+      "duration_hours": 2.3
+    },
+    {
+      "flight_id": "Ajanta_Ellora_F1",
+      "dest_id": "Ajanta_Ellora",
+      "airline": "Airline_1",
+      "price": 12261.41,
+      "duration_hours": 1.7
+    },
+    {
+      "flight_id": "Kutch_F0",
+      "dest_id": "Kutch",
+      "airline": "Airline_0",
+      "price": 10786.89,
+      "duration_hours": 1.9
+    },
+    {
+      "flight_id": "Kutch_F1",
+      "dest_id": "Kutch",
+      "airline": "Airline_1",
+      "price": 9011.47,
+      "duration_hours": 2.0
+    },
+    {
+      "flight_id": "Jim_Corbett_F0",
+      "dest_id": "Jim_Corbett",
+      "airline": "Airline_0",
+      "price": 10627.54,
+      "duration_hours": 3.0
+    },
+    {
+      "flight_id": "Jim_Corbett_F1",
+      "dest_id": "Jim_Corbett",
+      "airline": "Airline_1",
+      "price": 9866.5,
+      "duration_hours": 4.2
+    },
+    {
+      "flight_id": "Kaziranga_F0",
+      "dest_id": "Kaziranga",
+      "airline": "Airline_0",
+      "price": 8785.81,
+      "duration_hours": 1.4
+    },
+    {
+      "flight_id": "Kaziranga_F1",
+      "dest_id": "Kaziranga",
+      "airline": "Airline_1",
+      "price": 9715.76,
+      "duration_hours": 1.2
+    },
+    {
+      "flight_id": "Meghalaya_F0",
+      "dest_id": "Meghalaya",
+      "airline": "Airline_0",
+      "price": 11496.74,
+      "duration_hours": 2.9
+    },
+    {
+      "flight_id": "Meghalaya_F1",
+      "dest_id": "Meghalaya",
+      "airline": "Airline_1",
+      "price": 9355.25,
+      "duration_hours": 1.3
+    },
+    {
+      "flight_id": "Tawang_F0",
+      "dest_id": "Tawang",
+      "airline": "Airline_0",
+      "price": 14977.0,
+      "duration_hours": 3.8
+    },
+    {
+      "flight_id": "Tawang_F1",
+      "dest_id": "Tawang",
+      "airline": "Airline_1",
+      "price": 8200.19,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Khajuraho_F0",
+      "dest_id": "Khajuraho",
+      "airline": "Airline_0",
+      "price": 11998.52,
+      "duration_hours": 3.2
+    },
+    {
+      "flight_id": "Khajuraho_F1",
+      "dest_id": "Khajuraho",
+      "airline": "Airline_1",
+      "price": 9410.25,
+      "duration_hours": 4.1
+    },
+    {
+      "flight_id": "Bodh_Gaya_F0",
+      "dest_id": "Bodh_Gaya",
+      "airline": "Airline_0",
+      "price": 14166.34,
+      "duration_hours": 4.8
+    },
+    {
+      "flight_id": "Bodh_Gaya_F1",
+      "dest_id": "Bodh_Gaya",
+      "airline": "Airline_1",
+      "price": 12131.21,
+      "duration_hours": 3.9
+    },
+    {
+      "flight_id": "Visakhapatnam_F0",
+      "dest_id": "Visakhapatnam",
+      "airline": "Airline_0",
+      "price": 13724.38,
+      "duration_hours": 1.7
+    },
+    {
+      "flight_id": "Visakhapatnam_F1",
+      "dest_id": "Visakhapatnam",
+      "airline": "Airline_1",
+      "price": 6892.9,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Rann_of_Kutch_F0",
+      "dest_id": "Rann_of_Kutch",
+      "airline": "Airline_0",
+      "price": 5720.81,
+      "duration_hours": 4.5
+    },
+    {
+      "flight_id": "Rann_of_Kutch_F1",
+      "dest_id": "Rann_of_Kutch",
+      "airline": "Airline_1",
+      "price": 5011.56,
+      "duration_hours": 2.3
+    },
+    {
+      "flight_id": "Madurai_F0",
+      "dest_id": "Madurai",
+      "airline": "Airline_0",
+      "price": 11549.54,
+      "duration_hours": 1.6
+    },
+    {
+      "flight_id": "Madurai_F1",
+      "dest_id": "Madurai",
+      "airline": "Airline_1",
+      "price": 3672.78,
+      "duration_hours": 1.3
+    },
+    {
+      "flight_id": "Puri_F0",
+      "dest_id": "Puri",
+      "airline": "Airline_0",
+      "price": 10323.36,
+      "duration_hours": 1.9
+    },
+    {
+      "flight_id": "Puri_F1",
+      "dest_id": "Puri",
+      "airline": "Airline_1",
+      "price": 8163.89,
+      "duration_hours": 4.6
+    },
+    {
+      "flight_id": "Rajasthan_F0",
+      "dest_id": "Rajasthan",
+      "airline": "Airline_0",
+      "price": 11905.75,
+      "duration_hours": 1.2
+    },
+    {
+      "flight_id": "Rajasthan_F1",
+      "dest_id": "Rajasthan",
+      "airline": "Airline_1",
+      "price": 6723.57,
+      "duration_hours": 3.2
+    },
+    {
+      "flight_id": "Madhya_Pradesh_F0",
+      "dest_id": "Madhya_Pradesh",
+      "airline": "Airline_0",
+      "price": 9492.63,
+      "duration_hours": 2.8
+    },
+    {
+      "flight_id": "Madhya_Pradesh_F1",
+      "dest_id": "Madhya_Pradesh",
+      "airline": "Airline_1",
+      "price": 5636.31,
+      "duration_hours": 1.3
+    }
+  ],
+  "activities": [
+    {
+      "activity_id": "Goa_A0",
+      "dest_id": "Goa",
+      "name": "Baga Beach",
+      "price": 620.02,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Goa_A1",
+      "dest_id": "Goa",
+      "name": "Calangute Beach",
+      "price": 4771.54,
+      "duration_hours": 1.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Goa_A2",
+      "dest_id": "Goa",
+      "name": "Basilica of Bom Jesus",
+      "price": 3501.84,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Goa_A3",
+      "dest_id": "Goa",
+      "name": "Fort Aguada",
+      "price": 4023.62,
+      "duration_hours": 4.9,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Goa_A4",
+      "dest_id": "Goa",
+      "name": "Dudhsagar Falls",
+      "price": 3061.96,
+      "duration_hours": 4.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Goa_A5",
+      "dest_id": "Goa",
+      "name": "Anjuna Flea Market",
+      "price": 1434.99,
+      "duration_hours": 2.4,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Goa_A6",
+      "dest_id": "Goa",
+      "name": "Palolem Beach",
+      "price": 3744.57,
+      "duration_hours": 2.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Goa_A7",
+      "dest_id": "Goa",
+      "name": "Chapora Fort",
+      "price": 3985.32,
+      "duration_hours": 2.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Goa_A8",
+      "dest_id": "Goa",
+      "name": "Old Goa Churches",
+      "price": 2795.19,
+      "duration_hours": 2.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Goa_A9",
+      "dest_id": "Goa",
+      "name": "Mandovi River Cruise",
+      "price": 4277.6,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A10",
+      "dest_id": "Kerala",
+      "name": "Alappuzha Backwaters",
+      "price": 3654.38,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A11",
+      "dest_id": "Kerala",
+      "name": "Munnar Tea Gardens",
+      "price": 1175.49,
+      "duration_hours": 5.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A12",
+      "dest_id": "Kerala",
+      "name": "Kovalam Beach",
+      "price": 4474.36,
+      "duration_hours": 3.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A13",
+      "dest_id": "Kerala",
+      "name": "Fort Kochi",
+      "price": 968.28,
+      "duration_hours": 3.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kerala_A14",
+      "dest_id": "Kerala",
+      "name": "Periyar Wildlife Sanctuary",
+      "price": 4477.46,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A15",
+      "dest_id": "Kerala",
+      "name": "Varkala Cliff",
+      "price": 1679.29,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kerala_A16",
+      "dest_id": "Kerala",
+      "name": "Athirappilly Waterfalls",
+      "price": 3187.71,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A17",
+      "dest_id": "Kerala",
+      "name": "Kumarakom",
+      "price": 2507.74,
+      "duration_hours": 2.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kerala_A18",
+      "dest_id": "Kerala",
+      "name": "Wayanad Wildlife Sanctuary",
+      "price": 2453.29,
+      "duration_hours": 5.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kerala_A19",
+      "dest_id": "Kerala",
+      "name": "Sree Padmanabhaswamy Temple",
+      "price": 3050.72,
+      "duration_hours": 1.9,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Jaipur_A20",
+      "dest_id": "Jaipur",
+      "name": "Amber Fort",
+      "price": 3392.93,
+      "duration_hours": 4.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaipur_A21",
+      "dest_id": "Jaipur",
+      "name": "City Palace",
+      "price": 4794.63,
+      "duration_hours": 4.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaipur_A22",
+      "dest_id": "Jaipur",
+      "name": "Hawa Mahal",
+      "price": 3214.03,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaipur_A23",
+      "dest_id": "Jaipur",
+      "name": "Jantar Mantar",
+      "price": 708.49,
+      "duration_hours": 1.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaipur_A24",
+      "dest_id": "Jaipur",
+      "name": "Jal Mahal",
+      "price": 4016.64,
+      "duration_hours": 2.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaipur_A25",
+      "dest_id": "Jaipur",
+      "name": "Nahargarh Fort",
+      "price": 2548.04,
+      "duration_hours": 5.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaipur_A26",
+      "dest_id": "Jaipur",
+      "name": "Jaigarh Fort",
+      "price": 1467.34,
+      "duration_hours": 1.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaipur_A27",
+      "dest_id": "Jaipur",
+      "name": "Albert Hall Museum",
+      "price": 945.58,
+      "duration_hours": 2.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaipur_A28",
+      "dest_id": "Jaipur",
+      "name": "Johari Bazaar",
+      "price": 2705.36,
+      "duration_hours": 2.5,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Jaipur_A29",
+      "dest_id": "Jaipur",
+      "name": "Chokhi Dhani",
+      "price": 4696.99,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Udaipur_A30",
+      "dest_id": "Udaipur",
+      "name": "City Palace",
+      "price": 2921.64,
+      "duration_hours": 2.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Udaipur_A31",
+      "dest_id": "Udaipur",
+      "name": "Lake Pichola Boat Ride",
+      "price": 1021.72,
+      "duration_hours": 5.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Udaipur_A32",
+      "dest_id": "Udaipur",
+      "name": "Jag Mandir",
+      "price": 4605.12,
+      "duration_hours": 4.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Udaipur_A33",
+      "dest_id": "Udaipur",
+      "name": "Jagdish Temple",
+      "price": 3416.99,
+      "duration_hours": 3.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Udaipur_A34",
+      "dest_id": "Udaipur",
+      "name": "Saheliyon-ki-Bari",
+      "price": 630.55,
+      "duration_hours": 1.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Udaipur_A35",
+      "dest_id": "Udaipur",
+      "name": "Monsoon Palace",
+      "price": 2784.55,
+      "duration_hours": 5.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Udaipur_A36",
+      "dest_id": "Udaipur",
+      "name": "Bagore Ki Haveli",
+      "price": 1481.62,
+      "duration_hours": 3.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Udaipur_A37",
+      "dest_id": "Udaipur",
+      "name": "Fateh Sagar Lake",
+      "price": 3973.52,
+      "duration_hours": 5.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Udaipur_A38",
+      "dest_id": "Udaipur",
+      "name": "Shilpgram",
+      "price": 3754.63,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Udaipur_A39",
+      "dest_id": "Udaipur",
+      "name": "Hathi Pol Bazaar",
+      "price": 629.41,
+      "duration_hours": 4.7,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Agra_A40",
+      "dest_id": "Agra",
+      "name": "Taj Mahal",
+      "price": 1073.35,
+      "duration_hours": 5.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A41",
+      "dest_id": "Agra",
+      "name": "Agra Fort",
+      "price": 1806.37,
+      "duration_hours": 3.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Agra_A42",
+      "dest_id": "Agra",
+      "name": "Mehtab Bagh",
+      "price": 2267.6,
+      "duration_hours": 1.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A43",
+      "dest_id": "Agra",
+      "name": "Itmad-ud-Daulah's Tomb",
+      "price": 1119.58,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A44",
+      "dest_id": "Agra",
+      "name": "Akbar's Tomb",
+      "price": 2062.07,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A45",
+      "dest_id": "Agra",
+      "name": "Fatehpur Sikri",
+      "price": 4938.41,
+      "duration_hours": 4.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A46",
+      "dest_id": "Agra",
+      "name": "Taj Nature Walk",
+      "price": 1283.02,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Agra_A47",
+      "dest_id": "Agra",
+      "name": "Agra Marble Craft",
+      "price": 2817.77,
+      "duration_hours": 3.4,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Agra_A48",
+      "dest_id": "Agra",
+      "name": "Kinari Bazaar",
+      "price": 626.08,
+      "duration_hours": 1.4,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Agra_A49",
+      "dest_id": "Agra",
+      "name": "Mughal Heritage Walk",
+      "price": 1832.12,
+      "duration_hours": 5.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Varanasi_A50",
+      "dest_id": "Varanasi",
+      "name": "Kashi Vishwanath Temple",
+      "price": 1299.7,
+      "duration_hours": 3.4,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Varanasi_A51",
+      "dest_id": "Varanasi",
+      "name": "Dashashwamedh Ghat",
+      "price": 657.33,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Varanasi_A52",
+      "dest_id": "Varanasi",
+      "name": "Ganga Aarti",
+      "price": 3718.43,
+      "duration_hours": 5.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Varanasi_A53",
+      "dest_id": "Varanasi",
+      "name": "Assi Ghat",
+      "price": 4666.36,
+      "duration_hours": 4.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Varanasi_A54",
+      "dest_id": "Varanasi",
+      "name": "Sunrise Ganga Boat Ride",
+      "price": 2972.04,
+      "duration_hours": 3.5,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Varanasi_A55",
+      "dest_id": "Varanasi",
+      "name": "Sarnath",
+      "price": 3153.57,
+      "duration_hours": 6.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Varanasi_A56",
+      "dest_id": "Varanasi",
+      "name": "Manikarnika Ghat",
+      "price": 1489.66,
+      "duration_hours": 5.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Varanasi_A57",
+      "dest_id": "Varanasi",
+      "name": "Banarasi Silk Shopping",
+      "price": 702.97,
+      "duration_hours": 4.2,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Varanasi_A58",
+      "dest_id": "Varanasi",
+      "name": "Ramnagar Fort",
+      "price": 4154.24,
+      "duration_hours": 3.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Varanasi_A59",
+      "dest_id": "Varanasi",
+      "name": "Old City Heritage Walk",
+      "price": 1833.33,
+      "duration_hours": 1.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Delhi_A60",
+      "dest_id": "Delhi",
+      "name": "Red Fort",
+      "price": 879.03,
+      "duration_hours": 4.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Delhi_A61",
+      "dest_id": "Delhi",
+      "name": "Qutub Minar",
+      "price": 4962.67,
+      "duration_hours": 1.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A62",
+      "dest_id": "Delhi",
+      "name": "India Gate",
+      "price": 3221.66,
+      "duration_hours": 3.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A63",
+      "dest_id": "Delhi",
+      "name": "Humayun's Tomb",
+      "price": 3790.99,
+      "duration_hours": 4.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A64",
+      "dest_id": "Delhi",
+      "name": "Lotus Temple",
+      "price": 4822.37,
+      "duration_hours": 3.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Delhi_A65",
+      "dest_id": "Delhi",
+      "name": "Jama Masjid",
+      "price": 2299.82,
+      "duration_hours": 3.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A66",
+      "dest_id": "Delhi",
+      "name": "Chandni Chowk",
+      "price": 2360.19,
+      "duration_hours": 2.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A67",
+      "dest_id": "Delhi",
+      "name": "Dilli Haat",
+      "price": 4341.5,
+      "duration_hours": 5.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Delhi_A68",
+      "dest_id": "Delhi",
+      "name": "National Museum",
+      "price": 2627.55,
+      "duration_hours": 4.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Delhi_A69",
+      "dest_id": "Delhi",
+      "name": "Lodhi Garden",
+      "price": 4340.15,
+      "duration_hours": 6.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mumbai_A70",
+      "dest_id": "Mumbai",
+      "name": "Gateway of India",
+      "price": 1745.64,
+      "duration_hours": 1.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mumbai_A71",
+      "dest_id": "Mumbai",
+      "name": "Marine Drive",
+      "price": 3901.95,
+      "duration_hours": 4.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mumbai_A72",
+      "dest_id": "Mumbai",
+      "name": "CSMVS Museum",
+      "price": 2377.9,
+      "duration_hours": 1.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mumbai_A73",
+      "dest_id": "Mumbai",
+      "name": "Elephanta Caves",
+      "price": 808.23,
+      "duration_hours": 2.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mumbai_A74",
+      "dest_id": "Mumbai",
+      "name": "Colaba Causeway",
+      "price": 692.59,
+      "duration_hours": 1.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mumbai_A75",
+      "dest_id": "Mumbai",
+      "name": "Sanjay Gandhi National Park",
+      "price": 3045.92,
+      "duration_hours": 5.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mumbai_A76",
+      "dest_id": "Mumbai",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "price": 4456.41,
+      "duration_hours": 1.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mumbai_A77",
+      "dest_id": "Mumbai",
+      "name": "Bandra-Worli Sea Link",
+      "price": 4410.63,
+      "duration_hours": 4.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mumbai_A78",
+      "dest_id": "Mumbai",
+      "name": "Juhu Beach",
+      "price": 2668.81,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mumbai_A79",
+      "dest_id": "Mumbai",
+      "name": "Film City",
+      "price": 728.13,
+      "duration_hours": 5.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hyderabad_A80",
+      "dest_id": "Hyderabad",
+      "name": "Charminar",
+      "price": 3041.3,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hyderabad_A81",
+      "dest_id": "Hyderabad",
+      "name": "Golconda Fort",
+      "price": 2105.87,
+      "duration_hours": 4.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Hyderabad_A82",
+      "dest_id": "Hyderabad",
+      "name": "Salar Jung Museum",
+      "price": 672.02,
+      "duration_hours": 4.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Hyderabad_A83",
+      "dest_id": "Hyderabad",
+      "name": "Hussain Sagar Lake",
+      "price": 4096.49,
+      "duration_hours": 1.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Hyderabad_A84",
+      "dest_id": "Hyderabad",
+      "name": "Qutb Shahi Tombs",
+      "price": 3615.63,
+      "duration_hours": 2.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hyderabad_A85",
+      "dest_id": "Hyderabad",
+      "name": "Chowmahalla Palace",
+      "price": 3838.54,
+      "duration_hours": 2.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Hyderabad_A86",
+      "dest_id": "Hyderabad",
+      "name": "Mecca Masjid",
+      "price": 3666.3,
+      "duration_hours": 3.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hyderabad_A87",
+      "dest_id": "Hyderabad",
+      "name": "Laad Bazaar",
+      "price": 3602.13,
+      "duration_hours": 1.7,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Hyderabad_A88",
+      "dest_id": "Hyderabad",
+      "name": "Ramoji Film City",
+      "price": 1727.69,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hyderabad_A89",
+      "dest_id": "Hyderabad",
+      "name": "Necklace Road",
+      "price": 4597.17,
+      "duration_hours": 5.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bengaluru_A90",
+      "dest_id": "Bengaluru",
+      "name": "Lalbagh Botanical Garden",
+      "price": 3270.72,
+      "duration_hours": 1.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Bengaluru_A91",
+      "dest_id": "Bengaluru",
+      "name": "Cubbon Park",
+      "price": 3685.39,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Bengaluru_A92",
+      "dest_id": "Bengaluru",
+      "name": "Bangalore Palace",
+      "price": 989.4,
+      "duration_hours": 4.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Bengaluru_A93",
+      "dest_id": "Bengaluru",
+      "name": "Vidhana Soudha",
+      "price": 601.18,
+      "duration_hours": 6.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bengaluru_A94",
+      "dest_id": "Bengaluru",
+      "name": "ISKCON Temple",
+      "price": 4082.43,
+      "duration_hours": 2.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bengaluru_A95",
+      "dest_id": "Bengaluru",
+      "name": "Tipu Sultan's Summer Palace",
+      "price": 2348.52,
+      "duration_hours": 5.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Bengaluru_A96",
+      "dest_id": "Bengaluru",
+      "name": "Visvesvaraya Museum",
+      "price": 4484.41,
+      "duration_hours": 5.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Bengaluru_A97",
+      "dest_id": "Bengaluru",
+      "name": "Bannerghatta Biological Park",
+      "price": 1992.61,
+      "duration_hours": 5.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Bengaluru_A98",
+      "dest_id": "Bengaluru",
+      "name": "Commercial Street",
+      "price": 3623.48,
+      "duration_hours": 4.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bengaluru_A99",
+      "dest_id": "Bengaluru",
+      "name": "Church Street",
+      "price": 1938.21,
+      "duration_hours": 4.2,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Chennai_A100",
+      "dest_id": "Chennai",
+      "name": "Marina Beach",
+      "price": 1708.98,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Chennai_A101",
+      "dest_id": "Chennai",
+      "name": "Kapaleeshwarar Temple",
+      "price": 3661.95,
+      "duration_hours": 2.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Chennai_A102",
+      "dest_id": "Chennai",
+      "name": "Fort St. George",
+      "price": 4003.44,
+      "duration_hours": 1.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Chennai_A103",
+      "dest_id": "Chennai",
+      "name": "Government Museum",
+      "price": 4967.58,
+      "duration_hours": 5.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Chennai_A104",
+      "dest_id": "Chennai",
+      "name": "San Thome Basilica",
+      "price": 4173.63,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Chennai_A105",
+      "dest_id": "Chennai",
+      "name": "Mylapore Heritage Walk",
+      "price": 1565.45,
+      "duration_hours": 3.9,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Chennai_A106",
+      "dest_id": "Chennai",
+      "name": "Valluvar Kottam",
+      "price": 4756.2,
+      "duration_hours": 3.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Chennai_A107",
+      "dest_id": "Chennai",
+      "name": "Guindy National Park",
+      "price": 2366.89,
+      "duration_hours": 1.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Chennai_A108",
+      "dest_id": "Chennai",
+      "name": "Besant Nagar Beach",
+      "price": 2028.38,
+      "duration_hours": 4.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Chennai_A109",
+      "dest_id": "Chennai",
+      "name": "DakshinaChitra",
+      "price": 3149.13,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A110",
+      "dest_id": "Kolkata",
+      "name": "Victoria Memorial",
+      "price": 590.87,
+      "duration_hours": 4.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kolkata_A111",
+      "dest_id": "Kolkata",
+      "name": "Howrah Bridge",
+      "price": 1790.55,
+      "duration_hours": 5.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A112",
+      "dest_id": "Kolkata",
+      "name": "Indian Museum",
+      "price": 2327.39,
+      "duration_hours": 5.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kolkata_A113",
+      "dest_id": "Kolkata",
+      "name": "St. Paul's Cathedral",
+      "price": 4264.37,
+      "duration_hours": 3.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A114",
+      "dest_id": "Kolkata",
+      "name": "Dakshineswar Kali Temple",
+      "price": 3143.09,
+      "duration_hours": 5.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Kolkata_A115",
+      "dest_id": "Kolkata",
+      "name": "Belur Math",
+      "price": 1216.15,
+      "duration_hours": 3.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A116",
+      "dest_id": "Kolkata",
+      "name": "Park Street",
+      "price": 2192.87,
+      "duration_hours": 5.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kolkata_A117",
+      "dest_id": "Kolkata",
+      "name": "College Street",
+      "price": 3760.6,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A118",
+      "dest_id": "Kolkata",
+      "name": "Kumartuli",
+      "price": 4930.16,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kolkata_A119",
+      "dest_id": "Kolkata",
+      "name": "Prinsep Ghat",
+      "price": 4585.85,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Amritsar_A120",
+      "dest_id": "Amritsar",
+      "name": "Golden Temple",
+      "price": 2324.31,
+      "duration_hours": 4.9,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Amritsar_A121",
+      "dest_id": "Amritsar",
+      "name": "Jallianwala Bagh",
+      "price": 631.32,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Amritsar_A122",
+      "dest_id": "Amritsar",
+      "name": "Wagah-Attari Border",
+      "price": 2171.62,
+      "duration_hours": 1.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Amritsar_A123",
+      "dest_id": "Amritsar",
+      "name": "Partition Museum",
+      "price": 4260.94,
+      "duration_hours": 2.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Amritsar_A124",
+      "dest_id": "Amritsar",
+      "name": "Akal Takht",
+      "price": 4726.56,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Amritsar_A125",
+      "dest_id": "Amritsar",
+      "name": "Durgiana Temple",
+      "price": 962.23,
+      "duration_hours": 2.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Amritsar_A126",
+      "dest_id": "Amritsar",
+      "name": "Gobindgarh Fort",
+      "price": 594.38,
+      "duration_hours": 6.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Amritsar_A127",
+      "dest_id": "Amritsar",
+      "name": "Heritage Street",
+      "price": 4399.4,
+      "duration_hours": 4.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Amritsar_A128",
+      "dest_id": "Amritsar",
+      "name": "Hall Bazaar",
+      "price": 1403.06,
+      "duration_hours": 5.1,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Amritsar_A129",
+      "dest_id": "Amritsar",
+      "name": "Punjabi Food Trail",
+      "price": 4488.14,
+      "duration_hours": 3.3,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Rishikesh_A130",
+      "dest_id": "Rishikesh",
+      "name": "Ram Jhula",
+      "price": 2237.76,
+      "duration_hours": 1.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rishikesh_A131",
+      "dest_id": "Rishikesh",
+      "name": "Triveni Ghat",
+      "price": 4980.8,
+      "duration_hours": 2.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rishikesh_A132",
+      "dest_id": "Rishikesh",
+      "name": "Beatles Ashram",
+      "price": 2413.7,
+      "duration_hours": 5.9,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Rishikesh_A133",
+      "dest_id": "Rishikesh",
+      "name": "River Rafting",
+      "price": 4455.55,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rishikesh_A134",
+      "dest_id": "Rishikesh",
+      "name": "Neer Garh Waterfall",
+      "price": 2144.29,
+      "duration_hours": 1.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rishikesh_A135",
+      "dest_id": "Rishikesh",
+      "name": "Neelkanth Mahadev Temple",
+      "price": 1183.92,
+      "duration_hours": 3.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Rishikesh_A136",
+      "dest_id": "Rishikesh",
+      "name": "Rajaji National Park",
+      "price": 946.89,
+      "duration_hours": 1.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rishikesh_A137",
+      "dest_id": "Rishikesh",
+      "name": "Yoga Retreat",
+      "price": 4364.49,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rishikesh_A138",
+      "dest_id": "Rishikesh",
+      "name": "Ganga Riverside Camping",
+      "price": 4054.14,
+      "duration_hours": 2.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rishikesh_A139",
+      "dest_id": "Rishikesh",
+      "name": "Laxman Jhula Area",
+      "price": 4601.98,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Manali_A140",
+      "dest_id": "Manali",
+      "name": "Solang Valley",
+      "price": 2033.8,
+      "duration_hours": 5.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Manali_A141",
+      "dest_id": "Manali",
+      "name": "Rohtang Pass",
+      "price": 2888.29,
+      "duration_hours": 3.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Manali_A142",
+      "dest_id": "Manali",
+      "name": "Hadimba Temple",
+      "price": 2248.22,
+      "duration_hours": 2.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Manali_A143",
+      "dest_id": "Manali",
+      "name": "Old Manali",
+      "price": 4028.96,
+      "duration_hours": 4.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Manali_A144",
+      "dest_id": "Manali",
+      "name": "Vashisht Hot Springs",
+      "price": 1192.24,
+      "duration_hours": 1.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Manali_A145",
+      "dest_id": "Manali",
+      "name": "Jogini Waterfall",
+      "price": 3830.71,
+      "duration_hours": 5.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Manali_A146",
+      "dest_id": "Manali",
+      "name": "Manu Temple",
+      "price": 4230.5,
+      "duration_hours": 2.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Manali_A147",
+      "dest_id": "Manali",
+      "name": "Beas River Walk",
+      "price": 733.91,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Manali_A148",
+      "dest_id": "Manali",
+      "name": "Sethan Valley",
+      "price": 2052.16,
+      "duration_hours": 3.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Manali_A149",
+      "dest_id": "Manali",
+      "name": "Mall Road",
+      "price": 3595.55,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A150",
+      "dest_id": "Shimla",
+      "name": "The Ridge",
+      "price": 2560.21,
+      "duration_hours": 4.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A151",
+      "dest_id": "Shimla",
+      "name": "Mall Road",
+      "price": 2454.7,
+      "duration_hours": 1.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A152",
+      "dest_id": "Shimla",
+      "name": "Jakhoo Temple",
+      "price": 4429.46,
+      "duration_hours": 5.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Shimla_A153",
+      "dest_id": "Shimla",
+      "name": "Christ Church",
+      "price": 4105.66,
+      "duration_hours": 3.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Shimla_A154",
+      "dest_id": "Shimla",
+      "name": "Kufri",
+      "price": 2388.13,
+      "duration_hours": 3.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A155",
+      "dest_id": "Shimla",
+      "name": "Viceregal Lodge",
+      "price": 4705.07,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A156",
+      "dest_id": "Shimla",
+      "name": "Shimla State Museum",
+      "price": 4823.12,
+      "duration_hours": 2.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Shimla_A157",
+      "dest_id": "Shimla",
+      "name": "Green Valley",
+      "price": 1196.29,
+      "duration_hours": 2.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Shimla_A158",
+      "dest_id": "Shimla",
+      "name": "Chadwick Falls",
+      "price": 4972.74,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Shimla_A159",
+      "dest_id": "Shimla",
+      "name": "Annandale",
+      "price": 1435.25,
+      "duration_hours": 2.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Leh_A160",
+      "dest_id": "Leh",
+      "name": "Leh Palace",
+      "price": 2469.61,
+      "duration_hours": 1.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Leh_A161",
+      "dest_id": "Leh",
+      "name": "Shanti Stupa",
+      "price": 3502.09,
+      "duration_hours": 3.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Leh_A162",
+      "dest_id": "Leh",
+      "name": "Thiksey Monastery",
+      "price": 3774.94,
+      "duration_hours": 5.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Leh_A163",
+      "dest_id": "Leh",
+      "name": "Hemis Monastery",
+      "price": 4128.93,
+      "duration_hours": 2.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Leh_A164",
+      "dest_id": "Leh",
+      "name": "Magnetic Hill",
+      "price": 2993.28,
+      "duration_hours": 4.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Leh_A165",
+      "dest_id": "Leh",
+      "name": "Khardung La",
+      "price": 1824.77,
+      "duration_hours": 4.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Leh_A166",
+      "dest_id": "Leh",
+      "name": "Nubra Valley",
+      "price": 1916.69,
+      "duration_hours": 1.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Leh_A167",
+      "dest_id": "Leh",
+      "name": "Pangong Lake",
+      "price": 697.03,
+      "duration_hours": 5.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Leh_A168",
+      "dest_id": "Leh",
+      "name": "Hall of Fame",
+      "price": 4645.95,
+      "duration_hours": 4.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Leh_A169",
+      "dest_id": "Leh",
+      "name": "Sangam Point",
+      "price": 3549.49,
+      "duration_hours": 3.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Srinagar_A170",
+      "dest_id": "Srinagar",
+      "name": "Dal Lake Shikara Ride",
+      "price": 1783.86,
+      "duration_hours": 2.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Srinagar_A171",
+      "dest_id": "Srinagar",
+      "name": "Mughal Gardens",
+      "price": 3071.23,
+      "duration_hours": 2.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Srinagar_A172",
+      "dest_id": "Srinagar",
+      "name": "Shankaracharya Temple",
+      "price": 3608.63,
+      "duration_hours": 2.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Srinagar_A173",
+      "dest_id": "Srinagar",
+      "name": "Hazratbal Shrine",
+      "price": 781.46,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Srinagar_A174",
+      "dest_id": "Srinagar",
+      "name": "Pari Mahal",
+      "price": 2697.72,
+      "duration_hours": 4.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Srinagar_A175",
+      "dest_id": "Srinagar",
+      "name": "Nishat Bagh",
+      "price": 4761.5,
+      "duration_hours": 3.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Srinagar_A176",
+      "dest_id": "Srinagar",
+      "name": "Shalimar Bagh",
+      "price": 637.45,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Srinagar_A177",
+      "dest_id": "Srinagar",
+      "name": "Old Srinagar Heritage Walk",
+      "price": 3149.41,
+      "duration_hours": 3.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Srinagar_A178",
+      "dest_id": "Srinagar",
+      "name": "Floating Market",
+      "price": 2337.21,
+      "duration_hours": 3.0,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Srinagar_A179",
+      "dest_id": "Srinagar",
+      "name": "Dachigam National Park",
+      "price": 4945.14,
+      "duration_hours": 1.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Darjeeling_A180",
+      "dest_id": "Darjeeling",
+      "name": "Tiger Hill",
+      "price": 1848.71,
+      "duration_hours": 1.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Darjeeling_A181",
+      "dest_id": "Darjeeling",
+      "name": "Darjeeling Himalayan Railway",
+      "price": 4151.1,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Darjeeling_A182",
+      "dest_id": "Darjeeling",
+      "name": "Batasia Loop",
+      "price": 3773.21,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Darjeeling_A183",
+      "dest_id": "Darjeeling",
+      "name": "Tea Garden Visit",
+      "price": 816.33,
+      "duration_hours": 5.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Darjeeling_A184",
+      "dest_id": "Darjeeling",
+      "name": "Padmaja Naidu Zoological Park",
+      "price": 2067.69,
+      "duration_hours": 3.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Darjeeling_A185",
+      "dest_id": "Darjeeling",
+      "name": "Peace Pagoda",
+      "price": 1010.0,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Darjeeling_A186",
+      "dest_id": "Darjeeling",
+      "name": "Happy Valley Tea Estate",
+      "price": 4039.33,
+      "duration_hours": 3.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Darjeeling_A187",
+      "dest_id": "Darjeeling",
+      "name": "Himalayan Mountaineering Institute",
+      "price": 4790.04,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Darjeeling_A188",
+      "dest_id": "Darjeeling",
+      "name": "Chowrasta Mall",
+      "price": 3357.72,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Darjeeling_A189",
+      "dest_id": "Darjeeling",
+      "name": "Rock Garden",
+      "price": 2719.62,
+      "duration_hours": 2.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Sikkim_A190",
+      "dest_id": "Sikkim",
+      "name": "Gangtok MG Marg",
+      "price": 4769.17,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A191",
+      "dest_id": "Sikkim",
+      "name": "Rumtek Monastery",
+      "price": 2862.24,
+      "duration_hours": 5.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Sikkim_A192",
+      "dest_id": "Sikkim",
+      "name": "Tsomgo Lake",
+      "price": 987.83,
+      "duration_hours": 5.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Sikkim_A193",
+      "dest_id": "Sikkim",
+      "name": "Nathula Pass",
+      "price": 690.12,
+      "duration_hours": 4.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A194",
+      "dest_id": "Sikkim",
+      "name": "Baba Mandir",
+      "price": 2371.75,
+      "duration_hours": 4.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A195",
+      "dest_id": "Sikkim",
+      "name": "Pelling",
+      "price": 684.03,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A196",
+      "dest_id": "Sikkim",
+      "name": "Yuksom",
+      "price": 4353.75,
+      "duration_hours": 4.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A197",
+      "dest_id": "Sikkim",
+      "name": "Ravangla Buddha Park",
+      "price": 3269.81,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Sikkim_A198",
+      "dest_id": "Sikkim",
+      "name": "Namchi Char Dham",
+      "price": 3039.74,
+      "duration_hours": 4.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Sikkim_A199",
+      "dest_id": "Sikkim",
+      "name": "Lachung",
+      "price": 1577.08,
+      "duration_hours": 2.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ooty_A200",
+      "dest_id": "Ooty",
+      "name": "Ooty Lake",
+      "price": 1779.4,
+      "duration_hours": 5.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A201",
+      "dest_id": "Ooty",
+      "name": "Nilgiri Mountain Railway",
+      "price": 1267.03,
+      "duration_hours": 5.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ooty_A202",
+      "dest_id": "Ooty",
+      "name": "Botanical Garden",
+      "price": 3042.69,
+      "duration_hours": 4.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A203",
+      "dest_id": "Ooty",
+      "name": "Doddabetta Peak",
+      "price": 4269.52,
+      "duration_hours": 5.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A204",
+      "dest_id": "Ooty",
+      "name": "Tea Museum",
+      "price": 1793.3,
+      "duration_hours": 2.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ooty_A205",
+      "dest_id": "Ooty",
+      "name": "Rose Garden",
+      "price": 2412.82,
+      "duration_hours": 4.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A206",
+      "dest_id": "Ooty",
+      "name": "Pykara Lake",
+      "price": 2379.27,
+      "duration_hours": 3.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A207",
+      "dest_id": "Ooty",
+      "name": "Pykara Waterfalls",
+      "price": 3668.52,
+      "duration_hours": 2.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A208",
+      "dest_id": "Ooty",
+      "name": "Emerald Lake",
+      "price": 1019.39,
+      "duration_hours": 2.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ooty_A209",
+      "dest_id": "Ooty",
+      "name": "Avalanche Lake",
+      "price": 1101.98,
+      "duration_hours": 3.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mysuru_A210",
+      "dest_id": "Mysuru",
+      "name": "Mysore Palace",
+      "price": 1116.65,
+      "duration_hours": 4.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mysuru_A211",
+      "dest_id": "Mysuru",
+      "name": "Chamundi Hill",
+      "price": 1161.79,
+      "duration_hours": 5.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mysuru_A212",
+      "dest_id": "Mysuru",
+      "name": "Brindavan Gardens",
+      "price": 4798.39,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mysuru_A213",
+      "dest_id": "Mysuru",
+      "name": "Mysuru Zoo",
+      "price": 4692.87,
+      "duration_hours": 2.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mysuru_A214",
+      "dest_id": "Mysuru",
+      "name": "St. Philomena's Cathedral",
+      "price": 1909.3,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mysuru_A215",
+      "dest_id": "Mysuru",
+      "name": "Devaraja Market",
+      "price": 2629.16,
+      "duration_hours": 2.4,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Mysuru_A216",
+      "dest_id": "Mysuru",
+      "name": "Karanji Lake",
+      "price": 3895.17,
+      "duration_hours": 4.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mysuru_A217",
+      "dest_id": "Mysuru",
+      "name": "Jaganmohan Palace",
+      "price": 2503.75,
+      "duration_hours": 5.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mysuru_A218",
+      "dest_id": "Mysuru",
+      "name": "Railway Museum",
+      "price": 2177.8,
+      "duration_hours": 5.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mysuru_A219",
+      "dest_id": "Mysuru",
+      "name": "Ranganathittu Bird Sanctuary",
+      "price": 4136.53,
+      "duration_hours": 1.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Coorg_A220",
+      "dest_id": "Coorg",
+      "name": "Abbey Falls",
+      "price": 1852.39,
+      "duration_hours": 3.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A221",
+      "dest_id": "Coorg",
+      "name": "Raja's Seat",
+      "price": 1823.85,
+      "duration_hours": 2.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A222",
+      "dest_id": "Coorg",
+      "name": "Dubare Elephant Camp",
+      "price": 2883.95,
+      "duration_hours": 3.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A223",
+      "dest_id": "Coorg",
+      "name": "Talakaveri",
+      "price": 3763.13,
+      "duration_hours": 4.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A224",
+      "dest_id": "Coorg",
+      "name": "Mandalpatti Viewpoint",
+      "price": 1427.41,
+      "duration_hours": 5.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A225",
+      "dest_id": "Coorg",
+      "name": "Namdroling Monastery",
+      "price": 3514.93,
+      "duration_hours": 1.9,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Coorg_A226",
+      "dest_id": "Coorg",
+      "name": "Nisargadhama",
+      "price": 1288.14,
+      "duration_hours": 5.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Coorg_A227",
+      "dest_id": "Coorg",
+      "name": "Madikeri Fort",
+      "price": 2893.14,
+      "duration_hours": 3.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Coorg_A228",
+      "dest_id": "Coorg",
+      "name": "Omkareshwara Temple",
+      "price": 1936.48,
+      "duration_hours": 4.2,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Coorg_A229",
+      "dest_id": "Coorg",
+      "name": "Coffee Plantation Tour",
+      "price": 4363.08,
+      "duration_hours": 2.9,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Pondicherry_A230",
+      "dest_id": "Pondicherry",
+      "name": "Promenade Beach",
+      "price": 1915.69,
+      "duration_hours": 3.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Pondicherry_A231",
+      "dest_id": "Pondicherry",
+      "name": "Sri Aurobindo Ashram",
+      "price": 969.26,
+      "duration_hours": 2.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Pondicherry_A232",
+      "dest_id": "Pondicherry",
+      "name": "Auroville",
+      "price": 3772.69,
+      "duration_hours": 4.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Pondicherry_A233",
+      "dest_id": "Pondicherry",
+      "name": "Paradise Beach",
+      "price": 4739.83,
+      "duration_hours": 2.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Pondicherry_A234",
+      "dest_id": "Pondicherry",
+      "name": "French Quarter",
+      "price": 628.51,
+      "duration_hours": 5.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Pondicherry_A235",
+      "dest_id": "Pondicherry",
+      "name": "Basilica of the Sacred Heart",
+      "price": 1557.85,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Pondicherry_A236",
+      "dest_id": "Pondicherry",
+      "name": "Arikamedu",
+      "price": 4372.41,
+      "duration_hours": 2.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Pondicherry_A237",
+      "dest_id": "Pondicherry",
+      "name": "Botanical Garden",
+      "price": 2810.61,
+      "duration_hours": 4.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Pondicherry_A238",
+      "dest_id": "Pondicherry",
+      "name": "Puducherry Museum",
+      "price": 3300.81,
+      "duration_hours": 1.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Pondicherry_A239",
+      "dest_id": "Pondicherry",
+      "name": "White Town Heritage Walk",
+      "price": 2776.46,
+      "duration_hours": 2.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Andaman_A240",
+      "dest_id": "Andaman",
+      "name": "Cellular Jail",
+      "price": 2460.99,
+      "duration_hours": 1.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Andaman_A241",
+      "dest_id": "Andaman",
+      "name": "Ross Island",
+      "price": 865.77,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Andaman_A242",
+      "dest_id": "Andaman",
+      "name": "North Bay Island",
+      "price": 1032.84,
+      "duration_hours": 4.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Andaman_A243",
+      "dest_id": "Andaman",
+      "name": "Corbyn's Cove Beach",
+      "price": 1853.81,
+      "duration_hours": 1.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Andaman_A244",
+      "dest_id": "Andaman",
+      "name": "Samudrika Museum",
+      "price": 2742.12,
+      "duration_hours": 5.9,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Andaman_A245",
+      "dest_id": "Andaman",
+      "name": "Chidiya Tapu",
+      "price": 2657.0,
+      "duration_hours": 5.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Andaman_A246",
+      "dest_id": "Andaman",
+      "name": "Baratang Island",
+      "price": 3169.67,
+      "duration_hours": 2.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Andaman_A247",
+      "dest_id": "Andaman",
+      "name": "Radhanagar Beach",
+      "price": 1012.9,
+      "duration_hours": 2.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Andaman_A248",
+      "dest_id": "Andaman",
+      "name": "Elephant Beach",
+      "price": 2124.03,
+      "duration_hours": 2.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Andaman_A249",
+      "dest_id": "Andaman",
+      "name": "Mount Harriet",
+      "price": 2286.25,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A250",
+      "dest_id": "Lakshadweep",
+      "name": "Agatti Island",
+      "price": 3191.65,
+      "duration_hours": 3.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A251",
+      "dest_id": "Lakshadweep",
+      "name": "Bangaram Island",
+      "price": 3321.35,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A252",
+      "dest_id": "Lakshadweep",
+      "name": "Kavaratti Island",
+      "price": 3785.58,
+      "duration_hours": 2.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A253",
+      "dest_id": "Lakshadweep",
+      "name": "Minicoy Island",
+      "price": 3530.56,
+      "duration_hours": 4.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A254",
+      "dest_id": "Lakshadweep",
+      "name": "Kalpeni Island",
+      "price": 1033.95,
+      "duration_hours": 3.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A255",
+      "dest_id": "Lakshadweep",
+      "name": "Kadmat Island",
+      "price": 4762.36,
+      "duration_hours": 4.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Lakshadweep_A256",
+      "dest_id": "Lakshadweep",
+      "name": "Scuba Diving",
+      "price": 4569.46,
+      "duration_hours": 5.8,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Lakshadweep_A257",
+      "dest_id": "Lakshadweep",
+      "name": "Snorkeling",
+      "price": 1718.36,
+      "duration_hours": 1.4,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Lakshadweep_A258",
+      "dest_id": "Lakshadweep",
+      "name": "Kayaking",
+      "price": 4034.22,
+      "duration_hours": 5.8,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Lakshadweep_A259",
+      "dest_id": "Lakshadweep",
+      "name": "Glass-Bottom Boat Ride",
+      "price": 857.35,
+      "duration_hours": 4.7,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Ranthambore_A260",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore National Park Safari",
+      "price": 4430.77,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ranthambore_A261",
+      "dest_id": "Ranthambore",
+      "name": "Ranthambore Fort",
+      "price": 751.07,
+      "duration_hours": 5.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ranthambore_A262",
+      "dest_id": "Ranthambore",
+      "name": "Trinetra Ganesh Temple",
+      "price": 1140.92,
+      "duration_hours": 2.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Ranthambore_A263",
+      "dest_id": "Ranthambore",
+      "name": "Padam Talao",
+      "price": 4140.47,
+      "duration_hours": 3.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ranthambore_A264",
+      "dest_id": "Ranthambore",
+      "name": "Raj Bagh Ruins",
+      "price": 3204.58,
+      "duration_hours": 3.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ranthambore_A265",
+      "dest_id": "Ranthambore",
+      "name": "Surwal Lake",
+      "price": 2232.34,
+      "duration_hours": 1.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ranthambore_A266",
+      "dest_id": "Ranthambore",
+      "name": "Kachida Valley",
+      "price": 2387.73,
+      "duration_hours": 3.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ranthambore_A267",
+      "dest_id": "Ranthambore",
+      "name": "Malik Talao",
+      "price": 3266.67,
+      "duration_hours": 5.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ranthambore_A268",
+      "dest_id": "Ranthambore",
+      "name": "Jogi Mahal",
+      "price": 2686.03,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ranthambore_A269",
+      "dest_id": "Ranthambore",
+      "name": "Village Heritage Walk",
+      "price": 2608.09,
+      "duration_hours": 3.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaisalmer_A270",
+      "dest_id": "Jaisalmer",
+      "name": "Jaisalmer Fort",
+      "price": 3709.39,
+      "duration_hours": 2.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaisalmer_A271",
+      "dest_id": "Jaisalmer",
+      "name": "Patwon Ki Haveli",
+      "price": 743.47,
+      "duration_hours": 5.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaisalmer_A272",
+      "dest_id": "Jaisalmer",
+      "name": "Gadisar Lake",
+      "price": 1923.92,
+      "duration_hours": 5.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jaisalmer_A273",
+      "dest_id": "Jaisalmer",
+      "name": "Sam Sand Dunes",
+      "price": 847.88,
+      "duration_hours": 3.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaisalmer_A274",
+      "dest_id": "Jaisalmer",
+      "name": "Kuldhara Village",
+      "price": 1110.86,
+      "duration_hours": 1.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaisalmer_A275",
+      "dest_id": "Jaisalmer",
+      "name": "Salim Singh Ki Haveli",
+      "price": 1662.21,
+      "duration_hours": 4.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jaisalmer_A276",
+      "dest_id": "Jaisalmer",
+      "name": "Bada Bagh",
+      "price": 3597.58,
+      "duration_hours": 5.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jaisalmer_A277",
+      "dest_id": "Jaisalmer",
+      "name": "Desert Camel Safari",
+      "price": 806.58,
+      "duration_hours": 1.5,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Jaisalmer_A278",
+      "dest_id": "Jaisalmer",
+      "name": "Desert Camping",
+      "price": 3349.24,
+      "duration_hours": 5.6,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Jaisalmer_A279",
+      "dest_id": "Jaisalmer",
+      "name": "Nathmal Ki Haveli",
+      "price": 1695.21,
+      "duration_hours": 5.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jodhpur_A280",
+      "dest_id": "Jodhpur",
+      "name": "Mehrangarh Fort",
+      "price": 3360.68,
+      "duration_hours": 3.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jodhpur_A281",
+      "dest_id": "Jodhpur",
+      "name": "Jaswant Thada",
+      "price": 4121.83,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jodhpur_A282",
+      "dest_id": "Jodhpur",
+      "name": "Umaid Bhawan Palace",
+      "price": 1564.84,
+      "duration_hours": 3.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jodhpur_A283",
+      "dest_id": "Jodhpur",
+      "name": "Blue City Heritage Walk",
+      "price": 3321.66,
+      "duration_hours": 2.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jodhpur_A284",
+      "dest_id": "Jodhpur",
+      "name": "Clock Tower Market",
+      "price": 1588.75,
+      "duration_hours": 5.2,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Jodhpur_A285",
+      "dest_id": "Jodhpur",
+      "name": "Mandore Gardens",
+      "price": 3473.96,
+      "duration_hours": 3.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jodhpur_A286",
+      "dest_id": "Jodhpur",
+      "name": "Rao Jodha Desert Rock Park",
+      "price": 985.44,
+      "duration_hours": 3.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jodhpur_A287",
+      "dest_id": "Jodhpur",
+      "name": "Kaylana Lake",
+      "price": 2816.13,
+      "duration_hours": 3.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jodhpur_A288",
+      "dest_id": "Jodhpur",
+      "name": "Toorji Ka Jhalra",
+      "price": 1353.0,
+      "duration_hours": 2.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jodhpur_A289",
+      "dest_id": "Jodhpur",
+      "name": "Mehrangarh Zipline",
+      "price": 3831.05,
+      "duration_hours": 2.6,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Munnar_A290",
+      "dest_id": "Munnar",
+      "name": "Tea Gardens",
+      "price": 762.68,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A291",
+      "dest_id": "Munnar",
+      "name": "Eravikulam National Park",
+      "price": 4968.91,
+      "duration_hours": 3.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A292",
+      "dest_id": "Munnar",
+      "name": "Mattupetty Dam",
+      "price": 2944.0,
+      "duration_hours": 2.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A293",
+      "dest_id": "Munnar",
+      "name": "Top Station",
+      "price": 4208.42,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Munnar_A294",
+      "dest_id": "Munnar",
+      "name": "Echo Point",
+      "price": 2703.6,
+      "duration_hours": 1.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Munnar_A295",
+      "dest_id": "Munnar",
+      "name": "Kundala Lake",
+      "price": 2049.93,
+      "duration_hours": 4.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A296",
+      "dest_id": "Munnar",
+      "name": "Tea Museum",
+      "price": 3296.1,
+      "duration_hours": 3.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Munnar_A297",
+      "dest_id": "Munnar",
+      "name": "Attukad Waterfalls",
+      "price": 1127.16,
+      "duration_hours": 2.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A298",
+      "dest_id": "Munnar",
+      "name": "Anamudi Peak",
+      "price": 4827.88,
+      "duration_hours": 3.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Munnar_A299",
+      "dest_id": "Munnar",
+      "name": "Kolukkumalai Tea Estate",
+      "price": 2625.3,
+      "duration_hours": 3.5,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Wayanad_A300",
+      "dest_id": "Wayanad",
+      "name": "Edakkal Caves",
+      "price": 1167.63,
+      "duration_hours": 1.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Wayanad_A301",
+      "dest_id": "Wayanad",
+      "name": "Banasura Sagar Dam",
+      "price": 3076.91,
+      "duration_hours": 1.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Wayanad_A302",
+      "dest_id": "Wayanad",
+      "name": "Soochipara Falls",
+      "price": 1448.37,
+      "duration_hours": 5.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Wayanad_A303",
+      "dest_id": "Wayanad",
+      "name": "Vythiri",
+      "price": 3204.25,
+      "duration_hours": 3.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Wayanad_A304",
+      "dest_id": "Wayanad",
+      "name": "Kuruva Dweep",
+      "price": 3751.5,
+      "duration_hours": 2.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Wayanad_A305",
+      "dest_id": "Wayanad",
+      "name": "Pookode Lake",
+      "price": 4746.28,
+      "duration_hours": 5.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Wayanad_A306",
+      "dest_id": "Wayanad",
+      "name": "Kanthanpara Waterfall",
+      "price": 1894.26,
+      "duration_hours": 4.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Wayanad_A307",
+      "dest_id": "Wayanad",
+      "name": "Chain Tree",
+      "price": 1261.39,
+      "duration_hours": 2.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Wayanad_A308",
+      "dest_id": "Wayanad",
+      "name": "Sulthan Bathery",
+      "price": 1955.26,
+      "duration_hours": 2.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Wayanad_A309",
+      "dest_id": "Wayanad",
+      "name": "Wayanad Wildlife Sanctuary",
+      "price": 618.69,
+      "duration_hours": 5.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Hampi_A310",
+      "dest_id": "Hampi",
+      "name": "Virupaksha Temple",
+      "price": 4315.13,
+      "duration_hours": 4.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Hampi_A311",
+      "dest_id": "Hampi",
+      "name": "Vijaya Vittala Temple",
+      "price": 2389.84,
+      "duration_hours": 5.9,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Hampi_A312",
+      "dest_id": "Hampi",
+      "name": "Stone Chariot",
+      "price": 3411.03,
+      "duration_hours": 5.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hampi_A313",
+      "dest_id": "Hampi",
+      "name": "Hampi Bazaar",
+      "price": 1106.52,
+      "duration_hours": 4.6,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Hampi_A314",
+      "dest_id": "Hampi",
+      "name": "Lotus Mahal",
+      "price": 1114.79,
+      "duration_hours": 3.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hampi_A315",
+      "dest_id": "Hampi",
+      "name": "Elephant Stables",
+      "price": 4063.97,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Hampi_A316",
+      "dest_id": "Hampi",
+      "name": "Achyutaraya Temple",
+      "price": 1682.09,
+      "duration_hours": 1.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Hampi_A317",
+      "dest_id": "Hampi",
+      "name": "Matanga Hill",
+      "price": 4962.78,
+      "duration_hours": 6.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Hampi_A318",
+      "dest_id": "Hampi",
+      "name": "Hemakuta Hill",
+      "price": 1750.76,
+      "duration_hours": 3.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Hampi_A319",
+      "dest_id": "Hampi",
+      "name": "Tungabhadra Coracle Ride",
+      "price": 4496.43,
+      "duration_hours": 2.2,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Gokarna_A320",
+      "dest_id": "Gokarna",
+      "name": "Om Beach",
+      "price": 3345.1,
+      "duration_hours": 3.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Gokarna_A321",
+      "dest_id": "Gokarna",
+      "name": "Kudle Beach",
+      "price": 4040.44,
+      "duration_hours": 6.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Gokarna_A322",
+      "dest_id": "Gokarna",
+      "name": "Half Moon Beach",
+      "price": 3149.86,
+      "duration_hours": 3.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Gokarna_A323",
+      "dest_id": "Gokarna",
+      "name": "Paradise Beach",
+      "price": 558.19,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Gokarna_A324",
+      "dest_id": "Gokarna",
+      "name": "Mahabaleshwar Temple",
+      "price": 4497.25,
+      "duration_hours": 5.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Gokarna_A325",
+      "dest_id": "Gokarna",
+      "name": "Gokarna Main Beach",
+      "price": 4213.76,
+      "duration_hours": 5.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Gokarna_A326",
+      "dest_id": "Gokarna",
+      "name": "Yana Caves Day Trip",
+      "price": 2567.32,
+      "duration_hours": 1.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Gokarna_A327",
+      "dest_id": "Gokarna",
+      "name": "Mirjan Fort",
+      "price": 3172.27,
+      "duration_hours": 3.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Gokarna_A328",
+      "dest_id": "Gokarna",
+      "name": "Koti Tirtha",
+      "price": 4490.82,
+      "duration_hours": 2.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Gokarna_A329",
+      "dest_id": "Gokarna",
+      "name": "Beach Trek",
+      "price": 1558.49,
+      "duration_hours": 1.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kodaikanal_A330",
+      "dest_id": "Kodaikanal",
+      "name": "Kodaikanal Lake",
+      "price": 4487.45,
+      "duration_hours": 2.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kodaikanal_A331",
+      "dest_id": "Kodaikanal",
+      "name": "Coaker's Walk",
+      "price": 2140.63,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A332",
+      "dest_id": "Kodaikanal",
+      "name": "Bryant Park",
+      "price": 3367.03,
+      "duration_hours": 1.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kodaikanal_A333",
+      "dest_id": "Kodaikanal",
+      "name": "Pillar Rocks",
+      "price": 3017.42,
+      "duration_hours": 4.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A334",
+      "dest_id": "Kodaikanal",
+      "name": "Silver Cascade Falls",
+      "price": 2129.5,
+      "duration_hours": 2.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A335",
+      "dest_id": "Kodaikanal",
+      "name": "Guna Caves",
+      "price": 3177.16,
+      "duration_hours": 3.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kodaikanal_A336",
+      "dest_id": "Kodaikanal",
+      "name": "Dolphin's Nose",
+      "price": 1089.61,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A337",
+      "dest_id": "Kodaikanal",
+      "name": "Bear Shola Falls",
+      "price": 4880.45,
+      "duration_hours": 3.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A338",
+      "dest_id": "Kodaikanal",
+      "name": "Moir Point",
+      "price": 1607.07,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kodaikanal_A339",
+      "dest_id": "Kodaikanal",
+      "name": "Berijam Lake",
+      "price": 4778.37,
+      "duration_hours": 5.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A340",
+      "dest_id": "Mahabaleshwar",
+      "name": "Venna Lake",
+      "price": 668.48,
+      "duration_hours": 3.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A341",
+      "dest_id": "Mahabaleshwar",
+      "name": "Arthur's Seat",
+      "price": 4822.94,
+      "duration_hours": 2.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A342",
+      "dest_id": "Mahabaleshwar",
+      "name": "Pratapgad Fort",
+      "price": 1143.94,
+      "duration_hours": 3.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A343",
+      "dest_id": "Mahabaleshwar",
+      "name": "Mapro Garden",
+      "price": 4872.54,
+      "duration_hours": 4.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A344",
+      "dest_id": "Mahabaleshwar",
+      "name": "Elephant's Head Point",
+      "price": 4850.13,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A345",
+      "dest_id": "Mahabaleshwar",
+      "name": "Lingmala Waterfall",
+      "price": 4322.83,
+      "duration_hours": 2.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A346",
+      "dest_id": "Mahabaleshwar",
+      "name": "Krishnabai Temple",
+      "price": 3010.36,
+      "duration_hours": 4.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A347",
+      "dest_id": "Mahabaleshwar",
+      "name": "Wilson Point",
+      "price": 3478.91,
+      "duration_hours": 5.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A348",
+      "dest_id": "Mahabaleshwar",
+      "name": "Panch Ganga Temple",
+      "price": 1948.67,
+      "duration_hours": 2.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Mahabaleshwar_A349",
+      "dest_id": "Mahabaleshwar",
+      "name": "Strawberry Farm Visit",
+      "price": 1680.58,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Nashik_A350",
+      "dest_id": "Nashik",
+      "name": "Trimbakeshwar Temple",
+      "price": 2180.88,
+      "duration_hours": 5.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Nashik_A351",
+      "dest_id": "Nashik",
+      "name": "Sula Vineyards",
+      "price": 4960.43,
+      "duration_hours": 3.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Nashik_A352",
+      "dest_id": "Nashik",
+      "name": "Pandavleni Caves",
+      "price": 3003.06,
+      "duration_hours": 3.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Nashik_A353",
+      "dest_id": "Nashik",
+      "name": "Ram Kund",
+      "price": 2144.46,
+      "duration_hours": 4.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Nashik_A354",
+      "dest_id": "Nashik",
+      "name": "Kalaram Temple",
+      "price": 2367.69,
+      "duration_hours": 1.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Nashik_A355",
+      "dest_id": "Nashik",
+      "name": "Sita Gufa",
+      "price": 3238.95,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Nashik_A356",
+      "dest_id": "Nashik",
+      "name": "Anjaneri Hills",
+      "price": 4199.0,
+      "duration_hours": 4.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Nashik_A357",
+      "dest_id": "Nashik",
+      "name": "Gangapur Dam",
+      "price": 4444.46,
+      "duration_hours": 4.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Nashik_A358",
+      "dest_id": "Nashik",
+      "name": "Coin Museum",
+      "price": 2471.32,
+      "duration_hours": 5.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Nashik_A359",
+      "dest_id": "Nashik",
+      "name": "Godavari River Walk",
+      "price": 4818.55,
+      "duration_hours": 5.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A360",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ajanta Caves",
+      "price": 2739.89,
+      "duration_hours": 4.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A361",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ellora Caves",
+      "price": 3593.21,
+      "duration_hours": 2.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A362",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Bibi Ka Maqbara",
+      "price": 2613.24,
+      "duration_hours": 1.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A363",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Daulatabad Fort",
+      "price": 4519.54,
+      "duration_hours": 1.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A364",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Aurangabad Caves",
+      "price": 3435.83,
+      "duration_hours": 4.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A365",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Panchakki",
+      "price": 1336.12,
+      "duration_hours": 4.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A366",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Soneri Mahal",
+      "price": 3478.04,
+      "duration_hours": 3.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A367",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ghrishneshwar Temple",
+      "price": 4116.01,
+      "duration_hours": 5.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A368",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Himayat Bagh",
+      "price": 2912.41,
+      "duration_hours": 3.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Ajanta_Ellora_A369",
+      "dest_id": "Ajanta_Ellora",
+      "name": "Ellora Heritage Walk",
+      "price": 3023.18,
+      "duration_hours": 5.8,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kutch_A370",
+      "dest_id": "Kutch",
+      "name": "Great Rann of Kutch",
+      "price": 943.05,
+      "duration_hours": 5.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kutch_A371",
+      "dest_id": "Kutch",
+      "name": "Kalo Dungar",
+      "price": 2835.1,
+      "duration_hours": 2.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kutch_A372",
+      "dest_id": "Kutch",
+      "name": "Mandvi Beach",
+      "price": 1407.14,
+      "duration_hours": 5.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kutch_A373",
+      "dest_id": "Kutch",
+      "name": "Vijay Vilas Palace",
+      "price": 1630.76,
+      "duration_hours": 5.9,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kutch_A374",
+      "dest_id": "Kutch",
+      "name": "Bhujodi Handicraft Village",
+      "price": 1814.72,
+      "duration_hours": 3.3,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Kutch_A375",
+      "dest_id": "Kutch",
+      "name": "Aina Mahal",
+      "price": 1987.14,
+      "duration_hours": 4.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kutch_A376",
+      "dest_id": "Kutch",
+      "name": "Prag Mahal",
+      "price": 2229.77,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kutch_A377",
+      "dest_id": "Kutch",
+      "name": "Kutch Museum",
+      "price": 3984.28,
+      "duration_hours": 1.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Kutch_A378",
+      "dest_id": "Kutch",
+      "name": "Dholavira",
+      "price": 1220.4,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kutch_A379",
+      "dest_id": "Kutch",
+      "name": "Hodka Village",
+      "price": 4990.56,
+      "duration_hours": 3.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jim_Corbett_A380",
+      "dest_id": "Jim_Corbett",
+      "name": "Corbett National Park Safari",
+      "price": 3754.41,
+      "duration_hours": 2.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jim_Corbett_A381",
+      "dest_id": "Jim_Corbett",
+      "name": "Dhikala Zone",
+      "price": 2713.79,
+      "duration_hours": 4.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jim_Corbett_A382",
+      "dest_id": "Jim_Corbett",
+      "name": "Bijrani Zone",
+      "price": 2437.84,
+      "duration_hours": 2.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jim_Corbett_A383",
+      "dest_id": "Jim_Corbett",
+      "name": "Corbett Waterfall",
+      "price": 3165.21,
+      "duration_hours": 2.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jim_Corbett_A384",
+      "dest_id": "Jim_Corbett",
+      "name": "Garjiya Devi Temple",
+      "price": 3281.08,
+      "duration_hours": 4.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Jim_Corbett_A385",
+      "dest_id": "Jim_Corbett",
+      "name": "Sitabani Wildlife Reserve",
+      "price": 1544.17,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jim_Corbett_A386",
+      "dest_id": "Jim_Corbett",
+      "name": "Kosi River",
+      "price": 2993.77,
+      "duration_hours": 5.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Jim_Corbett_A387",
+      "dest_id": "Jim_Corbett",
+      "name": "Corbett Museum",
+      "price": 1075.52,
+      "duration_hours": 5.2,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Jim_Corbett_A388",
+      "dest_id": "Jim_Corbett",
+      "name": "Sultan's Battery",
+      "price": 3955.28,
+      "duration_hours": 4.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Jim_Corbett_A389",
+      "dest_id": "Jim_Corbett",
+      "name": "Jhirna Zone",
+      "price": 3739.39,
+      "duration_hours": 3.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kaziranga_A390",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Jeep Safari",
+      "price": 4180.25,
+      "duration_hours": 5.3,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Kaziranga_A391",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Elephant Safari",
+      "price": 1653.24,
+      "duration_hours": 3.1,
+      "category": "Adventure/Experience"
+    },
+    {
+      "activity_id": "Kaziranga_A392",
+      "dest_id": "Kaziranga",
+      "name": "Central Range",
+      "price": 1887.19,
+      "duration_hours": 4.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kaziranga_A393",
+      "dest_id": "Kaziranga",
+      "name": "Western Range",
+      "price": 2392.17,
+      "duration_hours": 1.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kaziranga_A394",
+      "dest_id": "Kaziranga",
+      "name": "Eastern Range",
+      "price": 4421.73,
+      "duration_hours": 4.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Kaziranga_A395",
+      "dest_id": "Kaziranga",
+      "name": "Kohora Orchid Park",
+      "price": 2702.86,
+      "duration_hours": 2.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kaziranga_A396",
+      "dest_id": "Kaziranga",
+      "name": "Kaziranga Orchid and Biodiversity Park",
+      "price": 4025.74,
+      "duration_hours": 1.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kaziranga_A397",
+      "dest_id": "Kaziranga",
+      "name": "Panbari Reserve Forest",
+      "price": 4711.81,
+      "duration_hours": 4.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kaziranga_A398",
+      "dest_id": "Kaziranga",
+      "name": "Brahmaputra River Cruise",
+      "price": 3950.08,
+      "duration_hours": 5.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Kaziranga_A399",
+      "dest_id": "Kaziranga",
+      "name": "Tea Garden Visit",
+      "price": 4835.95,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Meghalaya_A400",
+      "dest_id": "Meghalaya",
+      "name": "Shillong Peak",
+      "price": 4395.68,
+      "duration_hours": 5.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Meghalaya_A401",
+      "dest_id": "Meghalaya",
+      "name": "Elephant Falls",
+      "price": 2971.68,
+      "duration_hours": 4.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Meghalaya_A402",
+      "dest_id": "Meghalaya",
+      "name": "Umiam Lake",
+      "price": 2856.48,
+      "duration_hours": 4.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Meghalaya_A403",
+      "dest_id": "Meghalaya",
+      "name": "Cherrapunji",
+      "price": 4232.63,
+      "duration_hours": 3.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Meghalaya_A404",
+      "dest_id": "Meghalaya",
+      "name": "Nohkalikai Falls",
+      "price": 550.45,
+      "duration_hours": 2.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Meghalaya_A405",
+      "dest_id": "Meghalaya",
+      "name": "Mawsmai Caves",
+      "price": 4747.07,
+      "duration_hours": 3.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Meghalaya_A406",
+      "dest_id": "Meghalaya",
+      "name": "Living Root Bridge",
+      "price": 3849.95,
+      "duration_hours": 5.0,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Meghalaya_A407",
+      "dest_id": "Meghalaya",
+      "name": "Dawki River",
+      "price": 3305.1,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Meghalaya_A408",
+      "dest_id": "Meghalaya",
+      "name": "Mawlynnong Village",
+      "price": 1080.63,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Meghalaya_A409",
+      "dest_id": "Meghalaya",
+      "name": "Laitlum Canyon",
+      "price": 3476.14,
+      "duration_hours": 5.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Tawang_A410",
+      "dest_id": "Tawang",
+      "name": "Tawang Monastery",
+      "price": 2923.19,
+      "duration_hours": 4.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Tawang_A411",
+      "dest_id": "Tawang",
+      "name": "Sela Pass",
+      "price": 1609.86,
+      "duration_hours": 1.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Tawang_A412",
+      "dest_id": "Tawang",
+      "name": "Sela Lake",
+      "price": 2290.48,
+      "duration_hours": 3.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Tawang_A413",
+      "dest_id": "Tawang",
+      "name": "Bum La Pass",
+      "price": 3734.64,
+      "duration_hours": 1.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Tawang_A414",
+      "dest_id": "Tawang",
+      "name": "Madhuri Lake",
+      "price": 2932.09,
+      "duration_hours": 3.3,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Tawang_A415",
+      "dest_id": "Tawang",
+      "name": "Nuranang Falls",
+      "price": 3903.21,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Tawang_A416",
+      "dest_id": "Tawang",
+      "name": "Tawang War Memorial",
+      "price": 981.16,
+      "duration_hours": 2.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Tawang_A417",
+      "dest_id": "Tawang",
+      "name": "P.T. Tso Lake",
+      "price": 4339.59,
+      "duration_hours": 2.5,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Tawang_A418",
+      "dest_id": "Tawang",
+      "name": "Urgelling Monastery",
+      "price": 1718.7,
+      "duration_hours": 1.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Tawang_A419",
+      "dest_id": "Tawang",
+      "name": "Jaswant Garh",
+      "price": 2193.64,
+      "duration_hours": 3.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Khajuraho_A420",
+      "dest_id": "Khajuraho",
+      "name": "Western Group Temples",
+      "price": 3797.0,
+      "duration_hours": 1.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A421",
+      "dest_id": "Khajuraho",
+      "name": "Eastern Group Temples",
+      "price": 1822.98,
+      "duration_hours": 3.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A422",
+      "dest_id": "Khajuraho",
+      "name": "Southern Group Temples",
+      "price": 2311.37,
+      "duration_hours": 4.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A423",
+      "dest_id": "Khajuraho",
+      "name": "Kandariya Mahadeva Temple",
+      "price": 2130.38,
+      "duration_hours": 3.8,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A424",
+      "dest_id": "Khajuraho",
+      "name": "Lakshmana Temple",
+      "price": 3499.49,
+      "duration_hours": 3.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A425",
+      "dest_id": "Khajuraho",
+      "name": "Devi Jagadambi Temple",
+      "price": 2369.08,
+      "duration_hours": 3.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A426",
+      "dest_id": "Khajuraho",
+      "name": "Matangeshwar Temple",
+      "price": 1576.63,
+      "duration_hours": 3.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Khajuraho_A427",
+      "dest_id": "Khajuraho",
+      "name": "Khajuraho Archaeological Museum",
+      "price": 3963.92,
+      "duration_hours": 3.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Khajuraho_A428",
+      "dest_id": "Khajuraho",
+      "name": "Raneh Falls Day Trip",
+      "price": 2641.52,
+      "duration_hours": 1.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Khajuraho_A429",
+      "dest_id": "Khajuraho",
+      "name": "Sound and Light Show",
+      "price": 1289.62,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A430",
+      "dest_id": "Bodh_Gaya",
+      "name": "Mahabodhi Temple",
+      "price": 3632.91,
+      "duration_hours": 1.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A431",
+      "dest_id": "Bodh_Gaya",
+      "name": "Bodhi Tree",
+      "price": 2408.87,
+      "duration_hours": 5.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A432",
+      "dest_id": "Bodh_Gaya",
+      "name": "Great Buddha Statue",
+      "price": 4743.79,
+      "duration_hours": 2.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A433",
+      "dest_id": "Bodh_Gaya",
+      "name": "Thai Monastery",
+      "price": 2410.46,
+      "duration_hours": 2.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A434",
+      "dest_id": "Bodh_Gaya",
+      "name": "Royal Bhutan Monastery",
+      "price": 1357.73,
+      "duration_hours": 2.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A435",
+      "dest_id": "Bodh_Gaya",
+      "name": "Japanese Temple",
+      "price": 2501.87,
+      "duration_hours": 5.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A436",
+      "dest_id": "Bodh_Gaya",
+      "name": "Dungeshwari Cave Temples",
+      "price": 4444.2,
+      "duration_hours": 5.4,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A437",
+      "dest_id": "Bodh_Gaya",
+      "name": "Tibetan Monastery",
+      "price": 1157.56,
+      "duration_hours": 4.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A438",
+      "dest_id": "Bodh_Gaya",
+      "name": "Muchalinda Lake",
+      "price": 1223.76,
+      "duration_hours": 3.7,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Bodh_Gaya_A439",
+      "dest_id": "Bodh_Gaya",
+      "name": "Sujata Stupa",
+      "price": 4016.82,
+      "duration_hours": 4.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Visakhapatnam_A440",
+      "dest_id": "Visakhapatnam",
+      "name": "RK Beach",
+      "price": 660.54,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Visakhapatnam_A441",
+      "dest_id": "Visakhapatnam",
+      "name": "Kailasagiri",
+      "price": 3238.31,
+      "duration_hours": 5.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Visakhapatnam_A442",
+      "dest_id": "Visakhapatnam",
+      "name": "INS Kurusura Submarine Museum",
+      "price": 3857.29,
+      "duration_hours": 5.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Visakhapatnam_A443",
+      "dest_id": "Visakhapatnam",
+      "name": "Simhachalam Temple",
+      "price": 1441.04,
+      "duration_hours": 3.5,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Visakhapatnam_A444",
+      "dest_id": "Visakhapatnam",
+      "name": "Yarada Beach",
+      "price": 2920.43,
+      "duration_hours": 6.0,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Visakhapatnam_A445",
+      "dest_id": "Visakhapatnam",
+      "name": "Araku Valley",
+      "price": 4106.7,
+      "duration_hours": 5.4,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Visakhapatnam_A446",
+      "dest_id": "Visakhapatnam",
+      "name": "Borra Caves",
+      "price": 3428.08,
+      "duration_hours": 1.3,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Visakhapatnam_A447",
+      "dest_id": "Visakhapatnam",
+      "name": "Dolphin's Nose",
+      "price": 637.86,
+      "duration_hours": 2.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Visakhapatnam_A448",
+      "dest_id": "Visakhapatnam",
+      "name": "Rushikonda Beach",
+      "price": 3758.8,
+      "duration_hours": 2.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Visakhapatnam_A449",
+      "dest_id": "Visakhapatnam",
+      "name": "Tribal Museum Araku",
+      "price": 4608.88,
+      "duration_hours": 2.1,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A450",
+      "dest_id": "Rann_of_Kutch",
+      "name": "White Rann",
+      "price": 4253.03,
+      "duration_hours": 4.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A451",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Dhordo Village",
+      "price": 1781.87,
+      "duration_hours": 2.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A452",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Kala Dungar",
+      "price": 2149.74,
+      "duration_hours": 1.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A453",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Kutch Desert Wildlife Sanctuary",
+      "price": 1407.16,
+      "duration_hours": 3.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A454",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Hodka Village",
+      "price": 4464.33,
+      "duration_hours": 1.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A455",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Mandvi Beach",
+      "price": 3785.83,
+      "duration_hours": 2.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A456",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Vijay Vilas Palace",
+      "price": 3391.18,
+      "duration_hours": 1.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A457",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Bhujodi Craft Village",
+      "price": 4851.01,
+      "duration_hours": 2.7,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A458",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Kutch Museum",
+      "price": 2534.98,
+      "duration_hours": 4.6,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Rann_of_Kutch_A459",
+      "dest_id": "Rann_of_Kutch",
+      "name": "Rann Utsav",
+      "price": 2438.77,
+      "duration_hours": 4.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madurai_A460",
+      "dest_id": "Madurai",
+      "name": "Meenakshi Amman Temple",
+      "price": 4141.32,
+      "duration_hours": 3.7,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Madurai_A461",
+      "dest_id": "Madurai",
+      "name": "Thirumalai Nayakkar Palace",
+      "price": 2940.05,
+      "duration_hours": 2.7,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Madurai_A462",
+      "dest_id": "Madurai",
+      "name": "Gandhi Memorial Museum",
+      "price": 643.02,
+      "duration_hours": 1.4,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Madurai_A463",
+      "dest_id": "Madurai",
+      "name": "Alagar Koyil",
+      "price": 504.96,
+      "duration_hours": 3.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madurai_A464",
+      "dest_id": "Madurai",
+      "name": "Pazhamudir Solai",
+      "price": 4931.53,
+      "duration_hours": 1.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madurai_A465",
+      "dest_id": "Madurai",
+      "name": "Vandiyur Mariamman Teppakulam",
+      "price": 1591.25,
+      "duration_hours": 5.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madurai_A466",
+      "dest_id": "Madurai",
+      "name": "Thirupparankundram Temple",
+      "price": 4868.87,
+      "duration_hours": 2.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Madurai_A467",
+      "dest_id": "Madurai",
+      "name": "Puthu Mandapam",
+      "price": 515.5,
+      "duration_hours": 2.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madurai_A468",
+      "dest_id": "Madurai",
+      "name": "Samanar Hills",
+      "price": 2603.2,
+      "duration_hours": 2.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Madurai_A469",
+      "dest_id": "Madurai",
+      "name": "Banana Market",
+      "price": 3949.98,
+      "duration_hours": 2.6,
+      "category": "Shopping/Food"
+    },
+    {
+      "activity_id": "Puri_A470",
+      "dest_id": "Puri",
+      "name": "Jagannath Temple",
+      "price": 4877.41,
+      "duration_hours": 1.0,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Puri_A471",
+      "dest_id": "Puri",
+      "name": "Puri Beach",
+      "price": 1237.58,
+      "duration_hours": 1.6,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Puri_A472",
+      "dest_id": "Puri",
+      "name": "Golden Beach",
+      "price": 554.84,
+      "duration_hours": 2.9,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Puri_A473",
+      "dest_id": "Puri",
+      "name": "Konark Sun Temple",
+      "price": 652.44,
+      "duration_hours": 3.4,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Puri_A474",
+      "dest_id": "Puri",
+      "name": "Chandrabhaga Beach",
+      "price": 2061.09,
+      "duration_hours": 1.8,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Puri_A475",
+      "dest_id": "Puri",
+      "name": "Raghurajpur Artist Village",
+      "price": 4827.48,
+      "duration_hours": 5.7,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Puri_A476",
+      "dest_id": "Puri",
+      "name": "Pipili Applique Village",
+      "price": 1593.63,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Puri_A477",
+      "dest_id": "Puri",
+      "name": "Gundicha Temple",
+      "price": 4601.34,
+      "duration_hours": 4.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Puri_A478",
+      "dest_id": "Puri",
+      "name": "Markandeshwar Temple",
+      "price": 873.01,
+      "duration_hours": 3.3,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Puri_A479",
+      "dest_id": "Puri",
+      "name": "Chilika Lake Day Trip",
+      "price": 1989.31,
+      "duration_hours": 3.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rajasthan_A480",
+      "dest_id": "Rajasthan",
+      "name": "Jaipur",
+      "price": 2097.84,
+      "duration_hours": 1.3,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A481",
+      "dest_id": "Rajasthan",
+      "name": "Udaipur",
+      "price": 3179.8,
+      "duration_hours": 1.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A482",
+      "dest_id": "Rajasthan",
+      "name": "Jodhpur",
+      "price": 1097.53,
+      "duration_hours": 3.2,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A483",
+      "dest_id": "Rajasthan",
+      "name": "Jaisalmer",
+      "price": 4515.13,
+      "duration_hours": 2.8,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A484",
+      "dest_id": "Rajasthan",
+      "name": "Pushkar",
+      "price": 1787.13,
+      "duration_hours": 2.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A485",
+      "dest_id": "Rajasthan",
+      "name": "Ranthambore National Park",
+      "price": 3947.2,
+      "duration_hours": 5.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Rajasthan_A486",
+      "dest_id": "Rajasthan",
+      "name": "Mount Abu",
+      "price": 2311.12,
+      "duration_hours": 3.4,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A487",
+      "dest_id": "Rajasthan",
+      "name": "Chittorgarh Fort",
+      "price": 3986.38,
+      "duration_hours": 2.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Rajasthan_A488",
+      "dest_id": "Rajasthan",
+      "name": "Bikaner",
+      "price": 3950.93,
+      "duration_hours": 2.9,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Rajasthan_A489",
+      "dest_id": "Rajasthan",
+      "name": "Kumbhalgarh Fort",
+      "price": 4970.55,
+      "duration_hours": 4.9,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A490",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Khajuraho Temples",
+      "price": 1911.57,
+      "duration_hours": 4.1,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A491",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Sanchi Stupa",
+      "price": 2609.45,
+      "duration_hours": 4.6,
+      "category": "Religious/Spiritual"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A492",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Bhimbetka Rock Shelters",
+      "price": 4147.7,
+      "duration_hours": 3.5,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A493",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Kanha National Park",
+      "price": 3338.02,
+      "duration_hours": 2.1,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A494",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Bandhavgarh National Park",
+      "price": 3086.97,
+      "duration_hours": 3.2,
+      "category": "Nature"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A495",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Ujjain Mahakaleshwar",
+      "price": 4174.87,
+      "duration_hours": 3.6,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A496",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Orchha Fort",
+      "price": 2450.68,
+      "duration_hours": 1.5,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A497",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Gwalior Fort",
+      "price": 1169.16,
+      "duration_hours": 5.0,
+      "category": "Heritage"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A498",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Pachmarhi",
+      "price": 4902.54,
+      "duration_hours": 5.1,
+      "category": "Sightseeing"
+    },
+    {
+      "activity_id": "Madhya_Pradesh_A499",
+      "dest_id": "Madhya_Pradesh",
+      "name": "Bhojpur Temple",
+      "price": 3153.9,
+      "duration_hours": 3.1,
+      "category": "Religious/Spiritual"
+    }
+  ],
+  "dest_avg_ratings": {
+    "Agra": 2.88,
+    "Ajanta_Ellora": 2.65,
+    "Amritsar": 2.63,
+    "Andaman": 3.07,
+    "Bengaluru": 3.74,
+    "Bodh_Gaya": 3.54,
+    "Chennai": 3.12,
+    "Coorg": 3.05,
+    "Darjeeling": 2.35,
+    "Delhi": 2.45,
+    "Goa": 3.88,
+    "Gokarna": 3.09,
+    "Hampi": 3.6,
+    "Hyderabad": 3.1,
+    "Jaipur": 2.99,
+    "Jaisalmer": 3.64,
+    "Jim_Corbett": 2.63,
+    "Jodhpur": 2.65,
+    "Kaziranga": 3.8,
+    "Kerala": 3.22,
+    "Khajuraho": 2.7,
+    "Kodaikanal": 2.75,
+    "Kolkata": 3.13,
+    "Kutch": 2.47,
+    "Lakshadweep": 2.68,
+    "Leh": 3.22,
+    "Madhya_Pradesh": 2.84,
+    "Madurai": 3.15,
+    "Mahabaleshwar": 3.17,
+    "Manali": 2.71,
+    "Meghalaya": 2.78,
+    "Mumbai": 3.71,
+    "Munnar": 2.99,
+    "Mysuru": 2.95,
+    "Nashik": 2.54,
+    "Ooty": 3.56,
+    "Pondicherry": 3.29,
+    "Puri": 4.19,
+    "Rajasthan": 3.5,
+    "Rann_of_Kutch": 3.21,
+    "Ranthambore": 3.14,
+    "Rishikesh": 3.54,
+    "Shimla": 2.9,
+    "Sikkim": 3.08,
+    "Srinagar": 3.24,
+    "Tawang": 3.36,
+    "Udaipur": 3.38,
+    "Varanasi": 3.22,
+    "Visakhapatnam": 2.66,
+    "Wayanad": 2.46
+  }
+}
